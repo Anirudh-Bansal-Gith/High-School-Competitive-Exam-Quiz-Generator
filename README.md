@@ -22,20 +22,27 @@ Files must be named exactly as follows for the logic to find them:
 
 ### Internal File Format
 Use `---` (three dashes) to separate questions.
+
 Example:
 What is the SI unit of force?
+
 A) Newton
+
 B) Joule
+
 C) Pascal
+
 D) Watt
+
 Answer: A
+
 ---
 Next question...
 
 ## ⚠️ Notes & Disclaimers
-* **OS Compatibility:** Optimized for Windows. On Linux (like BigLinux), quizzes exceeding 60 questions may experience scrolling glitches due to coordinate limits.
+* **OS Compatibility:** Optimized for Windows.On Linux, quizzes exceeding 60 questions may experience scrolling glitches due to coordinate limits.
 * **Question Accuracy:** The sample questions were AI-generated for testing. Their academic relevance has not been verified; please use your own question sets for actual study.
-* **Ethics:** UI optimization and event handling logic were developed with assistance from Google Gemini.
+* **Ethics:** UI optimization and event handling logic were developed with assistance from Ai.
 
 ## 🛠️ Requirements
 * Python 3.x

@@ -1,0 +1,7580 @@
+Match the following columns and select the correct option from the given codes. Column-I (Process) Column-II (Enzyme) A. DNA replication 1. DNA polymerase B. Transcription 2. RNA polymerase C. Translation 3. Ribonuclease D. Reverse transcription 4. Reverse transcriptase
+A) A-1, B-2, C-3, D-4
+B) A-2, B-1, C-4, D-3
+C) A-4, B-3, C-2, D-1
+D) A-3, B-4, C-1, D-2
+Answer: A
+---
+In the lac operon, the repressor protein binds to the operator in the absence of lactose. If a mutation occurs in the operator region making it unable to bind the repressor, the operon will be:
+A) Permanently repressed
+B) Constitutively expressed
+C) Inducible only in high glucose
+D) Repressed only in low lactose
+Answer: B
+---
+The diagram shows a stage in cell division. Identify the stage and the number of chromosomes if the diploid number is 14.
+[Diagram: Metaphase with 7 pairs of chromosomes aligned]
+A) Metaphase I, 14 chromosomes
+B) Anaphase II, 7 chromosomes
+C) Telophase I, 14 chromosomes
+D) Prophase II, 7 chromosomes
+Answer: A
+---
+In C3 plants, the first stable product of CO2 fixation is 3-PGA. Under photorespiration conditions, the CO2 acceptor RuBP is oxygenated instead of carboxylated. The enzyme responsible for oxygenation is:
+A) Rubisco
+B) PEP carboxylase
+C) Carbonic anhydrase
+D) Glycolate oxidase
+Answer: A
+---
+A person with blood group AB marries a person with blood group O. The possible blood groups of their children are:
+A) A and B only
+B) AB only
+C) O only
+D) A, B, AB, and O
+Answer: D
+---
+The lac operon is a classic example of inducible operon. Which of the following is an example of a repressible operon in prokaryotes?
+A) trp operon
+B) ara operon
+C) gal operon
+D) mal operon
+Answer: A
+---
+In Down's syndrome, the karyotype is 47, XX, +21. This is due to non-disjunction in:
+A) Meiosis I of both parents
+B) Meiosis II of mother only
+C) Meiosis I or II of either parent
+D) Mitosis in early embryonic cells
+Answer: C
+---
+The Hershey-Chase experiment used 32P and 35S to label DNA and protein, respectively. The radioactivity in progeny phages was primarily from:
+A) 35S in DNA
+B) 32P in protein
+C) 32P in DNA
+D) 35S in DNA
+Answer: C
+---
+In the Calvin cycle, the carbon fixation step involves RuBP + CO2 → 2 molecules of 3-PGA, catalyzed by Rubisco. If RuBP is limiting, the cycle halts at:
+A) Reduction phase
+B) Regeneration phase
+C) Carboxylation phase
+D) Decarboxylation phase
+Answer: C
+---
+A mutation in the beta-globin gene leads to sickle cell anemia. This is an example of:
+A) Frameshift mutation
+B) Point mutation (missense)
+C) Nonsense mutation
+D) Deletion mutation
+Answer: B
+---
+The diagram represents the human heart. Identify the chamber marked X that receives oxygenated blood from lungs.
+[Diagram: Left atrium]
+A) Right ventricle
+B) Left atrium
+C) Right atrium
+D) Left ventricle
+Answer: B
+---
+In glycolysis, glucose is converted to pyruvate yielding 2 ATP and 2 NADH. Under anaerobic conditions in muscles, pyruvate is reduced to lactate by:
+A) Pyruvate kinase
+B) Lactate dehydrogenase
+C) Enolase
+D) Phosphofructokinase
+Answer: B
+---
+The genetic code is degenerate, meaning multiple codons code for the same amino acid. The codon AUG codes for:
+A) Methionine and is start codon
+B) Stop signal
+C) Isoleucine
+D) Valine
+Answer: A
+---
+In pea plants, tall (T) is dominant over dwarf (t). A cross between Tt and tt gives 50% tall and 50% dwarf. If pollinated with pollen from a pure tall plant, the progeny ratio will be:
+A) 75% tall, 25% dwarf
+B) 100% tall
+C) 50% tall, 50% dwarf
+D) 25% tall, 75% dwarf
+Answer: B
+---
+The Hardy-Weinberg equilibrium assumes no mutation, migration, selection, or drift. In a population with p=0.7 (A) and q=0.3 (a), the frequency of heterozygotes is:
+A) 0.42
+B) 0.49
+C) 0.09
+D) 0.21
+Answer: A
+---
+The electron transport chain in mitochondria creates a proton gradient. The enzyme that allows protons to flow back, synthesizing ATP, is:
+A) Cytochrome c oxidase
+B) ATP synthase
+C) Ubiquinone
+D) NADH dehydrogenase
+Answer: B
+---
+In humans, the Y chromosome determines maleness. The SRY gene on Y chromosome initiates:
+A) Testicular development
+B) Ovarian development
+C) XX pairing
+D) X inactivation
+Answer: A
+---
+The diagram shows DNA replication. Identify the leading strand and the enzyme adding nucleotides continuously.
+[Diagram: Fork with one strand 5'→3' continuous]
+A) Lagging strand, DNA polymerase I
+B) Leading strand, DNA polymerase III
+C) Lagging strand, Primase
+D) Leading strand, Ligase
+Answer: B
+---
+In MHC class I, antigens are presented to CD8+ T cells. These cells are:
+A) Helper T cells
+B) Cytotoxic T cells
+C) B cells
+D) Macrophages
+Answer: B
+---
+The lac operon has structural genes lacZ, lacY, lacA. The promoter is where RNA polymerase binds, but transcription requires:
+A) CAP-cAMP complex in low glucose
+B) Repressor in high lactose
+C) Operator in low lactose
+D) Terminator in high glucose
+Answer: A
+---
+A pedigree shows autosomal recessive inheritance for albinism. If both parents are carriers, the probability of an affected child is:
+A) 1/4
+B) 1/2
+C) 3/4
+D) 1
+Answer: A
+---
+In the Calvin cycle, 6 turns fix 6 CO2 to produce one glucose. The number of ATP used is:
+A) 18
+B) 12
+C) 30
+D) 6
+Answer: A
+---
+The wobble hypothesis explains why there are only 5 tRNAs for some amino acids. It allows the third base of codon to:
+A) Pair loosely with anticodon
+B) Form hydrogen bonds strictly
+C) Be deleted
+D) Mutate frequently
+Answer: A
+---
+In E. coli, conjugation transfers DNA via sex pilus. The F plasmid is:
+A) Chromosomal
+B) Fertility factor (episome)
+C) Lysogenic phage
+D) Restriction enzyme
+Answer: B
+---
+The diagram shows the nephron. Identify the site of glucose reabsorption.
+[Diagram: Proximal convoluted tubule]
+A) Distal convoluted tubule
+B) Loop of Henle
+C) Proximal convoluted tubule
+D) Collecting duct
+Answer: C
+---
+In the TCA cycle, one acetyl CoA produces 3 NADH, 1 FADH2, and 1 GTP. The total reducing equivalents for 2 acetyl CoA (one glucose) is:
+A) 10 NADH + 2 FADH2
+B) 8 NADH + 2 FADH2
+C) 6 NADH + 2 FADH2
+D) 4 NADH + 4 FADH2
+Answer: B
+---
+Huntington's disease is autosomal dominant with late onset. If a 40-year-old father is affected, the risk to each child is:
+A) 50%
+B) 25%
+C) 100%
+D) 0%
+Answer: A
+---
+The central dogma is DNA → RNA → Protein. Reverse transcriptase in retroviruses transcribes:
+A) RNA to DNA
+B) DNA to RNA
+C) Protein to RNA
+D) RNA to protein
+Answer: A
+---
+In photorespiration, Rubisco oxygenates RuBP, producing 3-PGA and phosphoglycolate. The latter is toxic and detoxified in:
+A) Peroxisomes and mitochondria
+B) Chloroplast only
+C) Cytosol
+D) Nucleus
+Answer: A
+---
+The diagram shows restriction enzyme action. If EcoRI cuts at GAATTC, the sticky ends produced are:
+[Diagram: Double strand with overhang]
+A) 5' AATT 3'
+B) 3' AATT 5'
+C) Blunt ends
+D) 5' TCGA 3'
+Answer: A
+---
+In humans, color blindness is X-linked recessive. A carrier female and normal male have:
+A) 50% carrier daughters, 50% affected sons
+B) All normal children
+C) 25% affected daughters
+D) 100% affected sons
+Answer: A
+---
+The splicing of introns from hnRNA requires:
+A) Spliceosome (snRNPs)
+B) DNA ligase
+C) RNA polymerase
+D) Exonuclease
+Answer: A
+---
+In the nitrogen cycle, nitrifying bacteria convert NH3 to NO2- and NO3-. The organism for NH3 to NO2- is:
+A) Nitrosomonas
+B) Nitrobacter
+C) Rhizobium
+D) Azotobacter
+Answer: A
+---
+A point mutation changes UAC (tyrosine) to UAA (stop). This is a:
+A) Nonsense mutation
+B) Missense mutation
+C) Silent mutation
+D) Frameshift mutation
+Answer: A
+---
+In the human genome, satellite DNA consists of:
+A) Highly repetitive short sequences
+B) Unique genes
+C) Introns only
+D) Exons only
+Answer: A
+---
+The diagram shows the action potential. The depolarization phase is due to influx of:
+[Diagram: Na+ channels open]
+A) Na+
+B) K+
+C) Ca2+
+D) Cl-
+Answer: A
+---
+In C4 plants, the Hatch-Slack pathway minimizes photorespiration. The first CO2 acceptor is:
+A) PEP
+B) RuBP
+C) PGA
+D) Oxaloacetate
+Answer: A
+---
+The Okazaki fragments on lagging strand are joined by:
+A) DNA ligase
+B) DNA polymerase I
+C) Primase
+D) Helicase
+Answer: A
+---
+In ecological succession, the stable climax community is determined by:
+A) Climate and soil
+B) Seed dispersal only
+C) Pioneer species
+D) Human intervention
+Answer: A
+---
+The probability of a child being color blind if mother is carrier and father is normal is:
+A) 25% (sons only)
+B) 50% (daughters only)
+C) 50% (sons only)
+D) 25% (all children)
+Answer: C
+---
+In the electron transport chain, complex IV transfers electrons to O2, forming water. The number of protons pumped by complex III is:
+A) 4 per 2 electrons
+B) 2 per 2 electrons
+C) 6 per 2 electrons
+D) 0 per 2 electrons
+Answer: A
+---
+The diagram shows PCR amplification. The role of Taq polymerase is:
+[Diagram: Denaturation, annealing, extension]
+A) DNA synthesis at high temperature
+B) Primer annealing
+C) Denaturation
+D) Gel electrophoresis
+Answer: A
+---
+In sickle cell anemia, the mutation is in beta-globin gene at position 6 (Glu → Val). This causes polymerization under low O2 due to:
+A) Hydrophobic interaction
+B) Hydrogen bonding
+C) Ionic bonding
+D) Covalent bonding
+Answer: A
+---
+The lacI gene codes for repressor. A lacI- mutation leads to:
+A) Constitutive expression
+B) No expression
+C) Inducible expression
+D) Glucose repression
+Answer: A
+---
+In the Calvin cycle, the regeneration of RuBP requires:
+A) 3 ATP per CO2 fixed
+B) 2 ATP per CO2 fixed
+C) 1 ATP per CO2 fixed
+D) No ATP
+Answer: A
+---
+The human microbiome in gut aids digestion and immunity. The dominant phylum is:
+A) Firmicutes
+B) Bacteroidetes
+C) Actinobacteria
+D) Proteobacteria
+Answer: A
+---
+A cross between AaBb and aabb gives 1:1:1:1 ratio. This is due to:
+A) Independent assortment
+B) Linkage
+C) Codominance
+D) Incomplete dominance
+Answer: A
+---
+The diagram shows the lac operon. The i gene is:
+[Diagram: Regulator gene upstream]
+A) Constitutively expressed
+B) Inducible
+C) Repressed
+D) Mutated
+Answer: A
+---
+In DNA fingerprinting, VNTRs are used because they are:
+A) Highly polymorphic
+B) Conserved sequences
+C) Introns only
+D) Exons only
+Answer: A
+---
+The sliding filament theory in muscle contraction involves:
+A) Ca2+ binding to troponin, exposing myosin sites
+B) ATP hydrolysis by actin
+C) K+ influx
+D) Na+ efflux
+Answer: A
+---
+In biodiversity hotspots, endemism is high due to:
+A) Habitat isolation
+B) Climate change
+C) Migration
+D) Competition
+Answer: A
+---
+The number of Barr bodies in Turner syndrome (XO) is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: A
+---
+In the TCA cycle, isocitrate to alpha-ketoglutarate is oxidative decarboxylation by:
+A) Isocitrate dehydrogenase
+B) Succinate dehydrogenase
+C) Malate dehydrogenase
+D) Aconitase
+Answer: A
+---
+The diagram shows restriction site. The number of fragments from a linear DNA cut once is:
+[Diagram: Single cut site]
+A) 2
+B) 1
+C) 4
+D) 3
+Answer: A
+---
+In ex vivo gene therapy, cells are:
+A) Removed, modified, reintroduced
+B) Modified in body
+C) Viral vector injected
+D) CRISPR edited in embryo
+Answer: A
+---
+The frequency of recombinant progeny in a test cross for linked genes with 20 map units is:
+A) 20%
+B) 40%
+C) 10%
+D) 50%
+Answer: A
+---
+In the human heart, the pacemaker is:
+A) SA node
+B) AV node
+C) Purkinje fibers
+D) Bundle of His
+Answer: A
+---
+The Golden Rice is engineered for vitamin A by inserting genes for:
+A) Beta-carotene synthesis
+B) Iron absorption
+C) Protein quality
+D) Drought resistance
+Answer: A
+---
+A nonsense mutation in a gene leads to truncated protein. If it occurs in exon 2 of 5, the effect is:
+A) Loss of function
+B) Gain of function
+C) Silent
+D) Missense
+Answer: A
+---
+In the nitrogenase enzyme complex, the role of ferredoxin is:
+A) Electron donor
+B) Mo-Fe protein
+C) ATP hydrolysis
+D) O2 protection
+Answer: A
+---
+The diagram shows the nephron loop. The countercurrent multiplier in loop of Henle creates:
+[Diagram: Ascending and descending limbs]
+A) Hypertonic medulla
+B) Hypotonic filtrate
+C) Glucose reabsorption
+D) Urea secretion
+Answer: A
+---
+In operon model, the attenuator in trp operon causes:
+A) Premature termination in low tryptophan
+B) Initiation in high tryptophan
+C) Repression in low tryptophan
+D) Induction in high tryptophan
+Answer: A
+---
+The probability of XXY in Klinefelter syndrome from non-disjunction in paternal meiosis II is:
+A) 50% of XXY cases
+B) 0%
+C) 100%
+D) 25%
+Answer: A
+---
+In photorespiration, the C2 cycle starts with glycolate in peroxisome, ending with:
+A) 3/4 CO2 release
+B) Glucose synthesis
+C) ATP production
+D) O2 consumption only
+Answer: A
+---
+The wobble base in anticodon allows:
+A) Non-standard pairing for degeneracy
+B) Strict Watson-Crick pairing
+C) Frameshift
+D) Stop codon recognition
+Answer: A
+---
+In ecological pyramids, the pyramid of numbers in a forest ecosystem is:
+A) Upright
+B) Inverted for parasites
+C) Spindle shaped
+D) Bell shaped
+Answer: B
+---
+The diagram shows DNA ligase action. It joins Okazaki fragments by forming:
+[Diagram: Phosphodiester bond]
+A) 3' - 5' linkage
+B) 5' - 3' linkage
+C) Hydrogen bond
+D) Peptide bond
+Answer: A
+---
+In human evolution, the genus Homo first appeared in:
+A) Pleistocene
+B) Miocene
+C) Pliocene
+D) Oligocene
+Answer: A
+---
+The lac operon CAP site binds cAMP-CAP in:
+A) Low glucose, high lactose
+B) High glucose, low lactose
+C) High glucose, high lactose
+D) Low glucose, low lactose
+Answer: A
+---
+A frameshift mutation adds one base, shifting reading frame. The effect is:
+A) All downstream amino acids changed
+B) Only one amino acid changed
+C) No change
+D) Stop codon created
+Answer: A
+---
+In the ETC, the P/O ratio for NADH is approximately:
+A) 2.5
+B) 1.5
+C) 3
+D) 1
+Answer: A
+---
+The diagram shows the floral whorls. ABC model: A alone gives sepals, A+B petals, B+C stamens, C alone carpels. If B is mutated:
+A) Sepals, sepals, carpels
+B) Petals, petals, stamens
+C) Sepals, carpels, carpels
+D) Stamens, stamens, sepals
+Answer: A
+---
+In biodiversity, the species richness is highest in:
+A) Tropical rainforests
+B) Temperate grasslands
+C) Deserts
+D) Tundra
+Answer: A
+---
+The number of linkage groups in humans is:
+A) 23
+B) 46
+C) 22
+D) 24
+Answer: A
+---
+In the kidney, ADH increases water reabsorption in:
+A) Collecting duct
+B) Proximal tubule
+C) Distal tubule
+D) Loop of Henle
+Answer: A
+---
+The Golden ratio in Fibonacci sequence approximates:
+A) Phyllotaxis in plants
+B) Human DNA base pairs
+C) ATP molecules in glycolysis
+D) Ribosomes in cell
+Answer: A
+---
+A silent mutation changes codon but not amino acid due to:
+A) Degeneracy of code
+B) Wobble
+C) Complementation
+D) Suppression
+Answer: A
+---
+In the diagram of restriction digestion, a 4 kb plasmid cut with EcoRI and HindIII yields 3 fragments. Number of sites:
+A) 2 for each enzyme
+B) 1 for each
+C) 3 for EcoRI
+D) 1 total
+Answer: A
+---
+The probability of hemophilia in a child if mother is carrier and father hemophiliac is:
+A) 50% (sons), 100% (daughters)
+B) 100% (sons)
+C) 50% all children
+D) 25% sons only
+Answer: A
+---
+In C3 vs C4, the advantage of C4 in hot dry conditions is:
+A) Higher CO2 concentration at Rubisco
+B) Lower water loss
+C) Both A and B
+D) Faster glycolysis
+Answer: C
+---
+The attenuator sequence in trp operon forms hairpin in:
+A) Low tryptophan (anti-terminator)
+B) High tryptophan (terminator)
+C) No RNA polymerase
+D) Mutation in leader peptide
+Answer: B
+---
+In human karyotype, acrocentric chromosomes are:
+A) 13, 14, 15, 21, 22, Y
+B) 1, 2, 3
+C) 4, 5
+D) All metacentric
+Answer: A
+---
+The diagram shows the action spectrum of photosynthesis. The Emerson enhancement effect shows:
+A) Red + far-red light synergy
+B) Blue light alone
+C) Green light absorption
+D) UV damage
+Answer: A
+---
+In gene therapy for ADA deficiency, the gene is inserted using:
+A) Retroviral vector in lymphocytes
+B) Plasmid in bone marrow
+C) CRISPR in embryo
+D) AAV in liver
+Answer: A
+---
+The number of Barr bodies in XXX female is:
+A) 2
+B) 1
+C) 0
+D) 3
+Answer: A
+---
+In the ETC, cyanide inhibits:
+A) Complex IV
+B) Complex I
+C) ATP synthase
+D) Complex II
+Answer: A
+---
+The wobble position in codon-anticodon pairing allows:
+A) G-U pairing
+B) A-C pairing
+C) Strict A-U
+D) No pairing
+Answer: A
+---
+In succession, the hydrosere starts with:
+A) Phytoplankton
+B) Lichens
+C) Grasses
+D) Shrubs
+Answer: A
+---
+The diagram shows Southern blotting. The probe hybridizes to:
+A) Specific DNA fragment
+B) RNA
+C) Protein
+D) All fragments
+Answer: A
+---
+In evolution, analogous structures are due to:
+A) Convergent evolution
+B) Divergent evolution
+C) Homology
+D) Vestigial organs
+Answer: A
+---
+The lac operon is catabolite repressed by glucose via:
+A) Low cAMP, no CAP binding
+B) High repressor
+C) Operator mutation
+D) Promoter deletion
+Answer: A
+---
+A transversion mutation changes purine to pyrimidine. Example: A to C in codon is:
+A) Transition
+B) Transversion
+C) Insertion
+D) Deletion
+Answer: B
+---
+In the diagram of glycolysis, the step from fructose-1,6-bisphosphate to glyceraldehyde-3-P is catalyzed by:
+[Diagram: Aldolase]
+A) Aldolase
+B) Hexokinase
+C) PFK-1
+D) Enolase
+Answer: A
+---
+The probability of independent assortment for two genes is violated if:
+A) Linked on same chromosome
+B) On different chromosomes
+C) Recessive alleles
+D) Homozygous
+Answer: A
+---
+In the human brain, the Wernicke's area is for:
+A) Speech comprehension
+B) Motor control
+C) Vision
+D) Hearing
+Answer: A
+---
+Bt cotton expresses cry gene toxin against:
+A) Bollworm
+B) Weevil
+C) Aphid
+D) Fungus
+Answer: A
+---
+The diagram shows the DNA double helix. The major groove is where:
+[Diagram: Wider space]
+A) Regulatory proteins bind
+B) Replication fork forms
+C) Transcription starts
+D) Methylation occurs
+Answer: A
+---
+In population genetics, genetic drift is more pronounced in:
+A) Small populations
+B) Large populations
+C) Mutating populations
+D) Migrating populations
+Answer: A
+---
+The number of chiasmata in meiosis I per bivalent is typically:
+A) 1-3
+B) 0
+C) 4
+D) Unlimited
+Answer: A
+---
+In the kidney, the juxtaglomerular apparatus regulates:
+A) Blood pressure via renin
+B) Glucose levels
+C) pH balance
+D) Water only
+Answer: A
+---
+The Golden Rice-2 has higher beta-carotene due to:
+A) psy and crtl genes
+B) Bt toxin
+C) RNAi
+D) Zinc transporter
+Answer: A
+---
+A suppressor mutation restores function by:
+A) Second mutation compensating first
+B) Reversion to wild type
+C) Deletion
+D) Insertion
+Answer: A
+---
+In the TCA cycle, the CO2 released in one turn comes from:
+A) Isocitrate and alpha-KG
+B) Succinyl CoA
+C) Fumarate
+D) Oxaloacetate
+Answer: A
+---
+The diagram shows the floral formula. For Solanaceae, it is:
+[Diagram: Br Br P (5) A (5) G (2)]
+A) * ⚥ K_(5) C_(5) A_(5) G_(2)
+B) ⊕ ⚥ K_(2+3) C_(5) A_(5) G_(2)
+C) * ⚥ K_(5) C_(5) A_(2+4) G_(1)
+D) ⊕ ⚥ K_(3) C_(3) A_(3) G_(3)
+Answer: A
+---
+In biodiversity conservation, in situ includes:
+A) National parks and sanctuaries
+B) Seed banks
+C) Zoos
+D) Botanical gardens
+Answer: A
+---
+The lacY gene in lac operon codes for:
+A) Beta-galactosidase
+B) Permease
+C) Transacetylase
+D) Repressor
+Answer: B
+---
+In the diagram of restriction endonuclease, the palindromic sequence for HindIII is:
+[Diagram: AAGCTT]
+A) 5' AAGCTT 3'
+B) 3' TTCGAA 5'
+C) Both A and B
+D) Blunt
+Answer: C
+---
+The probability of a female child being affected in X-linked dominant disorder if mother affected, father normal is:
+A) 50%
+B) 100%
+C) 0%
+D) 25%
+Answer: A
+---
+In photorespiration, the glycine decarboxylase is in:
+A) Mitochondria
+B) Chloroplast
+C) Peroxisome
+D) Cytosol
+Answer: A
+---
+The number of exons in beta-globin gene is:
+A) 3
+B) 2
+C) 4
+D) 1
+Answer: A
+---
+In the ETC, uncouplers like DNP dissipate:
+A) Proton gradient without ATP synthesis
+B) Electron flow
+C) NADH production
+D) O2 consumption
+Answer: A
+---
+The diagram shows the pedigree for autosomal dominant. Affected individuals are shaded. The probability for offspring of I-1 and II-2 is:
+[Diagram: Standard pedigree]
+A) 50% affected
+B) 25% affected
+C) 75% affected
+D) 0% affected
+Answer: A
+---
+In evolution, the founder effect is a type of:
+A) Genetic drift
+B) Natural selection
+C) Mutation
+D) Gene flow
+Answer: A
+---
+The wobble hypothesis was proposed by:
+A) Francis Crick
+B) Watson
+C) Meselson
+D) Franklin
+Answer: A
+---
+In the Calvin cycle, the carbon fixation enzyme has dual activity: carboxylase and:
+A) Oxygenase
+B) Decarboxylase
+C) Kinase
+D) Isomerase
+Answer: A
+---
+A transition mutation changes purine to purine. Example: A to G is:
+A) Transition
+B) Transversion
+C) Synonymous
+D) Non-synonymous
+Answer: A
+---
+The diagram shows the lac operon induction. Allolactose binds to:
+[Diagram: Repressor release]
+A) Operator
+B) Repressor
+C) Promoter
+D) CAP site
+Answer: B
+---
+In human physiology, the RQ for carbohydrate is 1.0, for fat is 0.7. For protein it is approximately:
+A) 0.8
+B) 1.2
+C) 0.5
+D) 1.5
+Answer: A
+---
+The number of satellite chromosomes in humans is:
+A) 5 pairs
+B) 1 pair
+C) 23 pairs
+D) 0
+Answer: A
+---
+In the kidney, the vasa recta maintains:
+A) Countercurrent exchange
+B) Filtration pressure
+C) Glucose gradient
+D) pH balance
+Answer: A
+---
+The Bt brinjal controversy involved:
+A) Cry1Ac gene for fruit borer resistance
+B) Golden rice genes
+C) RNAi for virus
+D) Zinc fingers
+Answer: A
+---
+The diagram shows the DNA replication bubble. The origin of replication is where:
+[Diagram: Bidirectional forks]
+A) Theta structure forms
+B) Lagging strand only
+C) Leading strand ends
+D) Telomeres are
+Answer: A
+---
+In population dynamics, the carrying capacity (K) in logistic growth is determined by:
+A) Resources and competition
+B) Migration
+C) Mutation rate
+D) Predation only
+Answer: A
+---
+The probability of trisomy 21 from maternal meiosis I non-disjunction is higher due to:
+A) Older maternal age
+B) Paternal age
+C) Environmental factors
+D) Diet
+Answer: A
+---
+In the TCA cycle, the FADH2 is produced in:
+A) Succinate to fumarate
+B) Isocitrate to alpha-KG
+C) Malate to oxaloacetate
+D) Citrate to isocitrate
+Answer: A
+---
+The Golden ratio (1.618) is observed in:
+A) Spiral phyllotaxy
+B) Linear growth
+C) Exponential decay
+D) Logistic curve
+Answer: A
+---
+A conditional mutation expresses phenotype only under:
+A) Specific temperature or medium
+B) Always
+C) Never
+D) Lethal
+Answer: A
+---
+In the diagram of glycolysis, the irreversible steps are catalyzed by:
+[Diagram: Key enzymes]
+A) Hexokinase, PFK, Pyruvate kinase
+B) All enzymes
+C) Reversible ones only
+D) 2
+Answer: A
+---
+The number of linkage groups in Drosophila is:
+A) 4
+B) 23
+C) 8
+D) 6
+Answer: A
+---
+In the human ear, the organ of Corti is in:
+A) Cochlea
+B) Semicircular canals
+C) Utricle
+D) Eustachian tube
+Answer: A
+---
+The RNAi technique silences genes using:
+A) dsRNA processed to siRNA
+B) miRNA only
+C) Antisense DNA
+D) Sense RNA
+Answer: A
+---
+The diagram shows the food chain. The trophic level with least biomass in pyramid of biomass is:
+[Diagram: Producers → herbivores → carnivores]
+A) Top carnivores
+B) Producers
+C) Herbivores
+D) Decomposers
+Answer: A
+---
+In evolution, saltation refers to:
+A) Sudden large mutations (hopeful monsters)
+B) Gradual change
+C) Adaptive radiation
+D) Convergent evolution
+Answer: A
+---
+The lac operon structural genes are transcribed as:
+A) Polycistronic mRNA
+B) Monocistronic
+C) tRNA
+D) rRNA
+Answer: A
+---
+In the diagram of restriction mapping, if two enzymes cut at different sites, the number of fragments from double digest is:
+[Diagram: Overlapping cuts]
+A) Sum of single digests minus 1
+B) Product
+C) Same as single
+D) 1
+Answer: A
+---
+The probability of a son being color blind if both parents have normal vision but maternal grandfather color blind is:
+A) 50%
+B) 0%
+C) 25%
+D) 100%
+Answer: A
+---
+In photorespiration, the advantage in C3 plants under water stress is:
+A) Conserves CO2 when stomata closed
+B) Produces ATP
+C) Fixes nitrogen
+D) No advantage
+Answer: D
+---
+The number of tRNA types needed if no wobble is:
+A) 61
+B) 20
+C) 64
+D) 45
+Answer: A
+---
+In the ETC, the Q-cycle in complex III pumps extra protons via:
+A) Ubiquinone reduction/oxidation
+B) Cytochrome c
+C) F0 subunit
+D) Matrix
+Answer: A
+---
+The diagram shows the pedigree for X-linked recessive. Shaded squares are affected males. The genotype of II-2 (unaffected female) is:
+[Diagram: Carrier mother]
+A) X^h X^H
+B) X^h X^h
+C) X^H X^H
+D) Y
+Answer: A
+---
+In biodiversity, the IUCN Red List status for critically endangered species requires:
+A) >90% decline in 10 years or 3 generations
+B) 50% decline
+C) Stable population
+D) Introduced species
+Answer: A
+---
+The operator in lac operon overlaps:
+A) Promoter
+B) Structural genes
+C) Regulator gene
+D) Terminator
+Answer: A
+---
+A inversion mutation in chromosome can lead to:
+A) Position effect variegation
+B) No crossing over
+C) Duplication
+D) Translocation
+Answer: B
+---
+In the diagram of Kreb's cycle, the substrate level phosphorylation occurs at:
+[Diagram: Succinyl CoA synthetase]
+A) Succinyl CoA to succinate
+B) Alpha-KG to succinyl CoA
+C) Fumarate to malate
+D) Citrate to isocitrate
+Answer: A
+---
+The probability of identical twins being both affected in autosomal recessive if parents carriers is:
+A) 25%
+B) 50%
+C) 75%
+D) 100%
+Answer: D
+---
+In the Calvin cycle, the enzyme for reduction phase is:
+A) G3P dehydrogenase
+B) Rubisco
+C) Aldolase
+D) Transketolase
+Answer: A
+---
+The diagram shows the DNA footprinting. The protected region is where:
+[Diagram: No DNase cut]
+A) Protein binds
+B) Replication starts
+C) Transcription ends
+D) Methylation occurs
+Answer: A
+---
+In human physiology, the countercurrent exchanger in vasa recta prevents:
+A) Loss of osmotic gradient
+B) Filtration
+C) Secretion
+D) Reabsorption
+Answer: A
+---
+The Bt toxin crystal is activated by:
+A) Gut pH in insect
+B) Plant protease
+C) Bacterial enzyme
+D) Heat
+Answer: A
+---
+The number of sigma factors in E. coli for different promoters is:
+A) Multiple (sigma 70 common)
+B) One only
+C) None
+D) Rho dependent
+Answer: A
+---
+In the diagram of meiosis, the chiasma is seen in:
+[Diagram: Crossing over]
+A) Pachytene
+B) Leptotene
+C) Zygotene
+D) Diplotene
+Answer: D
+---
+The wobble allows one tRNA to recognize:
+A) Multiple codons for same AA
+B) Stop codons
+C) Initiation codon
+D) All codons
+Answer: A
+---
+In the ETC, rotenone inhibits:
+A) Complex I
+B) Complex II
+C) Complex III
+D) Complex IV
+Answer: A
+---
+The diagram shows the Hardy-Weinberg. If p=0.6, q=0.4, frequency of aa is:
+[Diagram: q²]
+A) 0.16
+B) 0.48
+C) 0.36
+D) 0.24
+Answer: A
+---
+In evolution, the neutral theory proposes most variation is:
+A) Due to genetic drift
+B) Adaptive
+C) Selected
+D) Deleterious
+Answer: A
+---
+The lacZ gene product hydrolyzes:
+A) Lactose to glucose + galactose
+B) Galactose to glucose
+C) Sucrose
+D) Maltose
+Answer: A
+---
+In the diagram of gel electrophoresis, the smallest fragment migrates:
+[Diagram: Agarose gel]
+A) Furthest
+B) Least
+C) Middle
+D) None
+Answer: A
+---
+The probability of a daughter being carrier in X-linked if father affected, mother normal is:
+A) 100%
+B) 50%
+C) 0%
+D) 25%
+Answer: A
+---
+In photorespiration, the salvage pathway recycles 75% carbon from glycolate to:
+A) 3-PGA
+B) RuBP
+C) Glucose
+D) Glycine
+Answer: A
+---
+The number of amino acids in human insulin is:
+A) 51
+B) 21
+C) 34
+D) 100
+Answer: A
+---
+In the TCA cycle, the GTP is equivalent to:
+A) ATP
+B) NADH
+C) FADH2
+D) CO2
+Answer: A
+---
+The diagram shows the operon. The rho factor is for:
+[Diagram: Transcription termination]
+A) Rho-dependent termination
+B) Initiation
+C) Elongation
+D) Splicing
+Answer: A
+---
+In biodiversity, the alpha diversity is:
+A) Within community species richness
+B) Between communities
+C) Genetic diversity
+D) Ecosystem diversity
+Answer: A
+---
+The operator constitutive mutation (o^c) in lac operon causes:
+A) Permanent expression
+B) No expression
+C) Inducible
+D) Repressible
+Answer: A
+---
+A deletion of 3 bases in a codon causes:
+A) One AA missing, frame intact
+B) Frameshift
+C) Stop
+D) Start
+Answer: A
+---
+In the diagram of respiratory quotient, RQ=0.7 indicates:
+[Diagram: Fat oxidation]
+A) Fat as substrate
+B) Carbohydrate
+C) Protein
+D) Mixed
+Answer: A
+---
+The linkage map distance between two genes is 10 cM, recombination frequency is:
+A) 10%
+B) 50%
+C) 5%
+D) 20%
+Answer: A
+---
+In the human eye, the blind spot is where:
+A) Optic nerve exits
+B) Fovea
+C) Cornea
+D) Iris
+Answer: A
+---
+The RNA interference uses Dicer to cleave:
+A) dsRNA to siRNA
+B) ssRNA
+C) mRNA directly
+D) tRNA
+Answer: A
+---
+The diagram shows the ecosystem. The detritivores are:
+[Diagram: Decomposers]
+A) Earthworms, fungi
+B) Producers
+C) Consumers
+D) Herbivores
+Answer: A
+---
+In evolution, peripatus is a living fossil linking:
+A) Annelids and arthropods
+B) Chordates and non-chordates
+C) Reptiles and birds
+D) Fish and amphibians
+Answer: A
+---
+The lacA gene codes for:
+A) Thiogalactoside transacetylase
+B) Permease
+C) Beta-galactosidase
+D) Repressor
+Answer: A
+---
+In the diagram of Southern blot, the transfer is to:
+[Diagram: Nitrocellulose membrane]
+A) Detect specific DNA
+B) Amplify RNA
+C) Sequence protein
+D) Clone genes
+Answer: A
+---
+The probability of both children being boys in two pregnancies is:
+A) 1/4
+B) 1/2
+C) 3/4
+D) 1
+Answer: A
+---
+In photorespiration, the glycine to serine step releases:
+A) CO2 and NH3
+B) O2
+C) ATP
+D) NADPH
+Answer: A
+---
+The number of restriction sites for a 6-cutter enzyme in 4 kb DNA (random) is approximately:
+A) 1
+B) 4
+C) 16
+D) 64
+Answer: A
+---
+In the ETC, the yield from one glucose via oxidative phosphorylation is:
+A) 32 ATP
+B) 38 ATP
+C) 2 ATP
+D) 8 ATP
+Answer: A
+---
+The diagram shows the pedigree for mitochondrial inheritance. Affected individuals inherit from:
+[Diagram: Maternal line]
+A) Mother only
+B) Father only
+C) Both parents
+D) Neither
+Answer: A
+---
+In population ecology, the Natality - Mortality = :
+A) Growth rate
+B) Carrying capacity
+C) Density
+D) Dispersion
+Answer: A
+---
+The promoter in eukaryotes has TATA box at:
+A) -25 bp
+B) +1
+C) -10
+D) -35
+Answer: A
+---
+A missense mutation in hemoglobin causes:
+A) Sickle cell (Glu to Val)
+B) Thalassemia (deletion)
+C) CFTR defect
+D) PKU
+Answer: A
+---
+In the diagram of Calvin cycle, the dark reactions produce:
+[Diagram: 6 CO2 → C6H12O6]
+A) G3P for glucose
+B) O2
+C) ATP
+D) NADPH
+Answer: A
+---
+The number of autosomes in humans is:
+A) 22 pairs
+B) 23 pairs
+C) 44
+D) 46
+Answer: A
+---
+In the kidney, the glomerular filtration rate is regulated by:
+A) Juxtaglomerular apparatus
+B) ADH
+C) Aldosterone
+D) Renin only
+Answer: A
+---
+The PUSA RH-10 variety of rice is hybrid for:
+A) High yield
+B) Disease resistance
+C) Vitamin A
+D) Salt tolerance
+Answer: A
+---
+The diagram shows the genetic code table. The codons for serine are:
+[Diagram: UCU, UCC, UCA, UCG, AGU, AGC]
+A) 6
+B) 4
+C) 2
+D) 1
+Answer: A
+---
+In evolution, the molecular clock assumes:
+A) Constant mutation rate
+B) Variable rate
+C) No selection
+D) Gene flow
+Answer: A
+---
+The rho-independent termination in transcription uses:
+A) Hairpin loop in RNA
+B) Protein factor
+C) CAP
+D) Repressor
+Answer: A
+---
+In the diagram of gel retardation assay, the shift indicates:
+[Diagram: Bound vs free DNA]
+A) Protein-DNA complex
+B) Free protein
+C) RNA hybrid
+D) mRNA
+Answer: A
+---
+The probability of a grandchild being affected in autosomal recessive if grandparents carriers is complex, but for one child carrier parent:
+A) 1/2 carrier, 1/4 affected
+B) Varies
+C) 0
+D) 1
+Answer: A
+---
+In photorespiration, the bundle sheath cells in C4 plants lack:
+A) PS I
+B) Rubisco oxygenation
+C) RuBP
+D) PEP
+Answer: B
+---
+The number of sigma bonds in ethane is:
+A) 7
+B) 6
+C) 1
+D) 5
+Answer: A
+---
+Wait, this is chemistry. Skip.
+Wait, all biology.
+The number of chromosomes in pollen mother cell of rice (2n=24) during meiosis I is:
+A) 24
+B) 12
+C) 48
+D) 6
+Answer: A
+---
+In the ETC, the cytochrome c is between:
+A) Complex III and IV
+B) I and II
+C) II and III
+D) IV and O2
+Answer: A
+---
+The diagram shows the lac repressor. It has 4 subunits, each binding:
+A) Allolactose
+B) Operator DNA
+C) CAP
+D) RNA pol
+Answer: B
+---
+In biodiversity, the edge effect in fragments leads to:
+A) Increased species loss
+B) Higher diversity
+C) Stable climax
+D) No change
+Answer: A
+---
+The operator is 20-30 bp long in lac operon, overlapping:
+A) Transcription start site
+B) -35 box
+C) +1 site
+D) Terminator
+Answer: A
+---
+A synonymous mutation is:
+A) Third base change, same AA
+B) First base, different AA
+C) Second base, stop
+D) Frameshift
+Answer: A
+---
+In the diagram of respiratory chain, the site of maximum H+ pumping is:
+[Diagram: Complex I, III, IV]
+A) All three
+B) Complex I only
+C) IV only
+D) II only
+Answer: A
+---
+The linkage phase in cis is:
+A) Both dominant on same chromosome
+B) Opposite
+C) Recessive together
+D) No linkage
+Answer: A
+---
+In the human lung, the surfactant is produced by:
+A) Type II alveolar cells
+B) Type I
+C) Macrophages
+D) Ciliated epithelium
+Answer: A
+---
+The Flavr Savr tomato uses:
+A) Antisense RNA for longer shelf life
+B) Bt toxin
+C) Bt for pest
+D) Golden genes
+Answer: A
+---
+The diagram shows the genetic map. If RF=0, genes are:
+[Diagram: 0 cM]
+A) Completely linked
+B) 50% recombinant
+C) Unlinked
+D) 100% recombinant
+Answer: A
+---
+In evolution, the Oparin-Haldane theory proposes origin of life in:
+A) Primordial soup
+B) Panspermia
+C) Creation
+D) Steady state
+Answer: A
+---
+The promoter strength in lac is weak compared to trp because:
+A) Fewer -10/-35 matches
+B) Strong repressor
+C) No CAP
+D) Short operator
+Answer: A
+---
+In the diagram of Northern blot, it detects:
+[Diagram: RNA transfer]
+A) mRNA expression
+B) DNA sequence
+C) Protein
+D) miRNA
+Answer: A
+---
+The probability of a phenotype in dihybrid test cross with linkage is:
+A) (1-r)/2 parental, r/2 recombinant
+B) 9:3:3:1
+C) 1:1:1:1
+D) 3:1
+Answer: A
+---
+In photorespiration, the pathway is favored when:
+A) High O2/CO2 ratio
+B) Low temperature
+C) High CO2
+D) Dark
+Answer: A
+---
+The number of initiation factors in eukaryotes for translation is more than prokaryotes due to:
+A) m7G cap scanning
+B) Shine-Dalgarno
+C) 30S subunit
+D) 70S ribosome
+Answer: A
+---
+In the TCA cycle, the number of decarboxylation steps is:
+A) 2
+B) 1
+C) 3
+D) 0
+Answer: A
+---
+The diagram shows the antibody structure. The variable region is in:
+[Diagram: Fab fragment]
+A) Antigen binding site
+B) Fc region
+C) Hinge
+D) Constant domain
+Answer: A
+---
+In biodiversity hotspots, the number of endemic species must be >:
+A) 2.5% of flora
+B) 50% of fauna
+C) All species
+D) 1%
+Answer: A
+---
+The operator in trp operon is adjacent to:
+A) Promoter
+B) Attenuator
+C) Structural genes
+D) Terminator
+Answer: A
+---
+A translocation between chromosome 9 and 22 causes:
+A) CML (Philadelphia chromosome)
+B) Down syndrome
+C) Turner
+D) Klinefelter
+Answer: A
+---
+In the diagram of action potential, the repolarization is due to:
+[Diagram: K+ efflux]
+A) K+ channels open
+B) Na+ influx
+C) Ca2+ entry
+D) Cl- efflux
+Answer: A
+---
+The linkage disequilibrium decays over generations due to:
+A) Recombination
+B) Selection
+C) Drift
+D) Mutation
+Answer: A
+---
+In the human genome, the percentage of coding DNA is:
+A) 2%
+B) 50%
+C) 98%
+D) 20%
+Answer: A
+---
+The diagram shows the lac operon CAP binding. It enhances transcription when:
+[Diagram: cAMP high]
+A) Glucose low
+B) Glucose high
+C) Lactose low
+D) Repressor bound
+Answer: A
+---
+In evolution, the punctuated equilibrium proposes:
+A) Rapid speciation in small populations
+B) Gradual change
+C) No change
+D) Cyclic
+Answer: A
+---
+The number of tRNA anticodons for 20 AA is:
+A) ~40 (wobble)
+B) 61
+C) 64
+D) 20
+Answer: A
+---
+In the ETC, the approximate ATP from FADH2 is:
+A) 1.5
+B) 2.5
+C) 3
+D) 4
+Answer: A
+---
+The diagram shows the pedigree for Y-linked. Affected males pass to:
+[Diagram: Only males]
+A) All sons
+B) All daughters
+C) Carrier daughters
+D) No offspring
+Answer: A
+---
+In population, the allele frequency remains constant if:
+A) H-W equilibrium
+B) Selection
+C) Drift
+D) Migration
+Answer: A
+---
+The promoter in prokaryotes has:
+A) -10 and -35 boxes
+B) TATA only
+C) CAAT only
+D) GC box
+Answer: A
+---
+A duplication mutation can lead to:
+A) Gene family evolution
+B) Loss of function
+C) Frameshift
+D) Stop
+Answer: A
+---
+In the diagram of K+ channel, the selectivity filter allows:
+A) K+ dehydration and rehydration
+B) Na+ passage
+C) Ca2+ block
+D) Cl- flow
+Answer: A
+---
+The coefficient of coincidence in three-point cross is <1 indicating:
+A) Interference
+B) No crossover
+C) Complete linkage
+D) Independent
+Answer: A
+---
+In the human skin, the melanocytes produce melanin in:
+A) Response to UV
+B) Always
+C) Low light
+D) Cold
+Answer: A
+---
+The P53 gene is a:
+A) Tumor suppressor
+B) Oncogene
+C) Housekeeping
+D) Structural
+Answer: A
+---
+The diagram shows the miRNA biogenesis. Dicer cleaves pre-miRNA to:
+[Diagram: ~22 nt duplex]
+A) Mature miRNA
+B) pri-miRNA
+C) siRNA
+D) hnRNA
+Answer: A
+---
+In evolution, the analogous organs like wings of bat and bird show:
+A) Convergent evolution
+B) Divergent
+C) Parallel
+D) Homology
+Answer: A
+---
+The rho factor in transcription termination requires:
+A) Rut site on RNA
+B) Hairpin
+C) CAP
+D) Operator
+Answer: A
+---
+In the diagram of Western blot, it detects:
+[Diagram: Protein antibody]
+A) Specific protein
+B) DNA
+C) RNA
+D) Carbohydrate
+Answer: A
+---
+The probability of a normal daughter if mother color blind, father normal is:
+A) 0 (carrier)
+B) 50%
+C) 100%
+D) 25%
+Answer: A
+---
+In photorespiration, the glycine cleavage system requires:
+A) Lipoyl moiety
+B) THF
+C) Both
+D) None
+Answer: C
+---
+The number of introns in human beta-globin is:
+A) 2
+B) 3
+C) 1
+D) 0
+Answer: A
+---
+In the TCA cycle, the NADH from isocitrate dehydrogenase is:
+A) Mitochondrial matrix
+B) Cytosol
+C) Intermembrane
+D) Chloroplast
+Answer: A
+---
+The diagram shows the antibody diversity. It is generated by:
+[Diagram: VDJ recombination]
+A) RAG enzymes
+B) Somatic mutation
+C) Both
+D) Germline only
+Answer: C
+---
+In biodiversity, the beta diversity measures:
+A) Between habitat diversity
+B) Within habitat
+C) Genetic
+D) Species evenness
+Answer: A
+---
+The operator in ara operon is:
+A) Inducible by arabinose
+B) Repressible
+C) Constitutive
+D) No operator
+Answer: A
+---
+A inversion heterozygote shows:
+A) Loop in pachytene
+B) Dicentric bridge
+C) Acentric fragment
+D) All
+Answer: A
+---
+In the diagram of Na-K pump, it uses:
+[Diagram: 3 Na out, 2 K in]
+A) ATP
+B) Light
+C) Redox
+D) Gradient
+Answer: A
+---
+The map distance formula for three genes is:
+A) RF = (SCO + DCO)/total *100
+B) Total crossovers
+C) DCO only
+D) SCO only
+Answer: A
+---
+In the human thyroid, the hormone T4 is converted to T3 by:
+A) Deiodinase
+B) Thyroglobulin
+C) Iodide pump
+D) Calcitonin
+Answer: A
+---
+The SCID-X1 gene therapy used:
+A) Gamma retrovirus for IL2RG
+B) Lentivirus for ADA
+C) AAV for CFTR
+D) CRISPR for beta-globin
+Answer: A
+---
+The diagram shows the ecosystem productivity. GPP - R = :
+[Diagram: NPP]
+A) Net primary productivity
+B) Secondary
+C) Tertiary
+D) Gross
+Answer: A
+---
+In evolution, the adaptive radiation in Darwin's finches is due to:
+A) Galapagos isolation
+B) Continental drift
+C) Mass extinction
+D) Gene flow
+Answer: A
+---
+The sigma 32 in E. coli is for:
+A) Heat shock response
+B) Normal
+C) Stationary phase
+D) Sporulation
+Answer: A
+---
+In the diagram of Northern blot, the probe is:
+[Diagram: Labeled oligo]
+A) Complementary RNA/DNA
+B) Antibody
+C) Lectin
+D) Enzyme
+Answer: A
+---
+The probability of a phenotype in F2 for lethal recessive is:
+A) 2:1
+B) 3:1
+C) 1:2:1
+D) 9:3:3:1
+Answer: A
+---
+In photorespiration, the 2-phosphoglycolate is converted to glycolate by:
+A) Phosphoglycolate phosphatase
+B) Rubisco
+C) PEP carboxylase
+D) Glycerate kinase
+Answer: A
+---
+The number of codons for stop is:
+A) 3
+B) 1
+C) 64
+D) 61
+Answer: A
+---
+In the ETC, oligomycin inhibits:
+A) ATP synthase
+B) Complex I
+C) Ubiquinone
+D) Cytochrome b
+Answer: A
+---
+The diagram shows the pedigree for imprinting. Prader-Willi is from:
+[Diagram: Paternal deletion]
+A) Paternal 15q deletion
+B) Maternal
+C) Both
+D) None
+Answer: A
+---
+In population, the inbreeding coefficient F = :
+A) Homozygosity increase
+B) Heterozygosity decrease
+C) Both
+D) None
+Answer: C
+---
+The enhancer in eukaryotes can be:
+A) Upstream or downstream
+B) Only upstream
+C) Only -35
+D) In intron only
+Answer: A
+---
+A trinucleotide repeat expansion causes:
+A) Anticipation in Huntington's
+B) Stable
+C) Deletion
+D) Point
+Answer: A
+---
+In the diagram of voltage-gated channel, the inactivation ball-and-chain is in:
+[Diagram: Na channel]
+A) Na+ channel after depolarization
+B) K+ channel
+C) Ca channel
+D) Cl channel
+Answer: A
+---
+The coefficient of coincidence = observed DCO / expected DCO. If >1:
+A) Negative interference (rare)
+B) Positive interference
+C) No interference
+D) Linkage absent
+Answer: B
+---
+In the human pancreas, the islets produce:
+A) Insulin (beta), glucagon (alpha)
+B) Only insulin
+C) Only glucagon
+D) Somatostatin only
+Answer: A
+---
+The ZFN (zinc finger nuclease) creates DSB for:
+A) Gene editing
+B) Amplification
+C) Sequencing
+D) Blotting
+Answer: A
+---
+The diagram shows the detritus food chain. The 10% law means energy transfer is:
+[Diagram: 1000 → 100 → 10 → 1]
+A) 10% to next trophic level
+B) 90%
+C) 50%
+D) 100%
+Answer: A
+---
+In evolution, the coacervates in Oparin theory are:
+A) Colloidal droplets
+B) Cells
+C) Viruses
+D) Proteins
+Answer: A
+---
+The sigma 54 in bacteria is for:
+A) Nitrogen fixation promoters
+B) Housekeeping
+C) Heat shock
+D) Flagellar
+Answer: A
+---
+In the diagram of EMSA, the supershift indicates:
+[Diagram: Larger band with antibody]
+A) Specific protein binding
+B) Non-specific
+C) Free DNA
+D) RNA
+Answer: A
+---
+The probability of a carrier mother having normal son in hemophilia is:
+A) 50%
+B) 0%
+C) 100%
+D) 25%
+Answer: A
+---
+In photorespiration, the pathway consumes:
+A) ATP and NADPH equivalent to 3.5 ATP per CO2
+B) Produces ATP
+C) No energy
+D) NADPH only
+Answer: A
+---
+The number of amino acid codons is:
+A) 64
+B) 61
+C) 3
+D) 20
+Answer: A
+---
+In the ETC, antimycin A blocks:
+A) Complex III
+B) Complex I
+C) IV
+D) II
+Answer: A
+---
+The diagram shows the genomic imprinting. Angelman syndrome is from:
+[Diagram: Maternal UBE3A deletion]
+A) Maternal 15q deletion
+B) Paternal
+C) Both
+D) Translocation
+Answer: A
+---
+In population genetics, the Wahlund effect causes:
+A) Excess homozygotes from sub population mixing
+B) Heterozygote advantage
+C) Drift reduction
+D) Migration increase
+Answer: A
+---
+The core promoter in eukaryotes includes:
+A) TATA, Initiator, DPE
+B) -10 box
+C) UP element
+D) All
+Answer: D
+---
+A polyA tail in mRNA is added by:
+A) Poly A polymerase
+B) Spliceosome
+C) Cap
+D) Exonuclease
+Answer: A
+---
+In the diagram of ligand-gated channel, the nAChR opens for:
+[Diagram: Acetylcholine binding]
+A) Na+ influx
+B) K+ efflux
+C) Ca2+ entry
+D) Cl- influx
+Answer: A
+---
+The interference in mapping is:
+A) Reduces double crossovers
+B) Increases
+C) No effect
+D) Random
+Answer: A
+---
+In the human liver, the Kupffer cells are:
+A) Macrophages
+B) Hepatocytes
+C) Bile cells
+D) Sinusoidal endothelial
+Answer: A
+---
+The TALEN (transcription activator-like effector nuclease) is similar to ZFN but uses:
+A) TALE DNA binding domains
+B) Zinc fingers
+C) CRISPR
+D) meganuclease
+Answer: A
+---
+The diagram shows the succession. The seral stages in xerarch are:
+[Diagram: Rock → lichen → moss → herb → shrub → tree]
+A) Increasing complexity
+B) Decreasing
+C) Stable from start
+D) Cyclic
+Answer: A
+---
+In evolution, the endosymbiont theory explains origin of:
+A) Mitochondria and chloroplasts
+B) Nucleus
+C) Ribosomes
+D) ER
+Answer: A
+---
+The sigma S in E. coli is for:
+A) Stationary phase
+B) Exponential growth
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of ChIP assay, it pulls down:
+[Diagram: Antibody to protein-DNA]
+A) Protein-DNA interactions
+B) Free protein
+C) RNA
+D) Metabolites
+Answer: A
+---
+The probability of two linked genes with 5% RF giving recombinant in test cross is:
+A) 5%
+B) 50%
+C) 10%
+D) 0%
+Answer: A
+---
+In photorespiration, the glycolate oxidase is in:
+A) Peroxisome
+B) Mitochondria
+C) Chloroplast
+D) Cytosol
+Answer: A
+---
+The number of stop codons is:
+A) 3 (UAA, UAG, UGA)
+B) 1
+C) 64
+D) 4
+Answer: A
+---
+In the ETC, the cytochrome a/a3 is in:
+A) Complex IV
+B) III
+C) I
+D) II
+Answer: A
+---
+The diagram shows the X-linked pedigree. The chance carrier daughter marrying normal male having affected son is:
+[Diagram: Carrier female]
+A) 25%
+B) 50%
+C) 0%
+D) 100%
+Answer: A
+---
+In population, the bottleneck effect is:
+A) Sudden reduction leading to drift
+B) Gradual
+C) Migration
+D) Selection
+Answer: A
+---
+The TIS (transcription initiation site) is:
+A) +1
+B) -10
+C) -35
+D) +25
+Answer: A
+---
+A base excision repair fixes:
+A) Deaminated bases
+B) Double strand breaks
+C) Mismatches
+D) UV dimers
+Answer: A
+---
+In the diagram of gap junction, it allows passage of:
+[Diagram: Connexon channels]
+A) Ions and small molecules between cells
+B) Large proteins
+C) DNA
+D) Viruses
+Answer: A
+---
+The mapping function corrects for:
+A) Multiple crossovers underestimating RF
+B) Single crossovers
+C) No linkage
+D) Independent
+Answer: A
+---
+In the human intestine, the microvilli increase surface area for:
+A) Absorption
+B) Secretion
+C) Motility
+D) Protection
+Answer: A
+---
+The base editing in CRISPR is for:
+A) C to T without DSB
+B) Insertion
+C) Deletion
+D) Translocation
+Answer: A
+---
+The diagram shows the nutrient cycle. The phosphorus cycle lacks:
+A) Gaseous phase
+B) Nitrogen fixation
+C) Denitrification
+D) Ammonification
+Answer: A
+---
+In evolution, the Lamarckism is:
+A) Inheritance of acquired characters
+B) Natural selection
+C) Mutation
+D) Drift
+Answer: A
+---
+The sigma 28 in Salmonella is for:
+A) Flagellar biosynthesis
+B) Housekeeping
+C) Stress
+D) Nitrogen
+Answer: A
+---
+In the diagram of DNase footprint, the gap shows:
+[Diagram: Uncut region]
+A) Bound protein protects DNA
+B) Cleaved site
+C) Random cut
+D) All cut
+Answer: A
+---
+The probability in F2 for epistasis (12:3:1) is due to:
+A) Duplicate genes
+B) Recessive epistasis
+C) Dominant
+D) Complementary
+Answer: B
+---
+In photorespiration, the serine from glycine enters:
+A) Chloroplast for 3-PGA
+B) Mitochondria only
+C) Peroxisome
+D) Cytosol
+Answer: A
+---
+The number of amino acids coded by 3 nucleotides is:
+A) 1
+B) 64
+C) 61
+D) 20
+Answer: A
+---
+In the ETC, the mobile carrier between I and III is:
+A) Ubiquinone
+B) Cytochrome c
+C) Plastocyanin
+D) Plastoquinone
+Answer: A
+---
+The diagram shows the mitochondrial inheritance. Leber's optic neuropathy is:
+[Diagram: Maternal]
+A) mtDNA mutation
+B) Nuclear
+C) X-linked
+D) Autosomal
+Answer: A
+---
+In population, the gene flow is:
+A) Migration changing allele frequencies
+B) Drift
+C) Selection
+D) Mutation
+Answer: A
+---
+The CAAT box in eukaryotes is at:
+A) -80 bp
+B) -25
+C) +1
+D) -10
+Answer: A
+---
+A nucleotide excision repair (NER) fixes:
+A) Bulky lesions like thymine dimers
+B) Base mismatches
+C) Breaks
+D) Deamination
+Answer: A
+---
+In the diagram of tight junction, it prevents:
+[Diagram: Seal between cells]
+A) Paracellular leak
+B) Transcellular
+C) Vesicular
+D) Endocytosis
+Answer: A
+---
+The Haldane mapping function relates RF to:
+A) Map distance accounting for multiples
+B) Direct RF
+C) No crossover
+D) Single
+Answer: A
+---
+In the human brain, the basal ganglia are involved in:
+A) Motor control
+B) Memory
+C) Emotion
+D) Sensory
+Answer: A
+---
+The prime editing in CRISPR is for:
+A) Precise insertions/deletions without DSB
+B) Cas9 cut
+C) Base edit
+D) Translocation
+Answer: A
+---
+The diagram shows the carbon cycle. The reservoir with longest residence time is:
+[Diagram: Sedimentary rocks]
+A) Fossil fuels
+B) Atmosphere
+C) Ocean
+D) Biomass
+Answer: A
+---
+In evolution, the neutral mutations are:
+A) Fixed by drift
+B) Selected
+C) Deleterious
+D) Advantageous
+Answer: A
+---
+The sigma F in Bacillus is for:
+A) Sporulation
+B) Vegetative growth
+C) Stress
+D) Motility
+Answer: A
+---
+In the diagram of S1 nuclease mapping, it protects:
+[Diagram: Hybrid RNA-DNA]
+A) Exon regions
+B) Introns
+C) Loops
+D) All
+Answer: A
+---
+The probability for duplicate dominant epistasis (15:1) in F2 is:
+A) Two genes for same phenotype
+B) One gene
+C) Recessive
+D) Lethal
+Answer: A
+---
+In photorespiration, the CO2 released in mitochondria is from:
+A) Glycine decarboxylation
+B) Serine
+C) Glycolate
+D) 3-PGA
+Answer: A
+---
+The number of initiation codons in standard code is:
+A) 1 (AUG)
+B) 3
+C) 64
+D) 61
+Answer: A
+---
+In the ETC, the Fe-S centers are in:
+A) Complex I and II
+B) III only
+C) IV
+D) All
+Answer: A
+---
+The diagram shows the Y-linked pedigree. Only males affected, passed father to son:
+A) Holandric
+B) X-linked
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the effective population size Ne is reduced by:
+A) Unequal sex ratio
+B) Equal
+C) Migration
+D) Selection
+Answer: A
+---
+The GC box in promoters binds:
+A) SP1 transcription factor
+B) TBP
+C) TFIIB
+D) RNA pol II
+Answer: A
+---
+A mismatch repair (MMR) recognizes:
+A) Mismatched bases post-replication
+B) Bulky adducts
+C) Breaks
+D) Uracil
+Answer: A
+---
+In the diagram of desmosome, it provides:
+[Diagram: Cadherin link]
+A) Mechanical strength
+B) Ion flow
+C) Nutrient transfer
+D) Signal
+Answer: A
+---
+The Kosambi mapping function is used for:
+A) High interference
+B) Low
+C) No
+D) Random
+Answer: A
+---
+In the human ovary, the corpus luteum secretes:
+A) Progesterone
+B) Estrogen only
+C) FSH
+D) LH
+Answer: A
+---
+The meganuclease is used for:
+A) Rare cutting in gene therapy
+B) Frequent cuts
+C) Amplification
+D) Sequencing
+Answer: A
+---
+The diagram shows the sulfur cycle. The reservoir is:
+[Diagram: Gypsum rocks]
+A) Sediments
+B) Atmosphere SO2
+C) Ocean
+D) Plants
+Answer: A
+---
+In evolution, the molecular evidence for common descent is:
+A) Universal genetic code
+B) Different codes
+C) No code
+D) RNA world only
+Answer: A
+---
+The sigma E in bacteria is for:
+A) Outer membrane stress
+B) Inner
+C) Cytoplasmic
+D) Periplasmic
+Answer: A
+---
+In the diagram of primer extension, the dideoxy method terminates at:
+[Diagram: ddNTP]
+A) Chain end
+B) Start
+C) Middle
+D) All
+Answer: A
+---
+The probability for supplementary genes (9:7) is:
+A) Both dominant needed for phenotype
+B) One sufficient
+C) Recessive
+D) Dominant
+Answer: A
+---
+In photorespiration, the enzyme in peroxisome is:
+A) Catalase for H2O2
+B) Rubisco
+C) PEPC
+D) GOGAT
+Answer: A
+---
+The number of box C/D snoRNPs in eukaryotes is for:
+A) 2'-O-methylation of rRNA
+B) Pseudouridylation
+C) Splicing
+D) Capping
+Answer: A
+---
+In the ETC, the Rieske center is in:
+A) Complex III (Fe-S in bc1)
+B) I
+C) II
+D) IV
+Answer: A
+---
+The diagram shows the mtDNA inheritance. The mutation load increases by:
+[Diagram: Bottleneck in oogenesis]
+A) Heteroplasmy variation
+B) Homoplasmy
+C) Nuclear
+D) X
+Answer: A
+---
+In population, the fixation probability of a neutral allele is:
+A) 1/2N
+B) 1
+C) 0
+D) N
+Answer: A
+---
+The DPE (downstream promoter element) is at:
+A) +30 bp
+B) -25
+C) -80
+D) +1
+Answer: A
+---
+A homologous recombination in Holliday model resolves to:
+A) Crossover or non-crossover
+B) Always crossover
+C) No resolution
+D) Deletion
+Answer: A
+---
+In the diagram of adherens junction, it links to:
+[Diagram: Actin cytoskeleton]
+A) Cadherins to actin
+B) Intermediate filaments
+C) Desmosomes
+D) Tight
+Answer: A
+---
+The Carter mapping function is for:
+A) Multiple strand interference
+B) Single
+C) No
+D) Low
+Answer: A
+---
+In the human spleen, the white pulp is for:
+A) Immune response
+B) Blood storage
+C) Filtration
+D) Erythropoiesis
+Answer: A
+---
+The homing endonuclease is another name for:
+A) Meganuclease
+B) ZFN
+C) TALEN
+D) Cas9
+Answer: A
+---
+The diagram shows the water cycle. The transpiration contributes:
+[Diagram: 99% from plants]
+A) To atmospheric water
+B) To groundwater
+C) To ocean
+D) To soil
+Answer: A
+---
+In evolution, the exaptation is:
+A) Structure used for new function
+B) Vestigial
+C) Adaptive
+D) Maladaptive
+Answer: A
+---
+The sigma H in B. subtilis is for:
+A) Sporulation stage II
+B) Stage 0
+C) Heat
+D) Competence
+Answer: A
+---
+In the diagram of toeprinting, it stops reverse transcription at:
+[Diagram: Ribosome bound mRNA]
+A) Translation start
+B) End
+C) Splice
+D) Cap
+Answer: A
+---
+The probability for lethal dominant (2:1 in F2) is:
+A) Zygotic lethal
+B) Gametic
+C) Adult
+D) None
+Answer: A
+---
+In photorespiration, the serine:glycolate ratio is:
+A) 1:2 carbon recovered
+B) 1:1
+C) 2:1
+D) 0
+Answer: A
+---
+The number of box H/ACA snoRNPs is for:
+A) Pseudouridylation
+B) Methylation
+C) Acetylation
+D) Ubiquitination
+Answer: A
+---
+In the ETC, the Q-cycle doubles:
+A) Proton translocation
+B) Electron flow
+C) ATP
+D) O2
+Answer: A
+---
+The diagram shows the pedigree for fragile X. It shows:
+[Diagram: Anticipation in generations]
+A) Trinucleotide repeat expansion
+B) Stable
+C) Deletion
+D) Point
+Answer: A
+---
+In population, the coalescent theory models:
+A) Time to common ancestor
+B) Future
+C) Selection
+D) Migration
+Answer: A
+---
+The INR (initiator) in promoters is around:
+A) +1 TSS
+B) -10
+C) -35
+D) +30
+Answer: A
+---
+A non-homologous end joining (NHEJ) is error-prone for:
+A) DSB repair
+B) Base excision
+C) Mismatch
+D) NER
+Answer: A
+---
+In the diagram of hemidesmosome, it anchors to:
+[Diagram: Basal lamina]
+A) Integrins to ECM
+B) Cadherins
+C) Tight
+D) Gap
+Answer: A
+---
+The Felsenstein mapping function assumes:
+A) No interference
+B) High
+C) Low
+D) Variable
+Answer: A
+---
+In the human bone marrow, the hematopoietic stem cells give rise to:
+A) All blood cells
+B) Only RBC
+C) Lymphocytes only
+D) Platelets
+Answer: A
+---
+The I-SceI is a:
+A) Homing endonuclease
+B) Type II
+C) Type I
+D) Type III
+Answer: A
+---
+The diagram shows the oxygen cycle. The photolysis in photosynthesis produces:
+[Diagram: H2O → O2]
+A) Atmospheric O2
+B) CO2
+C) N2
+D) H2
+Answer: A
+---
+In evolution, the pre-adaptation is another term for:
+A) Exaptation
+B) Vestige
+C) Atavism
+D) Parallelism
+Answer: A
+---
+The sigma N in Klebsiella is for:
+A) Nitrogen assimilation
+B) General
+C) Stress
+D) Motility
+Answer: A
+---
+In the diagram of ribozyme, the self-splicing intron is:
+[Diagram: Group I]
+A) rRNA in Tetrahymena
+B) mRNA
+C) tRNA
+D) snRNA
+Answer: A
+---
+The probability for inhibitory genes (13:3) is:
+A) Recessive inhibitor
+B) Dominant
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the pathway is absent in:
+A) C4 plants (bundle sheath)
+B) C3
+C) CAM
+D) All have
+Answer: A
+---
+The number of box C/D for rRNA modification is:
+A) ~100
+B) 1
+C) 45
+D) 20
+Answer: A
+---
+In the ETC, the azides inhibit:
+A) Complex IV
+B) I
+C) III
+D) ATP synthase
+Answer: A
+---
+The diagram shows the pedigree for Prader-Willi/Angelman. The imprinting center is on:
+[Diagram: 15q11-13]
+A) Chromosome 15
+B) 21
+C) X
+D) Y
+Answer: A
+---
+In population, the metapopulation is:
+A) Subpopulations with migration
+B) Single
+C) Isolated
+D) Extinct
+Answer: A
+---
+The BRE (TFIIB recognition element) is at:
+A) -35 bp
+B) +1
+C) -25
+D) +30
+Answer: A
+---
+A translesion synthesis bypasses:
+A) DNA damage
+B) Perfect replication
+C) Repair
+D) Proofreading
+Answer: A
+---
+In the diagram of focal adhesion, it links to:
+[Diagram: Integrin to talin]
+A) Actin stress fibers
+B) Microtubules
+C) Intermediate
+D) Desmin
+Answer: A
+---
+The Haldane function m = - (1/2) ln(1 - 2r) for:
+A) Map distance m from RF r
+B) RF from m
+C) Interference
+D) Coincidence
+Answer: A
+---
+In the human thymus, the T cells mature in:
+A) Cortex and medulla
+B) Bone marrow
+C) Spleen
+D) Lymph node
+Answer: A
+---
+The LAGLIDADG is a motif in:
+A) Intron homing endonucleases
+B) Cas
+C) ZF
+D) TALE
+Answer: A
+---
+The diagram shows the nitrogen cycle. The anammox bacteria do:
+[Diagram: NH4+ + NO2- → N2]
+A) Anaerobic ammonium oxidation
+B) Nitrification
+C) Fixation
+D) Denitrification
+Answer: A
+---
+In evolution, the evo-devo studies:
+A) Hox genes for body plan
+B) Fossil record
+C) DNA sequences
+D) Behavior
+Answer: A
+---
+The sigma 24 in Pseudomonas is for:
+A) Alginate production
+B) General
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of SELEX, it selects:
+[Diagram: Aptamer binding]
+A) RNA ligands for targets
+B) DNA primers
+C) Proteins
+D) Cells
+Answer: A
+---
+The probability for polymeric genes (1:4:6:4:1) is:
+A) Additive polygenes
+B) Single
+C) Duplicate
+D) Inhibitory
+Answer: A
+---
+In photorespiration, the hydroxypyruvate reductase is in:
+A) Peroxisome
+B) Mitochondria
+C) Chloroplast stroma
+D) Cytosol
+Answer: A
+---
+The number of snRNAs in spliceosome is:
+A) 5 (U1-U6)
+B) 1
+C) 7
+D) 4
+Answer: A
+---
+In the ETC, the b cytochromes are in:
+A) Complex III
+B) I
+C) IV
+D) II
+Answer: A
+---
+The diagram shows the pedigree for myotonic dystrophy. It shows:
+[Diagram: Increasing severity]
+A) Anticipation
+B) Stable
+C) Regression
+D) No pattern
+Answer: A
+---
+In population, the age structure pyramid for expanding population is:
+A) Broad base
+B) Narrow base
+C) Bell
+D) Urn
+Answer: A
+---
+The MTE (motif ten element) in archaea is for:
+A) Transcription initiation
+B) Termination
+C) Elongation
+D) Splicing
+Answer: A
+---
+A post-replication repair uses:
+A) Daughter strand as template
+B) Parental
+C) Both
+D) None
+Answer: A
+---
+In the diagram of septate junction, it is analogous to:
+[Diagram: Invertebrate tight]
+A) Vertebrate tight junction
+B) Desmosome
+C) Gap
+D) Adherens
+Answer: A
+---
+The Perkins mapping function is for:
+A) Fungi tetrads
+B) Drosophila
+C) Human
+D) Bacteria
+Answer: A
+---
+In the human lymph node, the germinal center is for:
+A) B cell proliferation
+B) T cell
+C) Macrophages
+D) Dendritic
+Answer: A
+---
+The GIY-YIG is a motif in:
+A) Endonucleases
+B) Helicases
+C) Polymerases
+D) Ligases
+Answer: A
+---
+The diagram shows the phosphorus cycle. The weathering releases:
+[Diagram: Rocks to soil]
+A) PO4^3-
+B) N2
+C) CO2
+D) SO4
+Answer: A
+---
+In evolution, the ring species like Ensatina salamander shows:
+A) Speciation in progress
+B) Complete isolation
+C) Hybrid breakdown
+D) No gene flow
+Answer: A
+---
+The sigma B in Listeria is for:
+A) General stress response
+B) Specific
+C) Heat only
+D) Cold only
+Answer: A
+---
+In the diagram of riboswitch, it regulates by:
+[Diagram: Ligand binding mRNA]
+A) Conformation change
+B) Protein
+C) DNA
+D) tRNA
+Answer: A
+---
+The probability for nilsson-ehle wheat (1:4:6:4:1) is for:
+A) 3 polygenes red color
+B) 2
+C) 1
+D) 4
+Answer: A
+---
+In photorespiration, the malate valve exports reducing power from chloroplast to cytosol as:
+A) Malate
+B) OAA
+C) PGA
+D) RuBP
+Answer: A
+---
+The number of U snRNPs in major spliceosome is:
+A) 5
+B) 6
+C) 4
+D) 7
+Answer: A
+---
+In the ETC, the ND subunits are in:
+A) Complex I (NADH dehydrogenase)
+B) III
+C) IV
+D) V
+Answer: A
+---
+The diagram shows the pedigree for achondroplasia. It is:
+[Diagram: Dominant, new mutations]
+A) Autosomal dominant
+B) Recessive
+C) X-linked
+D) Mitochondrial
+Answer: A
+---
+In population, the r-selection is for:
+A) High reproduction rate
+B) K-selection
+C) Stable
+D) Density dependent
+Answer: A
+---
+The PSE (proximal sequence element) in Pol III promoters is for:
+A) tRNA genes
+B) mRNA
+C) rRNA
+D) snRNA
+Answer: D
+---
+A SOS response in bacteria induces:
+A) Error-prone polymerases
+B) Accurate
+C) No repair
+D) Homologous
+Answer: A
+---
+In the diagram of zonula occludens, the claudins form:
+[Diagram: Transmembrane seal]
+A) Pores for ions
+B) No pores
+C) Large gaps
+D) Vesicles
+Answer: B
+---
+The Comeron mapping function is for:
+A) Variable recombination rates
+B) Constant
+C) No
+D) High
+Answer: A
+---
+In the human pituitary, the gonadotrophs secrete:
+A) FSH and LH
+B) GH
+C) TSH
+D) ACTH
+Answer: A
+---
+The FokI is a:
+A) Type IIS restriction enzyme in ZFN
+B) Type II
+C) Type I
+D) Type III
+Answer: A
+---
+The diagram shows the energy flow. The standing crop is:
+[Diagram: Biomass at level]
+A) Biomass at a time
+B) Production rate
+C) Consumption
+D) Decomposition
+Answer: A
+---
+In evolution, the neutral network is:
+A) Mutational paths without fitness loss
+B) Adaptive peaks
+C) Valleys
+D) Fossils
+Answer: A
+---
+The sigma 38 in E. coli is alternative for:
+A) Stationary phase
+B) Exponential
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of hammerhead ribozyme, it cleaves:
+[Diagram: Self-cleavage site]
+A) Phosphodiester bond
+B) Peptide
+C) Glycosidic
+D) Ester
+Answer: A
+---
+The probability for dominant epistasis (12:3:1) is:
+A) Dominant allele masks another
+B) Recessive masks
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the pathway is linked to:
+A) C2 oxidation cycle
+B) C3 cycle
+C) C4
+D) CAM
+Answer: A
+---
+The number of box H/ACA for rRNA is:
+A) ~45
+B) 100
+C) 5
+D) 20
+Answer: A
+---
+In the ETC, the antimycin blocks electron from:
+A) Rieske Fe-S to cyt b
+B) cyt b to c1
+C) c1 to c
+D) c to a
+Answer: B
+---
+The diagram shows the pedigree for neurofibromatosis. It is:
+[Diagram: Variable expressivity]
+A) Autosomal dominant
+B) Recessive
+C) X
+D) Y
+Answer: A
+---
+In population, the metapopulation dynamics include:
+A) Local extinction and recolonization
+B) Stable
+C) Isolated
+D) Single
+Answer: A
+---
+The octamer motif ATTTGCAT binds:
+A) Oct-1 transcription factor
+B) SP1
+C) AP1
+D) NF-kB
+Answer: A
+---
+A fanconi anemia pathway is for:
+A) Interstrand crosslink repair
+B) Base
+C) Mismatch
+D) DSB
+Answer: A
+---
+In the diagram of macula adherens (desmosome), the plaque is:
+[Diagram: Plakoglobin]
+A) Intermediate filament anchor
+B) Actin
+C) Microtubule
+D) Tight
+Answer: A
+---
+The Suter mapping function is for:
+A) Ordered tetrads
+B) Unordered
+C) Human
+D) Drosophila
+Answer: A
+---
+In the human adrenal, the zona glomerulosa produces:
+A) Aldosterone
+B) Cortisol
+C) Androgens
+D) Epinephrine
+Answer: A
+---
+The HNH motif is in:
+A) Cas9 endonuclease
+B) ZF
+C) TALE
+D) Meganuclease
+Answer: A
+---
+The diagram shows the biogeochemical cycle. The biological magnification of DDT is in:
+[Diagram: Food chain increase]
+A) Top carnivores
+B) Producers
+C) Herbivores
+D) Decomposers
+Answer: A
+---
+In evolution, the evolvability is enhanced by:
+A) Gene regulatory networks
+B) Rigid structures
+C) No variation
+D) Lethal mutations
+Answer: A
+---
+The sigma M in Streptomyces is for:
+A) Antibiotic production
+B) Growth
+C) Sporulation
+D) Stationary
+Answer: A
+---
+In the diagram of group II intron, the splicing is:
+[Diagram: Lariat]
+A) Self-splicing like group I
+B) Protein dependent
+C) Both
+D) None
+Answer: C
+---
+The probability for recessive epistasis (9:3:4) is:
+A) Homozygous recessive masks
+B) Dominant masks
+C) Duplicate
+D) Lethal
+Answer: A
+---
+In photorespiration, the 3-phosphoglycerate from serine enters:
+A) Calvin cycle
+B) Glycolysis
+C) TCA
+D) Urea cycle
+Answer: A
+---
+The number of SR proteins in alternative splicing is:
+A) Multiple for exon choice
+B) 1
+C) 5
+D) 20
+Answer: A
+---
+In the ETC, the supercomplexes include:
+A) I+III+IV for efficiency
+B) Separate
+C) II only
+D) V
+Answer: A
+---
+The diagram shows the pedigree for Huntington's. The CAG repeat threshold for disease is:
+[Diagram: Late onset]
+A) >36
+B) <20
+C) 21-35
+D) 50
+Answer: A
+---
+In population, the Allee effect is:
+A) Positive density dependence (low density bad)
+B) Negative
+C) Neutral
+D) Carrying
+Answer: A
+---
+The CREB binds to:
+A) cAMP response element
+B) TATA
+C) CAAT
+D) GC
+Answer: A
+---
+A Cockayne syndrome is defective in:
+A) NER (transcription coupled)
+B) Global NER
+C) HR
+D) NHEJ
+Answer: A
+---
+In the diagram of belt desmosome, it encircles:
+[Diagram: Around cell]
+A) Epithelial sheet
+B) Single cell
+C) Muscle
+D) Nerve
+Answer: A
+---
+The Baker mapping function is for:
+A) High crossover rates
+B) Low
+C) No
+D) Fungi
+Answer: A
+---
+In the human parathyroid, the chief cells secrete:
+A) PTH
+B) Calcitonin
+C) Thyroxine
+D) Insulin
+Answer: A
+---
+The RuvC is for:
+A) Holliday junction resolution in recombination
+B) Cas9
+C) Ligase
+D) Helicase
+Answer: A
+---
+The diagram shows the succession in hydrosere. The submerged stage is:
+[Diagram: Pond → phytoplankton]
+A) Phytoplankton
+B) Free floating
+C) Reed swamp
+D) Sedge meadow
+Answer: A
+---
+In evolution, the canalization is:
+A) Robustness to perturbations
+B) Variability
+C) Mutation
+D) Selection
+Answer: A
+---
+The sigma G in B. subtilis is for:
+A) Late sporulation (mother cell)
+B) Early
+C) Vegetative
+D) Stress
+Answer: A
+---
+In the diagram of viroid, it is:
+[Diagram: Circular RNA]
+A) Non-coding RNA pathogen
+B) DNA
+C) Protein
+D) Virus
+Answer: A
+---
+The probability for complementary genes (9:7) is:
+A) Both dominant for phenotype
+B) One dominant
+C) Recessive
+D) Duplicate
+Answer: A
+---
+In photorespiration, the serine is formed in:
+A) Mitochondria from 2 glycine
+B) Peroxisome
+C) Chloroplast
+D) Cytosol
+Answer: A
+---
+The number of hnRNP proteins in splicing regulation is:
+A) Multiple
+B) 1
+C) 5
+D) 10
+Answer: A
+---
+In the ETC, the alternative oxidase in plants bypasses:
+A) Complexes III and IV
+B) I and II
+C) Only IV
+D) V
+Answer: A
+---
+The diagram shows the pedigree for Friedreich ataxia. It is:
+[Diagram: GAA repeat]
+A) Autosomal recessive, expanded repeat
+B) Dominant
+C) X
+D) Y
+Answer: A
+---
+In population, the source-sink dynamics have:
+A) Sink below replacement
+B) Source above
+C) Both equal
+D) Extinct
+Answer: B
+---
+The UAS (upstream activating sequence) in yeast is for:
+A) Enhancer-like
+B) Promoter
+C) Silencer
+D) Insulator
+Answer: A
+---
+A xeroderma pigmentosum is defective in:
+A) Global NER
+B) TCR
+C) HR
+D) MMR
+Answer: A
+---
+In the diagram of spot desmosome, the distance between cells is:
+[Diagram: 20-30 nm]
+A) Cadherin mediated
+B) Tight (0 nm)
+C) Gap (3 nm)
+D) Belt
+Answer: A
+---
+The Karlin mapping function is for:
+A) Variable interference
+B) Constant
+C) Low
+D) High
+Answer: A
+---
+In the human pineal gland, the melatonin is regulated by:
+A) Suprachiasmatic nucleus
+B) Hypothalamus
+C) Pituitary
+D) Thyroid
+Answer: A
+---
+The RecBCD is for:
+A) DSB processing in bacteria
+B) Eukaryotes
+C) Viruses
+D) Mitochondria
+Answer: A
+---
+The diagram shows the climax community in succession. It is:
+[Diagram: Stable self-perpetuating]
+A) Biotic climax
+B) Edaphic
+C) Climatic
+D) All possible
+Answer: C
+---
+In evolution, the Baldwin effect is:
+A) Learning aiding evolution
+B) Genetic assimilation
+C) Lamarck
+D) Drift
+Answer: B
+---
+The sigma K in B. subtilis is for:
+A) Late sporulation (fores pore)
+B) Early
+C) Mother cell
+D) Germination
+Answer: A
+---
+In the diagram of trans-splicing, it joins:
+[Diagram: Two RNAs]
+A) Exons from different molecules
+B) Same
+C) Introns
+D) 5' cap
+Answer: A
+---
+The probability for dominant and recessive epistasis (13:3) is:
+A) Dominant inhibitor
+B) Recessive
+C) Duplicate
+D) Polymeric
+Answer: A
+---
+In photorespiration, the pathway is advantageous for:
+A) Ammonia assimilation
+B) Energy waste only
+C) N recycling
+D) All
+Answer: C
+---
+The number of SR family proteins is:
+A) ~12
+B) 1
+C) 5
+D) 20
+Answer: A
+---
+In the ETC, the c-ring in F0 has:
+A) 8-15 c-subunits
+B) 3
+C) 1
+D) 4
+Answer: A
+---
+The diagram shows the pedigree for spinocerebellar ataxia. It shows:
+[Diagram: CAG repeat]
+A) Anticipation
+B) Stable
+C) Paternal bias
+D) Maternal
+Answer: C
+---
+In population, the Levene model is for:
+A) Habitat-specific selection
+B) Single habitat
+C) Neutral
+D) Drift
+Answer: A
+---
+The MSE (motif six element) in archaea is for:
+A) TBP binding
+B) Pol II
+C) Rho
+D) Sigma
+Answer: A
+---
+A nucleotide pool imbalance causes:
+A) Mutagenesis
+B) Accurate replication
+C) No repair
+D) Proofreading error
+Answer: A
+---
+In the diagram of hemijunction, it is in:
+[Diagram: Half desmosome]
+A) Basal cells to basement membrane
+B) Lateral
+C) Apical
+D) Gap
+Answer: A
+---
+The Foss mapping function is for:
+A) Tetrad analysis
+B) Random
+C) Human
+D) Linkage
+Answer: A
+---
+In the human corpus luteum, the regression is by:
+A) Low LH
+B) High progesterone
+C) FSH
+D) Estrogen
+Answer: A
+---
+The SpoIIIE is for:
+A) Chromosome segregation in sporulation
+B) Vegetative
+C) Conjugation
+D) Transformation
+Answer: A
+---
+The diagram shows the pioneer community in xerarch. It is:
+[Diagram: Lichen on rock]
+A) Crustose lichen
+B) Moss
+C) Herb
+D) Tree
+Answer: A
+---
+In evolution, the red queen hypothesis is for:
+A) Co-evolution with parasites
+B) Sexual reproduction
+C) Asexual
+D) Drift
+Answer: B
+---
+The sigma D in Myxococcus is for:
+A) Development
+B) Growth
+C) Stress
+D) Motility
+Answer: D
+---
+In the diagram of twintron, it is:
+[Diagram: Nested introns]
+A) Group III intron
+B) Group I
+C) II
+D) No intron
+Answer: A
+---
+The probability for 4 polygenes (1:6:15:20:15:6:1) is for:
+A) Quantitative trait
+B) Qualitative
+C) Single
+D) Dihybrid
+Answer: A
+---
+In photorespiration, the oxygenase activity of Rubisco is higher when:
+A) [O2] high, [CO2] low
+B) Opposite
+C) Equal
+D) No RuBP
+Answer: A
+---
+The number of U2AF in splicing is for:
+A) 3' splice site recognition
+B) 5'
+C) Branch point
+D) Exon
+Answer: A
+---
+In the ETC, the NDH-2 is alternative:
+A) NADH dehydrogenase in plants/mito
+B) Complex I
+C) III
+D) IV
+Answer: A
+---
+The diagram shows the pedigree for facioscapulohumeral MD. It is:
+[Diagram: D4Z4 contraction]
+A) Autosomal dominant
+B) Recessive
+C) X
+D) Mitochondrial
+Answer: A
+---
+In population, the structured coalescent accounts for:
+A) Subpopulations
+B) Single
+C) Infinite
+D) No migration
+Answer: A
+---
+The DCE (downstream core element) is at:
+A) +10 to +30
+B) -25
+C) -80
+D) +1
+Answer: A
+---
+A recombination nodule in meiosis is:
+A) RecA homolog
+B) Synaptonemal complex
+C) Centromere
+D) Telomere
+Answer: A
+---
+In the diagram of cardiolipin, it is in:
+[Diagram: Mitochondrial inner membrane]
+A) Contact sites
+B) Plasma
+C) ER
+D) Golgi
+Answer: A
+---
+The Sturtevant mapping function is basic:
+A) RF = map distance for small
+B) Large
+C) Interference
+D) Coincidence
+Answer: A
+---
+In the human choroid plexus, it produces:
+A) CSF
+B) Blood
+C) Lymph
+D) Urine
+Answer: A
+---
+The UvrABC is for:
+A) NER in bacteria
+B) Eukaryotes
+C) Viruses
+D) Mitochondria
+Answer: A
+---
+The diagram shows the seral stages in halosere. It starts with:
+[Diagram: Salt marsh]
+A) Halophytes
+B) Lichens
+C) Phytoplankton
+D) Moss
+Answer: A
+---
+In evolution, the dollo's law states:
+A) Complex traits not regained once lost
+B) Reversible
+C) Parallel
+D) Convergent
+Answer: A
+---
+The sigma L in Listeria is for:
+A) Listeriolysin regulation
+B) General
+C) Heat
+D) Virulence
+Answer: D
+---
+In the diagram of permuted genome, it is in:
+[Diagram: T4 phage]
+A) Circular permutation
+B) Linear
+C) Supercoiled
+D) Relaxed
+Answer: A
+---
+The probability for blood group in Bombay phenotype (hh) is:
+A) O regardless of ABO
+B) A
+C) B
+D) AB
+Answer: A
+---
+In photorespiration, the glycolate transporter is:
+A) To peroxisome from chloroplast
+B) Reverse
+C) To mitochondria
+D) Cytosol
+Answer: A
+---
+The number of PTB proteins in splicing is for:
+A) Repression
+B) Activation
+C) Both
+D) None
+Answer: C
+---
+In the ETC, the COX assembly requires:
+A) SCO proteins
+B) ND
+C) Rieske
+D) Cyt b
+Answer: A
+---
+The diagram shows the pedigree for OTC deficiency. It is:
+[Diagram: X-linked, urea cycle]
+A) X-linked
+B) Autosomal
+C) Mitochondrial
+D) Y
+Answer: A
+---
+In population, the island biogeography predicts species number by:
+A) Area and distance
+B) Climate
+C) Soil
+D) Predators
+Answer: A
+---
+The TRE (TPA response element) binds:
+A) AP-1 (jun/fos)
+B) CREB
+C) SP1
+D) NFAT
+Answer: A
+---
+A CSA/CSB defect causes:
+A) Cockayne syndrome (TCR NER)
+B) XP
+C) Trichothiodystrophy
+D) Fanconi
+Answer: A
+---
+In the diagram of zonula adherens, the catenins link:
+[Diagram: Beta-catenin]
+A) Cadherin to actin
+B) To microtubule
+C) Desmoplakin
+D) Plakoglobin
+Answer: A
+---
+The Mather mapping function includes:
+A) Crossover interference parameter
+B) No
+C) Random
+D) Low
+Answer: A
+---
+In the human cerebellum, the Purkinje cells are:
+A) GABAergic inhibitory
+B) Excitatory
+C) Dopaminergic
+D) Cholinergic
+Answer: A
+---
+The XPF-ERCC1 is for:
+A) 5' flap in NER
+B) 3' flap
+C) Ligase
+D) Helicase
+Answer: A
+---
+The diagram shows the climax in edaphic succession. It is limited by:
+[Diagram: Soil type]
+A) Nutrient poor soil
+B) Climate
+C) Biota
+D) Fire
+Answer: A
+---
+In evolution, the orthologs are:
+A) Homologous genes in different species
+B) Paralogs
+C) Xenologs
+D) Ohnologs
+Answer: A
+---
+The sigma R in Mycobacterium is for:
+A) Ribosomal protein regulation
+B) General
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of group 0 intron, it is:
+[Diagram: No lariat]
+A) Protein-dependent
+B) Self
+C) Bacterial
+D) Eukaryotic
+Answer: A
+---
+The probability for 2 genes with epistasis (15:1) is:
+A) Duplicate dominant
+B) Single
+C) Inhibitory
+D) Complementary
+Answer: A
+---
+In photorespiration, the serine is transported to chloroplast via:
+A) Triose phosphate shuttle
+B) Malate
+C) Glycine
+D) Glycolate
+Answer: A
+---
+The number of hnRNPs is:
+A) ~20
+B) 5
+C) 1
+D) 50
+Answer: A
+---
+In the ETC, the alternative NADH dehydrogenase in yeast is:
+A) External, no proton pump
+B) Internal
+C) Complex I
+D) II
+Answer: A
+---
+The diagram shows the pedigree for Lesch-Nyhan. It is:
+[Diagram: X-linked HGPRT]
+A) X-linked recessive
+B) Dominant
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the quasi-equilibrium is:
+A) Near K with fluctuations
+B) Exact K
+C) Zero
+D) Infinite
+Answer: A
+---
+The ARE (AU-rich element) in 3' UTR regulates:
+A) mRNA stability
+B) Translation
+C) Splicing
+D) Capping
+Answer: A
+---
+A TFIIH defect causes:
+A) XP (NER helicase)
+B) Cockayne
+C) Both
+D) None
+Answer: C
+---
+In the diagram of fascia adherens, it is in:
+[Diagram: Muscle intercalated disc]
+A) Heart muscle
+B) Skeletal
+C) Smooth
+D) Neuron
+Answer: A
+---
+The Beadle mapping function is for:
+A) Neurospora ordered tetrads
+B) Yeast
+C) Human
+D) Drosophila
+Answer: A
+---
+In the human submandibular gland, it is:
+A) Mixed seromucous
+B) Serous
+C) Mucous
+D) Parotid serous
+Answer: A
+---
+The RAG1/2 is for:
+A) VDJ recombination
+B) Somatic hypermutation
+C) Class switch
+D) Gene conversion
+Answer: A
+---
+The diagram shows the degradation in succession. The humus formation is by:
+[Diagram: Decomposers]
+A) Fungi and bacteria
+B) Animals
+C) Plants
+D) Fire
+Answer: A
+---
+In evolution, the xenologs are:
+A) From horizontal transfer
+B) Vertical
+C) Duplication
+D) Speciation
+Answer: A
+---
+The sigma F in Clostridium is for:
+A) Forespore specific
+B) Mother cell
+C) General
+D) Toxin
+Answer: A
+---
+In the diagram of permuted arrangement, the terminal redundancy in T4 is for:
+[Diagram: Circular map]
+A) Packaging multiple origins
+B) Linear
+C) Superhelical
+D) Relaxed
+Answer: A
+---
+The probability for color in sweet pea (9:7) is:
+A) Complementary genes
+B) Epistasis
+C) Linkage
+D) Single
+Answer: A
+---
+In photorespiration, the hydroxypyruvate to glycerate is by:
+A) NADH-dependent reductase
+B) NADPH
+C) ATP
+D) FAD
+Answer: A
+---
+The number of Tra proteins in F plasmid conjugation is:
+A) Multiple for pilus and transfer
+B) 1
+C) 5
+D) 10
+Answer: A
+---
+In the ETC, the bc1 complex is:
+A) Complex III
+B) I
+C) II
+D) IV
+Answer: A
+---
+The diagram shows the pedigree for G6PD deficiency. It is:
+[Diagram: X-linked, mosaic in females]
+A) X-linked
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Beverton-Holt model is for:
+A) Density dependence recruitment
+B) Linear
+C) Exponential
+D) Logistic
+Answer: A
+---
+The IPE (initiator proximal element) is for:
+A) TATA-less promoters
+B) TATA
+C) CAAT
+D) GC
+Answer: A
+---
+A CSA defect causes:
+A) Cockayne (transcription-repair coupling)
+B) XP
+C) TTD
+D) CSB only
+Answer: A
+---
+In the diagram of button desmosome, it is small:
+[Diagram: Spot like]
+A) In neurons or single
+B) Large belt
+C) Sheet
+D) Heart
+Answer: A
+---
+The White mapping function is for:
+A) High interference
+B) Low
+C) No
+D) Variable
+Answer: A
+---
+In the human lacrimal gland, it produces:
+A) Tears
+B) Saliva
+C) Mucus
+D) Bile
+Answer: A
+---
+The MSH2/MSH6 is for:
+A) Mismatch recognition
+B) Excision
+C) Ligase
+D) Helicase
+Answer: A
+---
+The diagram shows the autogenic succession. The change is due to:
+[Diagram: Community modification]
+A) Species interaction
+B) Climate
+C) Soil
+D) Allogenic
+Answer: A
+---
+In evolution, the paralogs are:
+A) Duplicate genes in same genome
+B) Different species
+C) Transfer
+D) Speciation
+Answer: A
+---
+The sigma C in Bacillus is for:
+A) Competence
+B) Sporulation
+C) Stress
+D) Motility
+Answer: A
+---
+In the diagram of lariat formation, the branch point A attacks:
+[Diagram: 2' OH to 5']
+A) 5' splice
+B) 3' splice
+C) Exon
+D) Cap
+Answer: A
+---
+The probability for 9:6:1 epistasis is:
+A) Dominant and recessive interaction
+B) Standard
+C) Duplicate
+D) Inhibitory
+Answer: A
+---
+In photorespiration, the glycerate kinase is in:
+A) Chloroplast
+B) Peroxisome
+C) Mitochondria
+D) Cytosol
+Answer: A
+---
+The number of SC35 proteins in splicing is for:
+A) Enhancer binding
+B) Silencer
+C) Repression
+D) Initiation
+Answer: A
+---
+In the ETC, the c-type cytochromes are in:
+A) Complex IV and cyt c
+B) III
+C) I
+D) II
+Answer: A
+---
+The diagram shows the pedigree for Duchenne MD. The carrier detection by:
+[Diagram: CK levels]
+A) Elevated CK
+B) Normal
+C) DNA test
+D) Both A and C
+Answer: D
+---
+In population, the Ricker model is for:
+A) Density dependence with hump
+B) Linear
+C) Sigmoid
+D) Oscillatory
+Answer: D
+---
+The PPE (proximal promoter element) includes:
+A) INR and DPE
+B) TATA only
+C) -35
+D) UP
+Answer: A
+---
+A XPA defect causes:
+A) XP group A (NER)
+B) B
+C) C
+D) F
+Answer: A
+---
+In the diagram of macular adherens, the p120 catenin stabilizes:
+[Diagram: Cadherin tail]
+A) Cadherin at membrane
+B) Actin
+C) Intermediate
+D) Microtubule
+Answer: A
+---
+The Haldane-4 parameter model is for:
+A) Tetrad analysis
+B) Random spores
+C) Human
+D) Linkage
+Answer: A
+---
+In the human sebaceous gland, it produces:
+A) Sebum
+B) Sweat
+C) Milk
+D) Cerumen
+Answer: A
+---
+The XPG is for:
+A) 3' incision in NER
+B) 5'
+C) Ligase
+D) Helicase
+Answer: A
+---
+The diagram shows the deflected succession. It is due to:
+[Diagram: Human interference]
+A) Anthropogenic
+B) Natural
+C) Biotic
+D) Edaphic
+Answer: A
+---
+In evolution, the ohnologs are from:
+A) Whole genome duplication
+B) Tandem
+C) Transposition
+D) Transfer
+Answer: A
+---
+The sigma P in Streptomyces is for:
+A) Primary metabolism
+B) Secondary
+C) Stress
+D) Development
+Answer: A
+---
+In the diagram of cis-splicing, it is standard:
+[Diagram: Single pre-mRNA]
+A) Introns removed
+B) Trans
+C) No splice
+D) Lariat only
+Answer: A
+---
+The probability for 9:3:4 is recessive epistasis where:
+A) cc masks B gene
+B) B masks C
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the CO2 compensation point is higher in:
+A) C3 than C4
+B) C4
+C) CAM
+D) Equal
+Answer: A
+---
+The number of Nova proteins in splicing is for:
+A) Neuron-specific alternative
+B) Universal
+C) Muscle
+D) Liver
+Answer: A
+---
+In the ETC, the Rieske protein is:
+A) [2Fe-2S] in complex III
+B) Fe-S in I
+C) Heme in IV
+D) Cu in IV
+Answer: A
+---
+The diagram shows the pedigree for alpha-1 antitrypsin deficiency. It is:
+[Diagram: Codominant]
+A) Autosomal codominant
+B) Recessive
+C) Dominant
+D) X
+Answer: A
+---
+In population, the theta (population mutation rate) is:
+A) 4Neμ
+B) 2Neμ
+C) Neμ
+D) μ
+Answer: A
+---
+The AREB (ABA responsive element binding) is for:
+A) Stress response
+B) Growth
+C) Development
+D) Flowering
+Answer: A
+---
+A XPF defect causes:
+A) XP group F
+B) A
+C) C
+D) G
+Answer: A
+---
+In the diagram of lattice junction, it is:
+[Diagram: 3D network]
+A) In basement membrane
+B) Cell-cell
+C) Cell-matrix
+D) Apical
+Answer: A
+---
+The McKusick mapping is for:
+A) Ordered tetrads in Neurospora
+B) Unordered
+C) Human
+D) Bacteria
+Answer: A
+---
+In the human eccrine gland, it is for:
+A) Thermoregulation sweat
+B) Sebum
+C) Milk
+D) Earwax
+Answer: A
+---
+The RPA is for:
+A) Single strand binding in HR
+B) Double
+C) Holliday
+D) Mismatch
+Answer: A
+---
+The diagram shows the deflected climax. It is:
+[Diagram: Grazing maintained grassland]
+A) Due to biotic factor
+B) Abiotic
+C) Natural
+D) Stable
+Answer: A
+---
+In evolution, the ultraconserved elements are:
+A) >200 bp identical in vertebrates
+B) Variable
+C) Introns
+D) Promoters
+Answer: A
+---
+The sigma Q in Streptomyces is for:
+A) Quorum sensing
+B) General
+C) Antibiotic
+D) Sporulation
+Answer: A
+---
+In the diagram of recursive splicing, it is in:
+[Diagram: Long introns]
+A) Poison exons removed iteratively
+B) Standard
+C) Trans
+D) No
+Answer: A
+---
+The probability for 9:6:1 is dominant and recessive epistasis where:
+A) A masks b, B masks a
+B) Standard
+C) Duplicate
+D) Lethal
+Answer: A
+---
+In photorespiration, the glycerate enters chloroplast via:
+A) Phosphate translocator
+B) Malate valve
+C) Glycine shuttle
+D) Direct
+Answer: B
+---
+The number of PTBP1 binding sites in splicing is for:
+A) Repression of exons
+B) Activation
+C) Initiation
+D) Termination
+Answer: A
+---
+In the ETC, the supercomplex I+III2+IV is called:
+A) Respirasome
+B) Separate
+C) Random
+D) Soluble
+Answer: A
+---
+The diagram shows the pedigree for polycystic kidney. It is:
+[Diagram: ADPKD]
+A) Autosomal dominant
+B) Recessive
+C) X
+D) Mitochondrial
+Answer: A
+---
+In population, the star genealogy is for:
+A) Recent expansion from bottleneck
+B) Stable
+C) Decline
+D) Cyclic
+Answer: A
+---
+The PPE2 (Pol III promoter element 2) is distal:
+A) +30 region
+B) -30
+C) Internal
+D) Upstream
+Answer: A
+---
+A XPC defect causes:
+A) XP group C
+B) A
+C) F
+D) G
+Answer: A
+---
+In the diagram of corneodesmosome, it is in:
+[Diagram: Stratum corneum]
+A) Epidermis retention
+B) Desquamation
+C) Both
+D) None
+Answer: C
+---
+The Lindegren mapping is for:
+A) Yeast tetrads
+B) Neurospora
+C) Human
+D) Drosophila
+Answer: A
+---
+In the human meibomian gland, it produces:
+A) Lipid for tear film
+B) Aqueous
+C) Mucus
+D) Saliva
+Answer: A
+---
+The RAD51 is for:
+A) Strand invasion in HR
+B) NHEJ
+C) NER
+D) MMR
+Answer: A
+---
+The diagram shows the post-climax. It is:
+[Diagram: Further evolution]
+A) Neo-climax
+B) Stable
+C) Deflected
+D) Pioneer
+Answer: A
+---
+In evolution, the transposons contribute to:
+A) Genome evolution
+B) Stability
+C) No change
+D) Deletion only
+Answer: A
+---
+The sigma V in Listeria is for:
+A) Virulence
+B) General
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of intein, it is:
+[Diagram: Self-excision]
+A) Protein splicing
+B) RNA
+C) DNA
+D) Lipid
+Answer: A
+---
+The probability for 10:3:3 epistasis is:
+A) Duplicate with cumulative
+B) Standard
+C) Single
+D) Inhibitory
+Answer: A
+---
+In photorespiration, the pathway is induced by:
+A) High light, high O2
+B) Dark
+C) Low light
+D) High CO2
+Answer: A
+---
+The number of hnRNP A1 is for:
+A) Exon repression
+B) Activation
+C) Splicing initiation
+D) Export
+Answer: D
+---
+In the ETC, the L-shaped complex II has:
+A) Succinate dehydrogenase
+B) NADH
+C) FADH2 from other
+D) Both
+Answer: A
+---
+The diagram shows the pedigree for Marfan syndrome. It is:
+[Diagram: Tall stature]
+A) Autosomal dominant fibrillin
+B) Recessive
+C) X
+D) Y
+Answer: A
+---
+In population, the coalescent with recombination creates:
+A) Ancestral recombination graph
+B) Tree
+C) Line
+D) No graph
+Answer: A
+---
+The B recognition element in Pol III is:
+A) Internal for tRNA
+B) External
+C) Upstream
+D) Downstream
+Answer: A
+---
+A XPE defect causes:
+A) XP group E
+B) A
+C) C
+D) F
+Answer: A
+---
+In the diagram of gap junction plaque, the connexins form:
+[Diagram: Hexameric channels]
+A) 2 nm pores
+B) 10 nm
+C) Tight seal
+D) Adhesion only
+Answer: A
+---
+The Papazian mapping function is for:
+A) Ordered tetrads with chromatid interference
+B) Unordered
+C) Random
+D) Human
+Answer: A
+---
+In the human ceruminous gland, it produces:
+A) Earwax
+B) Sweat
+C) Sebum
+D) Tears
+Answer: A
+---
+The BRCA1/2 is for:
+A) HR in DSB repair
+B) NHEJ
+C) NER
+D) MMR
+Answer: A
+---
+The diagram shows the pre-climax. It is:
+[Diagram: Temporary unstable]
+A) Seral stage
+B) Final
+C) Pioneer
+D) Deflected
+Answer: A
+---
+In evolution, the synteny is:
+A) Conserved gene order
+B) Shuffled
+C) Deleted
+D) Duplicated
+Answer: A
+---
+The sigma W in B. subtilis is for:
+A) General stress
+B) Specific
+C) Heat only
+D) Osmotic only
+Answer: A
+---
+In the diagram of tRNA charging, the aminoacyl-tRNA synthetase recognizes:
+[Diagram: Anticodon and AA]
+A) Both
+B) Anticodon only
+C) AA only
+D) None
+Answer: A
+---
+The probability for 9:3:4 is:
+A) Recessive epistasis
+B) Dominant
+C) Duplicate
+D) Polymeric
+Answer: A
+---
+In photorespiration, the carbon loss is:
+A) 25% of fixed carbon
+B) 0%
+C) 50%
+D) 75%
+Answer: A
+---
+The number of U4/U6 di-snRNP is for:
+A) Tri-snRNP formation
+B) U1
+C) U2
+D) U5
+Answer: A
+---
+In the ETC, the Q module in complex I is for:
+A) Quinone reduction
+B) Proton pump
+C) Electron to Fe-S
+D) All
+Answer: D
+---
+The diagram shows the pedigree for Ehlers-Danlos. It is:
+[Diagram: Collagen defect]
+A) Autosomal dominant types
+B) Recessive
+C) X
+D) Mitochondrial
+Answer: A
+---
+In population, the infinite alleles model assumes:
+A) Infinite possible mutations
+B) Finite
+C) No mutation
+D) Back mutation
+Answer: A
+---
+The PSE in Pol III is:
+A) +8 to -6 for U6 snRNA
+B) Internal
+C) TATA
+D) CAAT
+Answer: A
+---
+A XPG defect causes:
+A) XP group G
+B) A
+C) C
+D) E
+Answer: A
+---
+In the diagram of corneo cy te, the desmosomes are:
+[Diagram: Keratin link]
+A) Intercellular junctions in epidermis
+B) Intra
+C) Apical
+D) Basal
+Answer: A
+---
+The Whitehouse mapping is for:
+A) Fungi with no chromatid interference
+B) With
+C) Human
+D) Drosophila
+Answer: A
+---
+In the human bulbourethral gland, it produces:
+A) Pre-ejaculatory fluid
+B) Semen
+C) Urine
+D) Prostatic
+Answer: A
+---
+The MRE11 is for:
+A) MRN complex in DSB sensing
+B) Excision
+C) Mismatch
+D) Base
+Answer: A
+---
+The diagram shows the autogenic vs allogenic. Autogenic is:
+[Diagram: Community change]
+A) Internal factors
+B) External
+C) Biotic only
+D) Abiotic only
+Answer: A
+---
+In evolution, the transposons are:
+A) Jumping genes
+B) Fixed
+C) Deleted
+D) Stable
+Answer: A
+---
+The sigma X in Streptococcus is for:
+A) Competence
+B) General
+C) Virulence
+D) Heat
+Answer: A
+---
+In the diagram of circular permutation, the head-tail heterogeneity in T4 is for:
+[Diagram: Different starts]
+A) Packaging
+B) Replication
+C) Transcription
+D) Translation
+Answer: A
+---
+The probability for 9:7 is complementary where:
+A) Both genes required
+B) One sufficient
+C) Masking
+D) Additive
+Answer: A
+---
+In photorespiration, the enzyme glycolate dehydrogenase is in plants:
+A) Peroxisome (oxidase)
+B) Mitochondria
+C) Chloroplast
+D) Glyoxysome
+Answer: A
+---
+The number of SART proteins in splicing is for:
+A) Alternative exon inclusion
+B) Constitutive
+C) Repression
+D) Initiation
+Answer: A
+---
+In the ETC, the FMN in complex I accepts:
+A) 2 electrons from NADH
+B) 1
+C) 4
+D) 0
+Answer: A
+---
+The diagram shows the pedigree for retinoblastoma. It is:
+[Diagram: Two-hit]
+A) Knudson two-hit (Rb1)
+B) Single hit
+C) X
+D) Y
+Answer: A
+---
+In population, the stepwise mutation model is for:
+A) Microsatellites
+B) SNPs
+C) Indels
+D) CNV
+Answer: A
+---
+The DSE (downstream sequence element) in Pol II is for:
+A) 3' end processing
+B) 5'
+C) Initiation
+D) Elongation
+Answer: A
+---
+A CSB defect causes:
+A) Cockayne syndrome B
+B) A
+C) XP
+D) TTD
+Answer: A
+---
+In the diagram of macular gap junction, the connexons are:
+[Diagram: Aligned hexamers]
+A) Cell-cell communication
+B) Adhesion
+C) Seal
+D) Anchor
+Answer: A
+---
+The Papazian 2-strand model is for:
+A) Double strand interference
+B) Single
+C) No
+D) Tetrad
+Answer: A
+---
+In the human Bartholin's gland, it is homologous to:
+A) Cowper's in male
+B) Prostate
+C) Seminal vesicle
+D) Bulbourethral
+Answer: D
+---
+The Ku70/80 is for:
+A) NHEJ binding DSB
+B) HR
+C) NER
+D) MMR
+Answer: A
+---
+The diagram shows the deflected seral stage. Due to:
+[Diagram: Fire or grazing]
+A) Abiotic or biotic interruption
+B) Natural progression
+C) Climax
+D) Pioneer
+Answer: A
+---
+In evolution, the colinearity hypothesis is:
+A) Gene order = protein sequence
+B) Shuffled
+C) Non-colinear
+D) Introns break
+Answer: A
+---
+The sigma T in Clostridium is for:
+A) TcdA toxin
+B) General
+C) Heat
+D) Sporulation
+Answer: A
+---
+In the diagram of transesterification, the first step in splicing is:
+[Diagram: 5' GU to branch A]
+A) Lariat formation
+B) Second transester
+C) Exon join
+D) Cap
+Answer: A
+---
+The probability for 15:1 is duplicate dominant where:
+A) Either gene gives phenotype
+B) Both needed
+C) Masking
+D) Lethal
+Answer: A
+---
+In photorespiration, the 2 molecules glycolate from one oxygenation yield:
+A) 0.5 RuBP regenerated
+B) 1
+C) 0
+D) 2
+Answer: A
+---
+The number of Tra2 proteins in splicing is for:
+A) Enhancer in sex-specific
+B) Repressor
+C) Initiation
+D) Termination
+Answer: A
+---
+In the ETC, the NDUFS subunits are for:
+A) Iron-sulfur clusters in I
+B) Heme
+C) Cu
+D) FAD
+Answer: A
+---
+The diagram shows the pedigree for hemophilia B. The factor IX is on:
+[Diagram: Xq]
+A) X chromosome
+B) 11
+C) 19
+D) 7
+Answer: A
+---
+In population, the Ewens sampling formula is for:
+A) Allele frequency spectrum
+B) Fixed
+C) Two alleles
+D) Infinite sites
+Answer: A
+---
+The GPE (general promoter element) in Pol III is:
+A) TATA for VA RNA
+B) Internal
+C) Upstream
+D) Downstream
+Answer: A
+---
+A XPH1 defect is in:
+A) TFIIH (XP helicase)
+B) XPA
+C) XPC
+D) XPG
+Answer: A
+---
+In the diagram of lattice desmosome, it forms:
+[Diagram: 3D network in BM]
+A) Anchoring fibrils
+B) Cell-cell
+C) Cell-ECM
+D) Apical
+Answer: C
+---
+The Whitehouse 3-strand model assumes:
+A) Three strand double crossover
+B) Two
+C) Four
+D) One
+Answer: A
+---
+In the human Skene's gland, it is homologous to:
+A) Prostate in male
+B) Bulbourethral
+C) Seminal
+D) Testis
+Answer: A
+---
+The Lig4 is for:
+A) Ligation in NHEJ
+B) HR
+C) NER
+D) Excision
+Answer: A
+---
+The diagram shows the neo-climax. It is:
+[Diagram: Post disturbance]
+A) New stable after change
+B) Original
+C) Unstable
+D) Pioneer
+Answer: A
+---
+In evolution, the hox cluster is:
+A) Conserved for anterior-posterior
+B) Shuffled
+C) Lost
+D) Variable
+Answer: A
+---
+The sigma Y in Bacillus is for:
+A) YjbJ regulation (unknown)
+B) General
+C) Competence
+D) Sporulation
+Answer: C
+---
+In the diagram of circular RNA, it is formed by:
+[Diagram: Back-splicing]
+A) Exon ligation
+B) Intron
+C) Linear
+D) Degraded
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) Independent assortment
+B) Linkage
+C) Epistasis
+D) Lethal
+Answer: A
+---
+In photorespiration, the glycine decarboxylase complex has:
+A) Lipoamide, THF, pyruvate-like
+B) Simple
+C) One subunit
+D) No cofactor
+Answer: A
+---
+The number of SF3b in U2 snRNP is for:
+A) Branch point binding
+B) 5' splice
+C) 3' splice
+D) Exon
+Answer: A
+---
+In the ETC, the COX17 is for:
+A) Copper delivery to complex IV
+B) Iron
+C) Fe-S
+D) FAD
+Answer: A
+---
+The diagram shows the pedigree for ornithine transcarbamylase deficiency. It is:
+[Diagram: Urea cycle X-linked]
+A) X-linked
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Moran model is:
+A) Birth-death process
+B) Continuous
+C) Wright-Fisher
+D) Cannings
+Answer: A
+---
+The PSE in Pol II is for:
+A) TBP recruitment
+B) Elongation
+C) Termination
+D) Pausing
+Answer: A
+---
+A XPE/DDB2 defect causes:
+A) XP group E
+B) A
+C) C
+D) F
+Answer: A
+---
+In the diagram of anchoring junction, the type IV collagen in BM is:
+[Diagram: Triple helix]
+A) Scaffold
+B) Fiber
+C) Linker
+D) Integrin
+Answer: A
+---
+The Carr mapping function is for:
+A) High negative interference
+B) Positive
+C) No
+D) Low
+Answer: A
+---
+In the human Cowper's gland, it produces:
+A) Alkaline fluid
+B) Acidic
+C) Prostatic
+D) Seminal
+Answer: A
+---
+The XRCC4 is for:
+A) DNA-PKcs partner in NHEJ
+B) Ligase
+C) Ku
+D) Artemis
+Answer: A
+---
+The diagram shows the subclimax. It is:
+[Diagram: Local variation]
+A) Microclimate variation
+B) Full climax
+C) Pioneer
+D) Deflected
+Answer: A
+---
+In evolution, the ultrametric tree is for:
+A) Molecular clock
+B) Variable rate
+C) Additive
+D) No root
+Answer: A
+---
+The sigma J in Streptomyces is for:
+A) Development stage
+B) General
+C) Antibiotic
+D) Heat
+Answer: A
+---
+In the diagram of group II self-splicing, the EBS-IBS pairing is:
+[Diagram: Complementarity]
+A) For lariat
+B) No lariat
+C) Protein
+D) External
+Answer: A
+---
+The probability for 9:3:4 is:
+A) Recessive epistasis (hypostatic cc)
+B) Dominant
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the oxygenation specificity factor tau = (Vc Ko)/(Vo Kc) where high tau means:
+A) More carboxylation
+B) More oxygenation
+C) Equal
+D) No Rubisco
+Answer: A
+---
+The number of U11/U12 snRNPs is for:
+A) Minor spliceosome (AT-AC)
+B) Major
+C) Self
+D) No
+Answer: A
+---
+In the ETC, the NDUFA subunits are for:
+A) Accessory in complex I
+B) Core
+C) Heme
+D) Cu
+Answer: A
+---
+The diagram shows the pedigree for Fabry disease. It is:
+[Diagram: Alpha-galactosidase]
+A) X-linked lysosomal
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Cannings model generalizes:
+A) Wright-Fisher with variable offspring
+B) Fixed
+C) Binomial
+D) Poisson
+Answer: A
+---
+The MTE in Pol II is:
+A) +30 motif ten
+B) -30
+C) Internal
+D) Downstream
+Answer: A
+---
+A XPB defect causes:
+A) XP group B (TFIIH helicase)
+B) A
+C) C
+D) G
+Answer: A
+---
+In the diagram of type I hemidesmosome, it uses:
+[Diagram: Alpha6 beta4 integrin]
+A) Laminin 332
+B) Collagen VII
+C) Fibrillin
+D) Elastin
+Answer: A
+---
+The Swanson mapping is for:
+A) Unordered tetrads
+B) Ordered
+C) Human
+D) Linkage
+Answer: A
+---
+In the human preputial gland, it is for:
+A) Smegma
+B) Sweat
+C) Sebum
+D) Cerumen
+Answer: A
+---
+The Artemis is for:
+A) 5' flap endonuclease in NHEJ
+B) 3'
+C) Ligase
+D) Polymerase
+Answer: A
+---
+The diagram shows the fire climax. It is maintained by:
+[Diagram: Periodic fire]
+A) Pyrogenic plants
+B) No fire
+C) Flood
+D) Wind
+Answer: A
+---
+In evolution, the metagenomics reveals:
+A) Microbial diversity
+B) Fossil
+C) Morphology
+D) Behavior
+Answer: A
+---
+The sigma A in Mycobacterium is for:
+A) Housekeeping
+B) Alternative
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of tRNA modification, the queuosine is for:
+[Diagram: Q base]
+A) Codon recognition
+B) Charging
+C) Stability
+D) Export
+Answer: A
+---
+The probability for 12:3:1 is dominant epistasis where:
+A) A masks B/b
+B) B masks A/a
+C) Recessive
+D) Duplicate
+Answer: A
+---
+In photorespiration, the [RuBP] regeneration is:
+A) 75% efficient
+B) 100%
+C) 50%
+D) 0%
+Answer: A
+---
+The number of SLBP (stem-loop binding protein) is for:
+A) Histone mRNA 3' end
+B) PolyA
+C) Cap
+D) Splicing
+Answer: A
+---
+In the ETC, the Qcr subunits are for:
+A) Complex III core
+B) I
+C) IV
+D) II
+Answer: A
+---
+The diagram shows the pedigree for Wiskott-Aldrich. It is:
+[Diagram: WAS gene]
+A) X-linked SCID-like
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the diffusion approximation is for:
+A) Continuous time coalescent
+B) Discrete
+C) Wright-Fisher
+D) Moran
+Answer: A
+---
+The GTF (general transcription factor) TFIID has:
+A) TBP and TAFs
+B) Pol II
+C) Mediator
+D) Elongator
+Answer: A
+---
+A XPD defect causes:
+A) XP group D (TFIIH)
+B) B
+C) E
+D) G
+Answer: A
+---
+In the diagram of type II hemidesmosome, it uses:
+[Diagram: Alpha2 beta1]
+A) Laminin 511
+B) 332
+C) IV
+D) Entactin
+Answer: A
+---
+The Olive mapping function is for:
+A) Ordered data with interference
+B) Unordered
+C) Random
+D) Tetrad
+Answer: A
+---
+In the human areolar gland, it is for:
+A) Odor in armpit
+B) Sweat
+C) Milk
+D) Sebum
+Answer: A
+---
+The DNA-PKcs is for:
+A) Kinase in NHEJ
+B) HR
+C) NER
+D) MMR
+Answer: A
+---
+The diagram shows the stable climax. It has:
+[Diagram: Self-maintaining]
+A) High diversity
+B) Low
+C) Pioneer
+D) Seral
+Answer: A
+---
+In evolution, the panmixia is:
+A) Random mating
+B) Assortative
+C) Disassortative
+D) No mating
+Answer: A
+---
+The sigma L in Myxococcus is for:
+A) Late development
+B) Early
+C) General
+D) Motility
+Answer: A
+---
+In the diagram of snoRNA, the guide for:
+[Diagram: Base pairing rRNA]
+A) rRNA modification
+B) mRNA
+C) tRNA
+D) miRNA
+Answer: A
+---
+The probability for 9:3:3:1 modified to 9:7 is:
+A) Complementary
+B) Epistasis
+C) Linkage
+D) Lethal
+Answer: A
+---
+In photorespiration, the glycine cleavage releases:
+A) CO2 and NH3 (to GS-GOGAT)
+B) O2
+C) H2O2
+D) ATP
+Answer: A
+---
+The number of U7 snRNP is for:
+A) Histone 3' end processing
+B) Splicing
+C) Capping
+D) PolyA
+Answer: A
+---
+In the ETC, the cytochrome bc1 has:
+A) Q-cycle for 4H+/2e-
+B) 2H+
+C) 6H+
+D) 0
+Answer: A
+---
+The diagram shows the pedigree for color blindness. The % affected males in population is:
+[Diagram: Standard X-linked]
+A) q (frequency of allele)
+B) p
+C) p2
+D) q2
+Answer: A
+---
+In population, the Jukes-Cantor model is for:
+A) Nucleotide substitution
+B) AA
+C) Indel
+D) Rearrangement
+Answer: A
+---
+The TEF (transcription enhancer factor) binds:
+A) Serum response element
+B) CRE
+C) AP1
+D) NFkB
+Answer: A
+---
+A XPH2 defect is in:
+A) TFIIH XPB homolog
+B) XPA
+C) XPC
+D) XPG
+Answer: B
+---
+In the diagram of anchoring filament, it is:
+[Diagram: Laminin 332 to integrin]
+A) In hemidesmosome
+B) Desmosome
+C) Gap
+D) Tight
+Answer: A
+---
+The Barratt mapping is for:
+A) Sordaria tetrads
+B) Neurospora
+C) Yeast
+D) Human
+Answer: A
+---
+In the human Tyson gland, it is for:
+A) Smegma in prepuce
+B) Sweat
+C) Sebum
+D) Cerumen
+Answer: A
+---
+The 53BP1 is for:
+A) NHEJ promotion
+B) HR
+C) NER
+D) Exo1
+Answer: A
+---
+The diagram shows the edaphic climax. It is determined by:
+[Diagram: Soil pH]
+A) Local soil
+B) Climate
+C) Biota
+D) Fire
+Answer: A
+---
+In evolution, the gene duplication allows:
+A) Neofunctionalization
+B) No change
+C) Loss
+D) Silencing
+Answer: A
+---
+The sigma RD in Caulobacter is for:
+A) Differentiation
+B) General
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of circular intron, the homing endonuclease cuts:
+[Diagram: Intron mobility]
+A) Empty site
+B) Occupied
+C) Exon
+D) Promoter
+Answer: A
+---
+The probability for 9:3:4 is hypostatic interaction where:
+A) Colorless epistatic to yellow
+B) Yellow to purple
+C) Duplicate
+D) Single
+Answer: A
+---
+In photorespiration, the specificity factor S = VcKo / VoKc, higher in:
+A) C4 Rubisco
+B) C3
+C) CAM
+D) Bacterial
+Answer: A
+---
+The number of U12-dependent snRNAs is:
+A) 4 (minor)
+B) 5
+C) 6
+D) 1
+Answer: A
+---
+In the ETC, the NQO1 is cytosolic:
+A) DT-diaphorase
+B) Mitochondrial
+C) Chloroplast
+D) Peroxisomal
+Answer: A
+---
+The diagram shows the pedigree for Hunter syndrome. It is:
+[Diagram: Iduronate sulfatase]
+A) X-linked
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the site frequency spectrum under neutral is:
+A) Sawtooth shape
+B) Flat
+C) Peak at 1
+D) Peak at high
+Answer: A
+---
+The CRE in Pol II is:
+A) cAMP response
+B) TATA
+C) CAAT
+D) GC
+Answer: A
+---
+A XPF defect causes:
+A) XP group F and Cockayne
+B) A
+C) C
+D) G
+Answer: A
+---
+In the diagram of type VII collagen, it forms:
+[Diagram: Anchoring fibril]
+A) Loops to dermis
+B) Flat sheet
+C) Fiber
+D) Network
+Answer: A
+---
+The Dodge mapping is for:
+A) Unordered tetrads
+B) Ordered
+C) Random
+D) Interference
+Answer: A
+---
+In the human Montgomery gland, it is for:
+A) Areola lubrication
+B) Milk
+C) Sweat
+D) Sebum
+Answer: A
+---
+The Cernunnos is for:
+A) NHEJ non-homologous end joining factor
+B) HR
+C) NER
+D) Ligase
+Answer: A
+---
+The diagram shows the topographic climax. It is:
+[Diagram: Local variation]
+A) Slope exposure difference
+B) Uniform
+C) Soil
+D) Biota
+Answer: A
+---
+In evolution, the conserved non-coding elements (CNE) are:
+A) Regulatory
+B) Coding
+C) Intronic
+D) Intergenic
+Answer: A
+---
+The sigma H in Clostridium is for:
+A) Stage 0 sporulation
+B) Late
+C) General
+D) Toxin
+Answer: A
+---
+In the diagram of snoRNP assembly, the core is:
+A) 7 Sm-like proteins
+B) U1 specific
+C) U2
+D) U6
+Answer: A
+---
+The probability for 12:3:1 is:
+A) Dominant epistasis
+B) Recessive
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the [Rubisco] activator is high CO2 via:
+A) Thioredoxin
+B) Low O2
+C) pH
+D) Mg2+
+Answer: D
+---
+The number of PTBP2 is for:
+A) Neural splicing
+B) Universal
+C) Muscle
+D) Heart
+Answer: A
+---
+In the ETC, the complex V has c-ring rotation for:
+A) 3 ATP per turn (10 c subunits)
+B) 1
+C) 4
+D) Variable
+Answer: A
+---
+The diagram shows the pedigree for mucopolysaccharidosis. It is:
+[Diagram: Lysosomal storage]
+A) Autosomal recessive
+B) Dominant
+C) X
+D) Mitochondrial
+Answer: A
+---
+In population, the Ewens-Watterson test detects:
+A) Neutrality
+B) Selection
+C) Drift
+D) Migration
+Answer: A
+---
+The HSE (heat shock element) binds:
+A) HSF1
+B) CREB
+C) AP1
+D) SP1
+Answer: A
+---
+A XPA defect causes:
+A) XP group A (most severe)
+B) B
+C) C
+D) E
+Answer: A
+---
+In the diagram of laminin network, it is:
+[Diagram: BM layer]
+A) Self-assembly
+B) Collagen IV
+C) Nidogen link
+D) All
+Answer: D
+---
+The Hayes mapping is for:
+A) Bacterial conjugation
+B) Eukaryote
+C) Virus
+D) Mitochondria
+Answer: A
+---
+In the human sebaceous follicle, the holocrine secretion is:
+A) Whole cell breakdown
+B) Apocrine
+C) Merocrine
+D) Endocrine
+Answer: A
+---
+The XRCC1 is for:
+A) Base excision repair scaffold
+B) NER
+C) MMR
+D) HR
+Answer: A
+---
+The diagram shows the seral climax. It is:
+[Diagram: Temporary]
+A) Until disturbance
+B) Permanent
+C) Pioneer
+D) Deflected
+Answer: A
+---
+In evolution, the branch site in introns is for:
+A) Splicing
+B) Evolution rate
+C) Conservation
+D) Variation
+Answer: A
+---
+The sigma R in Streptomyces is for:
+A) Morphological differentiation
+B) General
+C) Antibiotic
+D) Heat
+Answer: A
+---
+In the diagram of tRNA anticodon loop, the modified bases are for:
+[Diagram: I, m1G]
+A) Accuracy
+B) Stability
+C) Charging
+D) All
+Answer: D
+---
+The probability for 13:3 is:
+A) Dominant inhibitor
+B) Recessive
+C) Duplicate
+D) Single
+Answer: A
+---
+In photorespiration, the enzyme for glycolate to glyoxylate is:
+A) Glycolate oxidase (peroxisome)
+B) Dehydrogenase
+C) Kinase
+D) Decarboxylase
+Answer: A
+---
+The number of hnRNP F/H is for:
+A) G-tract splicing
+B) A
+C) U
+D) C
+Answer: A
+---
+In the ETC, the alternative oxidase pathway in plants reduces:
+A) ROS by bypassing
+B) ATP production
+C) Proton gradient
+D) All
+Answer: D
+---
+The diagram shows the pedigree for glucose-6-phosphate dehydrogenase deficiency. It is:
+[Diagram: Favism trigger]
+A) X-linked
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the coalescent rate is:
+A) 1/(2N) per generation
+B) 1/N
+C) 2N
+D) Infinite
+Answer: A
+---
+The SRE (sterol response element) binds:
+A) SREBP
+B) HSF
+C) AP1
+D) NFkB
+Answer: A
+---
+A XPC defect causes:
+A) XP group C (global NER)
+B) A
+C) B
+D) E
+Answer: A
+---
+In the diagram of nidogen, it links:
+[Diagram: Laminin to collagen IV]
+A) BM components
+B) Cells
+C) Fibrils
+D) Elastin
+Answer: A
+---
+The Hayes and Yanofsky mapping is for:
+A) Attenuator in trp
+B) Operator
+C) Promoter
+D) Enhancer
+Answer: A
+---
+In the human apocrine gland, it is in:
+A) Axilla, activated puberty
+B) Everywhere
+C) Palm
+D) Sole
+Answer: A
+---
+The POLQ (theta polymerase) is for:
+A) Alternative end joining
+B) Classical NHEJ
+C) HR
+D) NER
+Answer: A
+---
+The diagram shows the topographic subclimax. It is due to:
+[Diagram: Slope aspect]
+A) Microhabitat
+B) Macro
+C) Soil
+D) Water
+Answer: A
+---
+In evolution, the indel is:
+A) Insertion/deletion
+B) Point
+C) Substitution
+D) Transversion
+Answer: A
+---
+The sigma S in Pseudomonas is for:
+A) Stationary phase
+B) Exponential
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of U12-type intron, the branch point is:
+[Diagram: BPAC]
+A) AC instead of A
+B) GU-AG
+C) AU-AC
+D) Standard
+Answer: C
+---
+The probability for 10:3:3 is duplicate interaction with additive:
+A) Dominant at one locus
+B) Recessive
+C) Single
+D) Epistasis
+Answer: A
+---
+In photorespiration, the malate dehydrogenase in peroxisome uses:
+A) NAD+
+B) NADP+
+C) FAD
+D) O2
+Answer: A
+---
+The number of Tra1 proteins in yeast is for:
+A) HAT complex
+B) Kinase
+C) Helicase
+D) Ligase
+Answer: A
+---
+In the ETC, the NDI1 is yeast alternative:
+A) Internal NADH DH
+B) External
+C) Complex I
+D) II
+Answer: A
+---
+The diagram shows the pedigree for androgen insensitivity. It is:
+[Diagram: XY female]
+A) X-linked AR mutation
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the star-shaped genealogy indicates:
+A) Recent selective sweep
+B) Bottleneck
+C) Expansion
+D) Stable
+Answer: C
+---
+The HRE (hypoxia response element) binds:
+A) HIF1
+B) SREBP
+C) HSF
+D) CREB
+Answer: A
+---
+A XPG defect causes:
+A) XP group G and COFS
+B) A
+C) C
+D) E
+Answer: A
+---
+In the diagram of perlecan, it is:
+[Diagram: HSPG in BM]
+A) Growth factor binder
+B) Structural
+C) Both
+D) None
+Answer: C
+---
+The Pontecorvo mapping is for:
+A) Aspergillus ordered tetrads
+B) Neurospora
+C) Yeast
+D) Human
+Answer: A
+---
+In the human eccrine sweat duct, the reabsorption is of:
+A) NaCl
+B) Water only
+C) K+
+D) Urea
+Answer: A
+---
+The FANCD2 is for:
+A) Fanconi interstrand crosslink
+B) Base
+C) Mismatch
+D) DSB
+Answer: A
+---
+The diagram shows the edaphic subclimax. It is:
+[Diagram: Poor soil forest]
+A) Nutrient limited
+B) Climate limited
+C) Biota
+D) Fire
+Answer: A
+---
+In evolution, the RNA world hypothesis posits:
+A) RNA as first genetic material
+B) DNA first
+C) Protein
+D) Lipid
+Answer: A
+---
+The sigma T in Bacillus is for:
+A) TfoX competence
+B) General
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of U6 snRNA, the 5' stem-loop is for:
+[Diagram: Binding ATP]
+A) Prp24 association
+B) U4
+C) U5
+D) U2
+Answer: A
+---
+The probability for 9:6:1 is:
+A) Dominant and recessive epistasis
+B) Standard
+C) Duplicate
+D) Lethal
+Answer: A
+---
+In photorespiration, the oxygenation rate vs carboxylation is:
+A) 1:4 in C3 at normal
+B) 1:1
+C) 4:1
+D) 0
+Answer: A
+---
+The number of SLU7 is for:
+A) 3' splice site choice
+B) 5'
+C) Branch
+D) Exon
+Answer: A
+---
+In the ETC, the complex IV has:
+A) 14 subunits in mammals
+B) 3
+C) 11
+D) 4
+Answer: A
+---
+The diagram shows the pedigree for Coffin-Lowry. It is:
+[Diagram: RSK2 mutation]
+A) X-linked dominant
+B) Recessive
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the structured coalescent uses:
+A) Migration rates
+B) No structure
+C) Infinite
+D) Single
+Answer: A
+---
+The VRE (viral response element) binds:
+A) IRF for interferon
+B) HSF
+C) AP1
+D) SP1
+Answer: A
+---
+A XPH3 defect is in:
+A) ERCC6 (CSB homolog)
+B) TFIIH
+C) XPA
+D) XPC
+Answer: A
+---
+In the diagram of agrin, it is for:
+[Diagram: NMJ]
+A) Acetylcholine receptor clustering
+B) Synapse formation
+C) Both
+D) None
+Answer: B
+---
+The White and James mapping is for:
+A) Sordaria
+B) Neurospora
+C) Yeast
+D) Drosophila
+Answer: A
+---
+In the human ciliary gland, it is for:
+A) Lid margin mucus
+B) Tear
+C) Sebum
+D) Sweat
+Answer: A
+---
+The LIG3 is for:
+A) Mitochondrial ligase
+B) Nuclear
+C) Bacteria
+D) Virus
+Answer: A
+---
+The diagram shows the fire subclimax. It is:
+[Diagram: Pine forest fire]
+A) Serotinous cones open
+B) No fire
+C) Flood
+D) Wind
+Answer: A
+---
+In evolution, the lateral gene transfer is high in:
+A) Prokaryotes
+B) Eukaryotes
+C) Animals
+D) Plants
+Answer: A
+---
+The sigma I in Pseudomonas is for:
+A) Alginate (mucoidy)
+B) General
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of U12 snRNA, it pairs with:
+[Diagram: 5' U12 to 5' splice]
+A) Minor intron
+B) Major
+C) Self
+D) No
+Answer: A
+---
+The probability for 9:3:3:1 with lethal is:
+A) 2:1
+B) 3:1
+C) 1:2:1
+D) 9:7
+Answer: A
+---
+In photorespiration, the quantum yield drop is:
+A) 25% lower than photosynthesis
+B) Same
+C) Higher
+D) Zero
+Answer: A
+---
+The number of U5 snRNP roles is in:
+A) Both splice sites
+B) 5' only
+C) 3' only
+D) Branch
+Answer: A
+---
+In the ETC, the NDUFB subunits are for:
+A) Assembly
+B) Core
+C) Proton
+D) Electron
+Answer: A
+---
+The diagram shows the pedigree for Menkes disease. It is:
+[Diagram: Copper transport]
+A) X-linked ATP7A
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Tajima's D tests for:
+A) Selection vs neutral
+B) Migration
+C) Drift
+D) Growth
+Answer: A
+---
+The ARE in Pol II is for:
+A) AU-rich instability
+B) Stability
+C) Translation
+D) Splicing
+Answer: A
+---
+A XPD defect causes:
+A) XP and TTD
+B) Only XP
+C) Only Cockayne
+D) Fanconi
+Answer: A
+---
+In the diagram of dystroglycan, it links:
+[Diagram: Laminin to actin]
+A) DGC complex
+B) Desmin
+C) Keratin
+D) Vimentin
+Answer: A
+---
+The Hayes coefficient is for:
+A) Coincidence in bacteria
+B) Eukaryote
+C) Virus
+D) mtDNA
+Answer: A
+---
+In the human urethral gland, it is for:
+A) Lubrication in female
+B) Male Cowper's
+C) Both
+D) None
+Answer: C
+---
+The POLμ is for:
+A) NHEJ polymerase
+B) HR
+C) TLS
+D) Replisome
+Answer: A
+---
+The diagram shows the stable seral. It is:
+[Diagram: Intermediate stable]
+A) Sere stage
+B) Climax
+C) Pioneer
+D) Neo
+Answer: A
+---
+In evolution, the barcode gap is for:
+A) Species delimitation
+B) Gene tree
+C) Network
+D) Clade
+Answer: A
+---
+The sigma E in Clostridium is for:
+A) Stage II sporulation
+B) Stage 0
+C) General
+D) Toxin
+Answer: A
+---
+In the diagram of U4 snRNA, it forms:
+[Diagram: U4/U6 di-snRNP]
+A) With U6 stem-loop
+B) U1
+C) U2
+D) U5
+Answer: A
+---
+The probability for 9:3:4 is:
+A) Hypostatic recessive
+B) Hypostatic dominant
+C) Duplicate
+D) Polymeric
+Answer: A
+---
+In photorespiration, the Km for O2 of Rubisco is:
+A) Higher than CO2 in air
+B) Lower
+C) Equal
+D) No Km
+Answer: A
+---
+The number of U1A proteins is for:
+A) U1 snRNP stability
+B) Splicing
+C) Export
+D) Degradation
+Answer: A
+---
+In the ETC, the complex III dimer has:
+A) 2 Q-cycle sites
+B) 1
+C) 3
+D) 4
+Answer: A
+---
+The diagram shows the pedigree for incontinentia pigmenti. It is:
+[Diagram: Lethal in males]
+A) X-linked dominant
+B) Recessive
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the Fu's Fs tests for:
+A) Excess rare alleles (expansion)
+B) Excess common
+C) Neutral
+D) Selection
+Answer: A
+---
+The GCR (general control repression) in yeast is for:
+A) Ribosomal genes
+B) Housekeeping
+C) Stress
+D) Growth
+Answer: A
+---
+A XPE defect causes:
+A) XP group E (DDB)
+B) A
+C) C
+D) G
+Answer: A
+---
+In the diagram of entactin/nidogen, it bridges:
+[Diagram: Laminin-collagen IV]
+A) BM network
+B) Cells
+C) Fibrils
+D) Elastin
+Answer: A
+---
+The Pontecorvo-Zalokar technique is for:
+A) Aspergillus conidial analysis
+B) Tetrad
+C) Random
+D) Ordered
+Answer: A
+---
+In the human Moll's gland, it is for:
+A) Meibomian (eyelid sebum)
+B) Lacrimal
+C) Ciliary
+D) Harderian
+Answer: A
+---
+The TDP1 is for:
+A) Topoisomerase stuck repair
+B) DSB
+C) NER
+D) MMR
+Answer: A
+---
+The diagram shows the post-seral. It is:
+[Diagram: After climax disturbance]
+A) Secondary succession
+B) Primary
+C) Stable
+D) Pioneer
+Answer: B
+---
+In evolution, the codon bias is due to:
+A) Selection for translation efficiency
+B) Neutral
+C) Drift
+D) Mutation
+Answer: A
+---
+The sigma Q in Bacillus is for:
+A) Unknown, possibly quorum
+B) General
+C) Competence
+D) Heat
+Answer: A
+---
+In the diagram of U6 internal loop, it binds:
+[Diagram: ATP]
+A) Prp8
+B) U4
+C) U2
+D) U5
+Answer: A
+---
+The probability for 9:3:3:1 with modifier is:
+A) Modified ratio
+B) Standard
+C) Linkage
+D) Epistasis
+Answer: A
+---
+In photorespiration, the [CO2] threshold for Rubisco carboxylase is:
+A) >5 μM
+B) <1 μM
+C) 10 μM
+D) 0
+Answer: A
+---
+The number of U2B" is for:
+A) U2 snRNP
+B) U1
+C) U4
+D) U6
+Answer: A
+---
+In the ETC, the complex I has 45 subunits in mammals, including:
+A) 14 core + 31 accessory
+B) 7
+C) 11
+D) 3
+Answer: A
+---
+The diagram shows the pedigree for Rett syndrome. It is:
+[Diagram: MECP2]
+A) X-linked dominant, lethal in males
+B) Recessive
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the Kelly's coefficient is for:
+A) Relatedness
+B) Inbreeding
+C) Drift
+D) Selection
+Answer: A
+---
+The HSF (heat shock factor) binds:
+A) HSE
+B) CRE
+C) ARE
+D) SRE
+Answer: A
+---
+A XPG defect causes:
+A) XP group G (endonucleas e)
+B) B
+C) D
+D) F
+Answer: A
+---
+In the diagram of BMZ (basement membrane zone), the layers are:
+[Diagram: Lamina lucida, densa]
+A) Plasma membrane to ECM
+B) Cell-cell
+C) Intra
+D) Extracellular only
+Answer: A
+---
+The Barratt and Ostergren mapping is for:
+A) Neurospora linear tetrads
+B) Circular
+C) Random
+D) Unordered
+Answer: A
+---
+In the human Zymogenic gland, it is for:
+A) Gastric chief cells (pepsinogen)
+B) Parietal
+C) Mucous
+D) Endocrine
+Answer: A
+---
+The POLβ is for:
+A) Short patch BER
+B) Long patch
+C) TLS
+D) Replisome
+Answer: A
+---
+The diagram shows the retrogressive succession. It is:
+[Diagram: Erosion]
+A) Degradation to earlier stage
+B) Progress
+C) Stable
+D) Climax
+Answer: A
+---
+In evolution, the dN/dS ratio <1 indicates:
+A) Purifying selection
+B) Positive
+C) Neutral
+D) Relaxed
+Answer: A
+---
+The sigma V in Clostridium is for:
+A) VirR regulon
+B) General
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of U1 snRNP, the SF3a/b is for:
+A) U2 association
+B) 5' splice
+C) Branch
+D) 3' splice
+Answer: A
+---
+The probability for 9:3:4 is:
+A) cc epistatic to B gene for color
+B) B epistatic to C
+C) Duplicate
+D) Polymeric
+Answer: A
+---
+In photorespiration, the V o / Vc ratio increases with:
+A) Temperature
+B) CO2
+C) O2 decrease
+D) RuBP increase
+Answer: A
+---
+The number of U5 100K is for:
+A) Large subunit U5
+B) Small
+C) U1
+D) U2
+Answer: A
+---
+In the ETC, the complex IV pumps:
+A) 2H+ per 2e-
+B) 4
+C) 6
+D) 0
+Answer: A
+---
+The diagram shows the pedigree for adrenoleukodystrophy. It is:
+[Diagram: ABCD1]
+A) X-linked peroxisomal
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Garza-Williamson index is for:
+A) Bottleneck detection
+B) Expansion
+C) Selection
+D) Migration
+Answer: A
+---
+The G-box in promoters binds:
+A) bZIP factors
+B) AP2
+C) MYB
+D) WRKY
+Answer: A
+---
+A CS defect causes:
+A) Combined NER and TCR defect
+B) NER only
+C) TCR only
+D) No
+Answer: A
+---
+In the diagram of laminin trimer, it is:
+[Diagram: Alpha beta gamma chains]
+A) Cross-shaped
+B) Linear
+C) Triple helix
+D) Globular
+Answer: A
+---
+The Creighton and McClintock experiment showed:
+A) Physical exchange in crossing over
+B) No exchange
+C) Gene conversion
+D) Mitotic
+Answer: A
+---
+In the human Brunner gland, it is for:
+A) Duodenal mucus
+B) Gastric
+C) Intestinal
+D) Pancreatic
+Answer: A
+---
+The APE1 is for:
+A) AP endonuclease in BER
+B) Phosphatase
+C) Kinase
+D) Ligase
+Answer: A
+---
+The diagram shows the progressive succession. It is from:
+[Diagram: Bare to forest]
+A) Pioneer to climax
+B) Reverse
+C) Stable
+D) Cyclic
+Answer: A
+---
+In evolution, the GC content bias is due to:
+A) Replication timing or selection
+B) Neutral
+C) Drift
+D) Mutation only
+Answer: A
+---
+The sigma G in Clostridium is for:
+A) Late sporulation
+B) Early
+C) General
+D) Toxin
+Answer: A
+---
+In the diagram of U4/U6, the unwinding is by:
+[Diagram: Prp28 helicase]
+A) For catalysis
+B) Binding
+C) Assembly
+D) Export
+Answer: A
+---
+The probability for 9:3:3:4 is:
+A) Recessive epistasis
+B) Dominant
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the photorespiratory CO2 release is in:
+A) Mitochondria
+B) Peroxisome
+C) Chloroplast
+D) Cytosol
+Answer: A
+---
+The number of U6-60K is for:
+A) U6 assembly
+B) U1
+C) U2
+D) U5
+Answer: A
+---
+In the ETC, the complex I FMN has:
+A) Potential -380 mV
+B) +200
+C) 0
+D) +400
+Answer: A
+---
+The diagram shows the pedigree for Barth syndrome. It is:
+[Diagram: TAZ gene]
+A) X-linked cardiolipin defect
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Fay and Wu's H is for:
+A) Positive selection (high frequency derived)
+B) Neutral
+C) Bottleneck
+D) Expansion
+Answer: A
+---
+The ABRE (ABA responsive) binds:
+A) ABF/ AREB
+B) bZIP
+C) MYC
+D) DREB
+Answer: A
+---
+A XPG defect causes:
+A) XP and Cockayne overlap
+B) Only XP
+C) Only TTD
+D) Fanconi
+Answer: A
+---
+In the diagram of type IV collagen, it forms:
+[Diagram: Triple helix network]
+A) BM scaffold
+B) Fibril
+C) Fiber
+D) Sheet
+Answer: A
+---
+The Lindegren and Lindegren mapping is for:
+A) Yeast
+B) Neurospora
+C) Aspergillus
+D) Sordaria
+Answer: A
+---
+In the human tubuloalveolar gland, the example is:
+A) Salivary
+B) Sebaceous
+C) Sweat
+D) All
+Answer: A
+---
+The PNKP is for:
+A) Phosphorylation/dephosphorylation in repair
+B) Ligation
+C) Excision
+D) Binding
+Answer: A
+---
+The diagram shows the retrogressive subclimax. It is due to:
+[Diagram: Erosion or pollution]
+A) Degradation
+B) Enrichment
+C) Stable
+D) Progress
+Answer: A
+---
+In evolution, the branch length in phylogram is:
+A) Number of changes
+B) Time
+C) Both
+D) None
+Answer: A
+---
+The sigma F in Myxococcus is for:
+A) Fruiting body
+B) Myxospore
+C) General
+D) Motility
+Answer: A
+---
+In the diagram of U12/U6, the ATP is for:
+[Diagram: Minor spliceosome]
+A) Conformational change
+B) Binding
+C) Cleavage
+D) Ligation
+Answer: A
+---
+The probability for 9:3:4 is:
+A) Colorless (cc) masks purple (B-)
+B) Yellow masks
+C) Duplicate
+D) Single
+Answer: A
+---
+In photorespiration, the Vc max / Vo max ratio is:
+A) 3-10 in C3
+B) 1
+C) 20
+D) 0
+Answer: A
+---
+The number of U11-35K is for:
+A) Minor 5' splice
+B) Major
+C) Branch
+D) 3' splice
+Answer: A
+---
+In the ETC, the complex II has no:
+A) Proton pumping
+B) Electron transfer
+C) FAD
+D) Fe-S
+Answer: A
+---
+The diagram shows the pedigree for Pelizaeus-Merzbacher. It is:
+[Diagram: PLP1 duplication]
+A) X-linked leukodystrophy
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Kelly's index K is:
+A) Average relatedness
+B) 0
+C) 1
+D) Infinite
+Answer: A
+---
+The GRE (glucocorticoid response) binds:
+A) GR
+B) ER
+C) TR
+D) PR
+Answer: A
+---
+A XPV defect causes:
+A) Variant XP (polymerase eta)
+B) Classical
+C) Cockayne
+D) TTD
+Answer: A
+---
+In the diagram of bullous pemphigoid, the autoantibody is to:
+[Diagram: Hemidesmosome]
+A) BP180/230
+B) Desmoglein
+C) Plakoglobin
+D) Cadherin
+Answer: A
+---
+The Whitehouse model 4-strand is for:
+A) Four strand double crossover
+B) Two
+C) Three
+D) One
+Answer: A
+---
+In the human vestibular gland, it is for:
+A) Vaginal lubrication
+B) Urethral
+C) Ovarian
+D) Uterine
+Answer: A
+---
+The POLλ is for:
+A) NHEJ and BER
+B) TLS
+C) Replisome
+D) Mitochondrial
+Answer: A
+---
+The diagram shows the pre-seral. It is:
+[Diagram: Initial colonization]
+A) Pioneer community
+B) Seral
+C) Climax
+D) Subclimax
+Answer: A
+---
+In evolution, the dS is:
+A) Synonymous substitution rate
+B) Non-syn
+C) Total
+D) Indel
+Answer: A
+---
+The sigma P in Clostridium is for:
+A) Phosphotransferase
+B) General
+C) Stage I
+D) Late
+Answer: A
+---
+In the diagram of U4 stem-loop, the Sm core is:
+[Diagram: Sm proteins]
+A) Common to snRNPs
+B) Unique
+C) No Sm
+D) U7 only
+Answer: A
+---
+The probability for 9:3:3:1 is dihybrid independent:
+A) 9:3:3:1
+B) Modified
+C) Linkage
+D) Epistasis
+Answer: A
+---
+In photorespiration, the isocitrate dehydrogenase is not involved; it's:
+A) 3-PGA kinase
+B) No
+C) Yes
+D) In TCA
+Answer: B
+---
+The number of U5 200K is for:
+A) Large U5 specific
+B) Small
+C) U1
+D) U2
+Answer: A
+---
+In the ETC, the complex I arm is:
+A) Peripheral (matrix)
+B) Membrane
+C) Both
+D) Soluble
+Answer: C
+---
+The diagram shows the pedigree for ectodermal dysplasia. It is:
+[Diagram: EDA gene]
+A) X-linked
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Wall's B is for:
+A) Tajima analog for windows
+B) Whole
+C) Gene
+D) Locus
+Answer: A
+---
+The IRE (iron response) binds:
+A) IRP
+B) HIF
+C) SREBP
+D) HSF
+Answer: A
+---
+A XPH defect is in:
+A) TFIIH XP helicases
+B) Binding
+C) Endonuclease
+D) Ligase
+Answer: A
+---
+In the diagram of plectin, it links:
+[Diagram: Hemidesmosome to IF]
+A) Intermediate filaments
+B) Actin
+C) Microtubule
+D) All
+Answer: A
+---
+The Hayes and Pontecorvo mapping is for:
+A) Fungal genetics
+B) Bacterial
+C) Viral
+D) Human
+Answer: A
+---
+In the human vulvovaginal gland, it is for:
+A) Bartholin's mucus
+B) Sebaceous
+C) Sweat
+D) Apocrine
+Answer: A
+---
+The PAXIP1 is for:
+A) NHEJ chromatin remodeling
+B) HR
+C) NER
+D) Transcription
+Answer: A
+---
+The diagram shows the topographic seral. It is influenced by:
+[Diagram: Altitude]
+A) Elevation
+B) Latitude
+C) Longitude
+D) Depth
+Answer: A
+---
+In evolution, the omega (dN/dS) >1 indicates:
+A) Positive selection
+B) Purifying
+C) Neutral
+D) Relaxed
+Answer: A
+---
+The sigma C in Clostridium is for:
+A) Carbon metabolism
+B) General
+C) Stage
+D) Toxin
+Answer: A
+---
+In the diagram of U1C protein, it is for:
+[Diagram: 5' splice interaction]
+A) Base pairing
+B) Sm
+C) Stability
+D) Export
+Answer: A
+---
+The probability for 9:3:4 is:
+A) 9 colored, 3 yellow, 4 colorless
+B) 9:7
+C) 12:3:1
+D) 15:1
+Answer: A
+---
+In photorespiration, the glycolate oxidase produces:
+A) H2O2 (catalase detox)
+B) O2
+C) CO2
+D) NH3
+Answer: A
+---
+The number of U2AF65 is for:
+A) 3' AG recognition
+B) 5' GU
+C) Branch A
+D) Exon
+Answer: A
+---
+In the ETC, the complex III has cyt b6f in plants for:
+A) Chloroplast
+B) Mitochondria
+C) Both
+D) Peroxisome
+Answer: A
+---
+The diagram shows the pedigree for hypophosphatemic rickets. It is:
+[Diagram: PHEX]
+A) X-linked dominant
+B) Recessive
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the Rosenberg's Kst is for:
+A) Population subdivision
+B) Single
+C) Gene flow
+D) Drift
+Answer: A
+---
+The VDR (vitamin D response) binds:
+A) RXR-VDR heterodimer
+B) Homodimer
+C) TR
+D) RAR
+Answer: A
+---
+A XPV defect causes:
+A) XP variant (replication)
+B) Classical NER
+C) TCR
+D) BER
+Answer: A
+---
+In the diagram of integrin activation, the talin binds:
+[Diagram: Beta tail]
+A) Inside-out signaling
+B) Outside-in
+C) Both
+D) None
+Answer: C
+---
+The White and Luft mapping is for:
+A) Ascobolus
+B) Neurospora
+C) Yeast
+D) Sordaria
+Answer: A
+---
+In the human ceruminous, the secretion is:
+A) Apocrine-like wax
+B) Merocrine
+C) Holocrine
+D) Endocrine
+Answer: A
+---
+The PGM3 is for:
+A) Galactose epimerase in salvage
+B) De novo
+C) Breakdown
+D) Storage
+Answer: A
+---
+The diagram shows the deflected topographic. It is:
+[Diagram: Grazing on slope]
+A) Biotic on topography
+B) Abiotic
+C) Natural
+D) Stable
+Answer: A
+---
+In evolution, the Ks is:
+A) Synonymous divergence
+B) Non-syn
+C) Total
+D) Gap
+Answer: A
+---
+The sigma T in Streptomyces is for:
+A) Transition to stationary
+B) General
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of U6 cyclization, it forms:
+[Diagram: Circular U6]
+A) For stability
+B) Linear
+C) Degraded
+D) Modified
+Answer: A
+---
+The probability for 12:3:1 is:
+A) Dominant epistasis (A masks)
+B) Recessive
+C) Duplicate
+D) Complementary
+Answer: A
+---
+In photorespiration, the photorespiratory rate is 20-30% of:
+A) Photosynthesis in C3
+B) C4
+C) CAM
+D) Algae
+Answer: A
+---
+The number of SF1 is for:
+A) Branch point binding
+B) 5' splice
+C) 3' splice
+D) Exon definition
+Answer: A
+---
+In the ETC, the complex IV has CuA and CuB:
+A) For electron transfer to O2
+B) Proton
+C) FAD
+D) Fe-S
+Answer: A
+---
+The diagram shows the pedigree for agammaglobulinemia. It is:
+[Diagram: BTK]
+A) X-linked Btk
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Slatkin's linearized is for:
+A) Fst /(1-Fst) vs distance
+B) Gene flow
+C) Drift
+D) Selection
+Answer: A
+---
+The XRE (xenobiotic response) binds:
+A) AhR for toxins
+B) HIF
+C) GR
+D) ER
+Answer: A
+---
+A XPD defect causes:
+A) XP, TTD, Cockayne
+B) Only XP
+C) Only TTD
+D) Fanconi
+Answer: A
+---
+In the diagram of perlecan core protein, it has:
+[Diagram: HSPG domains]
+A) Ig-like and laminin-like
+B) Single
+C) Triple
+D) Globular
+Answer: A
+---
+The Creighton-McClintock is famous for:
+A) Cytological proof of crossing over
+B) Mapping
+C) Tetrad
+D) Conjugation
+Answer: A
+---
+In the human accessory olfactory gland, it is for:
+A) Vomeronasal
+B) Main
+C) Lacrimal
+D) Salivary
+Answer: A
+---
+The POLθ is for:
+A) Microhomology mediated end joining
+B) Classical
+C) HR
+D) NER
+Answer: A
+---
+The diagram shows the retrogressive seral. It is from climax to:
+A) Earlier stage by degradation
+B) Pioneer
+C) Stable
+D) Progress
+Answer: A
+---
+In evolution, the rho (divergence) is:
+A) Number of substitutions
+B) Time
+C) Rate
+D) All
+Answer: D
+---
+The sigma B in Pseudomonas is for:
+A) Oxidative stress
+B) General
+C) Heat
+D) Osmotic
+Answer: A
+---
+In the diagram of U12-dependent, the U11 pairs with:
+[Diagram: 5' splice minor]
+A) U12 with branch U6atac
+B) U6
+C) U4atac
+D) Standard U1
+Answer: A
+---
+The probability for 15:1 is:
+A) Duplicate dominant genes
+B) Single
+C) Epistasis
+D) Lethal
+Answer: A
+---
+In photorespiration, the malate export from bundle sheath in C4 is for:
+A) NADPH to mesophyll
+B) ATP
+C) CO2
+D) O2
+Answer: A
+---
+The number of U4/U6.U5 tri-snRNP is formed by:
+A) Prp2, Prp16 helicases
+B) Sm
+C) U1
+D) U2
+Answer: A
+---
+In the ETC, the complex I has Q-binding site in:
+A) 49 kDa subunit
+B) ND1
+C) PSST
+D) TYKY
+Answer: A
+---
+The diagram shows the pedigree for choroideremia. It is:
+[Diagram: RAB]
+A) X-linked retinal degeneration
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Hudson-Kaplan test is for:
+A) HKA (neutral vs selected)
+B) Tajima
+C) Fu
+D) Wall
+Answer: A
+---
+The ARE (androgen response) binds:
+A) AR homodimer
+B) GR
+C) ER
+D) TR
+Answer: A
+---
+A XPA defect causes:
+A) XP group A
+B) B
+C) C
+D) E
+Answer: A
+---
+In the diagram of laminin 111, it is:
+[Diagram: EHS tumor]
+A) Alpha1 beta1 gamma1
+B) 332
+C) 511
+D) Alpha2
+Answer: A
+---
+The Barratt mapping for:
+A) Sordaria fimicola
+B) Neurospora crassa
+C) Saccharomyces
+D) Aspergillus
+Answer: A
+---
+In the human sweat gland myoepithelial, it contracts for:
+A) Expulsion
+B) Production
+C) Reabsorption
+D) Secretion
+Answer: A
+---
+The PIF1 is for:
+A) Helicase in replication/repair
+B) Ligase
+C) Polymerase
+D) Endonuclease
+Answer: A
+---
+The diagram shows the pre-climax seral. It is:
+A) Almost climax
+B) Early
+C) Middle
+D) Pioneer
+Answer: A
+---
+In evolution, the Ks saturation is when:
+A) Multiple hits obscure
+B) Low divergence
+C) High
+D) Zero
+Answer: A
+---
+The sigma R in Myxococcus is for:
+A) Response regulator
+B) General
+C) Development
+D) Motility
+Answer: C
+---
+In the diagram of U6-27K, it is for:
+[Diagram: U6 binding]
+A) Prp38 association
+B) Sm
+C) U4
+D) U5
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) Dihybrid
+B) Monohybrid
+C) Trihybrid
+D) Linkage
+Answer: A
+---
+In photorespiration, the glycine to serine ratio carbon is:
+A) 2C to 3C, net loss 1C as CO2
+B) Gain
+C) No change
+D) 4C
+Answer: A
+---
+The number of U1C is for:
+A) U1 snRNP 5' interaction
+B) U2
+C) U4
+D) U6
+Answer: A
+---
+In the ETC, the complex I Q reduction is by:
+A) 2e- from Fe-S to Q
+B) 1e-
+C) 4e-
+D) 0
+Answer: A
+---
+The diagram shows the pedigree for oculopharyngeal MD. It is:
+[Diagram: PABPN1]
+A) Autosomal dominant GCN repeat
+B) Recessive
+C) X
+D) Mitochondrial
+Answer: A
+---
+In population, the McDonald-Kreitman test compares:
+A) Polymorphism vs divergence for selection
+B) Neutral
+C) Drift
+D) Migration
+Answer: A
+---
+The PRE (progesterone response) binds:
+A) PR
+B) AR
+C) GR
+D) MR
+Answer: A
+---
+A XPC defect causes:
+A) XP group C
+B) A
+C) B
+D) E
+Answer: A
+---
+In the diagram of collagen type XV, it is:
+[Diagram: BM associated]
+A) FACIT collagen
+B) Fibril forming
+C) Network
+D) Beaded
+Answer: A
+---
+The Creighton-McClintock used:
+A) Corn waxy and C sh2 markers
+B) Pea
+C) Fruit fly
+D) Neurospora
+Answer: A
+---
+In the human mammary gland, the myoepithelial contraction is by:
+A) Oxytocin
+B) Prolactin
+C) Estrogen
+D) Progesterone
+Answer: A
+---
+The POLη is for:
+A) TLS opposite thymine dimers
+B) Accurate
+C) Replisome
+D) Mitochondrial
+Answer: A
+---
+The diagram shows the post-climax seral. It is:
+A) Further development
+B) Regression
+C) Stable
+D) Pioneer
+Answer: A
+---
+In evolution, the omega =1 indicates:
+A) Neutral evolution
+B) Positive
+C) Negative
+D) Relaxed
+Answer: A
+---
+The sigma K in Clostridium is for:
+A) Sigma K like in late sporulation
+B) Early
+C) General
+D) Vegetative
+Answer: A
+---
+In the diagram of U5 loop 1, it interacts with:
+[Diagram: Exon ends]
+A) For exon ligation
+B) 5' splice
+C) Branch
+D) 3' splice
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) Independent
+B) Complete linkage
+C) Partial
+D) No crossover
+Answer: A
+---
+In photorespiration, the serine C3 enters chloroplast as:
+A) 3-PGA
+B) Via triose-P/Pi antiporter
+C) Direct
+D) Glycine
+Answer: B
+---
+The number of U2AF35 is for:
+A) 3' AG
+B) Branch U2AF65
+C) 5' GU
+D) Exon
+Answer: A
+---
+In the ETC, the complex I has 8 Fe-S clusters transferring:
+A) e- from FMN to Q
+B) To O2
+C) To cyt c
+D) To FAD
+Answer: A
+---
+The diagram shows the pedigree for siderius type X-linked. It is:
+[Diagram: ARX mutation]
+A) X-linked lissencephaly
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Rozas test is for:
+A) Recombination rate
+B) Selection
+C) Drift
+D) Migration
+Answer: A
+---
+The TRE (thyroid response) binds:
+A) TR-RXR
+B) GR
+C) AR
+D) PR
+Answer: A
+---
+A XPG defect causes:
+A) XP group G
+B) A
+C) B
+D) C
+Answer: A
+---
+In the diagram of laminin alpha5, it is in:
+[Diagram: Kidney BM]
+A) Glomerular
+B) Epidermal
+C) Liver
+D) Lung
+Answer: A
+---
+The Creighton-McClintock confirmed:
+A) Genetic crossing over = physical
+B) No
+C) Cytological only
+D) Mapping only
+Answer: A
+---
+In the human prostate, the glandular epithelium is:
+A) Columnar secretory
+B) Squamous
+C) Cuboidal
+D) Transitional
+Answer: A
+---
+The POLD1 is for:
+A) DNA polymerase delta
+B) Epsilon
+C) Alpha
+D) Beta
+Answer: A
+---
+The diagram shows the retrogressive topographic. It is:
+A) Erosion on slope
+B) Enrichment
+C) Stable
+D) Progress
+Answer: A
+---
+In evolution, the branch support is by:
+A) Bootstrap
+B) Mapping
+C) Tree
+D) Clade
+Answer: A
+---
+The sigma D in Clostridium is for:
+A) Flagellar
+B) General
+C) Stage
+D) Toxin
+Answer: A
+---
+In the diagram of U4/U5/U6, the Prp19 is for:
+[Diagram: Tri-snRNP]
+A) Spliceosome activation
+B) Assembly
+C) Recycling
+D) Export
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) 9 A-B-, 3 A-bb, 3 aaB-, 1 aabb
+B) Modified
+C) Linkage
+D) Epistasis
+Answer: A
+---
+In photorespiration, the glycine accumulation is toxic due to:
+A) NH3
+B) CO2
+C) O2
+D) H2O2
+Answer: A
+---
+The number of SF3a is for:
+A) U2 5' end
+B) 3' end
+C) Branch
+D) Exon
+Answer: A
+---
+In the ETC, the complex I Q site is in:
+A) PSST and ND1
+B) 51 kDa
+C) TYKY
+D) MWFE
+Answer: A
+---
+The diagram shows the pedigree for Aland island eye disease. It is:
+[Diagram: X-linked]
+A) X-linked incomplete achromatopsia
+B) Autosomal
+C) Dominant
+D) Recessive
+Answer: A
+---
+In population, the Strobeck's index is for:
+A) Inbreeding effective size
+B) Variance
+C) Drift
+D) Selection
+Answer: A
+---
+The RRE (Rev response) in HIV is for:
+A) Nuclear export of unspliced mRNA
+B) Splicing
+C) Translation
+D) Replication
+Answer: A
+---
+A XPF defect causes:
+A) XP group F
+B) A
+C) B
+D) C
+Answer: A
+---
+In the diagram of bullous disease, the NC16A domain is in:
+[Diagram: BP180]
+A) Autoepitope
+B) Desmoglein
+C) Plakoglobin
+D) Desmocollin
+Answer: A
+---
+The Whitehouse 2-strand double crossover is:
+A) Parental ditype
+B) Non-parental
+C) Tetratype
+D) All
+Answer: B
+---
+In the human vulva, the minor vestibular gland is for:
+A) Lubrication
+B) Odor
+C) Infection
+D) pH
+Answer: A
+---
+The POLι is for:
+A) TLS opposite T-T dimers
+B) A
+C) G
+D) C
+Answer: A
+---
+The diagram shows the pre-seral pioneer. It has:
+A) Low diversity
+B) High
+C) Stable
+D) Climax
+Answer: A
+---
+In evolution, the Ks plot is used for:
+A) Duplication time
+B) Speciation
+C) Selection
+D) Drift
+Answer: A
+---
+The sigma A in Clostridium is for:
+A) Housekeeping
+B) Alternative
+C) Stage 0
+D) Late
+Answer: A
+---
+In the diagram of U1A, it binds:
+[Diagram: Stem-loop II]
+A) U1 snRNA
+B) mRNA polyA
+C) tRNA
+D) rRNA
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) Independent dihybrid
+B) Test cross
+C) Monohybrid
+D) Tri
+Answer: A
+---
+In photorespiration, the serine from glycine is:
+A) C3 with one C from glycolate
+B) C2
+C) C4
+D) C1
+Answer: A
+---
+The number of U2AF2 is for:
+A) U2AF large subunit
+B) Small
+C) U1
+D) U4
+Answer: A
+---
+In the ETC, the complex I has 950 aa in:
+A) Mammals
+B) Bacteria (14)
+C) Yeast
+D) Plant
+Answer: A
+---
+The diagram shows the pedigree for inborn error like PKU. It is:
+[Diagram: Autosomal recessive]
+A) Autosomal recessive
+B) Dominant
+C) X
+D) Y
+Answer: A
+---
+In population, the Watterson estimator theta is:
+A) S / a1 where S segregating sites
+B) pi average pairwise
+C) Both used
+D) None
+Answer: A
+---
+The SREBP pathway regulates:
+A) Cholesterol synthesis
+B) Glucose
+C) Fat
+D) Protein
+Answer: A
+---
+A CSB defect causes:
+A) Cockayne syndrome (TCR)
+B) XP
+C) TTD
+D) All
+Answer: A
+---
+In the diagram of laminin gamma1, it is essential for:
+[Diagram: BM polymerization]
+A) Network formation
+B) Fiber
+C) Triple
+D) Globular
+Answer: A
+---
+The Creighton-McClintock used knob and colored markers to show:
+A) Physical recombination
+B) Genetic only
+C) No
+D) Mapping
+Answer: A
+---
+In the human seminal vesicle, the secretion is:
+A) Fructose rich
+B) Prostaglandin
+C) Both
+D) None
+Answer: C
+---
+The POLD3 is for:
+A) Pol delta accessory
+B) Catalytic
+C) Proofreading
+D) TLS
+Answer: A
+---
+The diagram shows the post-deflected. It is:
+A) Recovery after
+B) Permanent
+C) Pioneer
+D) Climax
+Answer: A
+---
+In evolution, the dN is:
+A) Non-synonymous rate
+B) Syn
+C) Total
+D) Gap
+Answer: A
+---
+The sigma C in Streptomyces is for:
+A) Calcium response
+B) General
+C) Heat
+D) Cold
+Answer: A
+---
+In the diagram of U6 snRNA 3' end, it has:
+[Diagram: 2,2,7 trimethyl G cap]
+A) Unique cap
+B) m7G
+C) No cap
+D) PolyU
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) 9 dominant both, 3 one, 3 other, 1 recessive
+B) Modified
+C) Linkage
+D) Test
+Answer: A
+---
+In photorespiration, the glycine to CO2 is by multi-enzyme complex with:
+A) H protein (lipoamide)
+B) L protein
+C) P protein
+D) T protein
+Answer: A
+---
+The number of SF1/mBBP is for:
+A) Branch point
+B) 5' splice
+C) 3' splice
+D) Exon
+Answer: A
+---
+In the ETC, the complex I reverse electron transfer can produce:
+A) ROS
+B) ATP
+C) NAD+
+D) O2
+Answer: A
+---
+The diagram shows the pedigree for ectrodactyly. It is:
+[Diagram: Split hand]
+A) Autosomal dominant
+B) Recessive
+C) X
+D) Y
+Answer: A
+---
+In population, the Hudson's Rm is for:
+A) Min number of recombination events
+B) Crossovers
+C) Mutations
+D) Selections
+Answer: A
+---
+The PRE (prolactin response) binds:
+A) STAT5
+B) GR
+C) AR
+D) TR
+Answer: A
+---
+A XPF defect causes:
+A) XP group F
+B) A
+C) B
+D) D
+Answer: A
+---
+In the diagram of nidogen-1, it binds:
+[Diagram: Laminin gamma1 to collagen IV]
+A) Specific site
+B) General
+C) No
+D) Weak
+Answer: A
+---
+The Creighton-McClintock's waxy locus was on:
+A) Short arm chromosome 9
+B) Long
+C) X
+D) Y
+Answer: A
+---
+In the human epididymis, the epithelium is:
+A) Pseudostratified columnar
+B) Simple cuboidal
+C) Stratified
+D) Transitional
+Answer: A
+---
+The POLE is for:
+A) Pol epsilon leading strand
+B) Lagging
+C) Repair
+D) TLS
+Answer: A
+---
+The diagram shows the pre-topographic. It is:
+A) Slope influence on pioneer
+B) Flat
+C) Uniform
+D) Stable
+Answer: A
+---
+In evolution, the pi (nucleotide diversity) is:
+A) Average pairwise difference
+B) Segregating
+C) Fixed
+D) Total
+Answer: A
+---
+The sigma D in Pseudomonas is for:
+A) Flagellar hierarchy
+B) General
+C) Type III
+D) Type VI
+Answer: A
+---
+In the diagram of U11/U12 di-snRNP, it is analogous to:
+[Diagram: Minor U1/U2]
+A) Major
+B) Self
+C) No
+D) Bacterial
+Answer: A
+---
+The probability for 9:3:3:1 is:
+A) No interaction
+B) Interaction
+C) Linkage
+D) Pleiotropy
+Answer: A
+---
+In photorespiration, the serine kinase is not; it's phosphatase for:
+A) Activation
+B) No
+C) Inhibition
+D) Regulation
+Answer: B
+---
+The number of U6 snRNA is one per:
+A) Spliceosome
+B) Cell
+C) Nucleus
+D) Cytoplasm
+Answer: A
+---
+In the ETC, the complex I has 4 modules:
+A) Q, N, Nuo, membrane
+B) 3
+C) 2
+D) 1
+Answer: A
+---
+The diagram shows the pedigree for focal dermal hypoplasia. It is:
+[Diagram: PORCN]
+A) X-linked dominant
+B) Recessive
+C) Autosomal
+D) Mitochondrial
+Answer: A
+---
+In population, the Kelly's relatedness is:
+A) r = 2f - s
+B) 0.5
+C) 0.25
+D) 1
+Answer: A
+---
+The RHE (retinoic acid response) binds:
+A) RAR-RXR
+B) VDR
+C) TR
+D) PR
+Answer: A
+---
+A XPD defect causes:
+A) XP group D
+B) A
+C) C
+D) E
+Answer: A
+---
+In the diagram of collagen type XVIII, it has:
+[Diagram: Endostatin]
+A) Anti-angiogenic
+B) Pro
+C) Structural
+D) Fibril
+Answer: A
+---
+The Creighton-McClintock used trisomic for:
+A) Chromosome 9
+B) 8
+C) X
+D) 4
+Answer: A
+---
+In the human vas deferens, the smooth muscle is under:
+A) Sympathetic contraction
+B) Parasympathetic
+C) Both
+D) None
+Answer: A
+---
+The POLD2 is for:
+A) Pol delta B subunit
+B) A
+C) C
+D) D
+Answer: A
+---
+The diagram shows the post-edaphic. It is:
+A) Soil improvement recovery
+B) Permanent poor
+C) Pioneer
+D) Climax
+Answer: A
+---
+In evolution, the branch in cladogram shows:
+A) Speciation event
+B) Time
+C) Change
+D) All
+Answer: A
+---
+The sigma F in Clostridium is for:
+A) Forespore
+B) Mother
+C) General
+D) Vegetative
+Answer: A
+---
+In the diagram of U5 stem-loop, the Sm site is:
+[Diagram: Loop 1 for exon]
+A) Conserved
+B) Variable
+C) No Sm
+D) U6 only
+Answer: A

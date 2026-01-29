@@ -1,0 +1,699 @@
+A particle is projected with speed u at angle 60° from the bottom of an inclined plane of inclination 30°. The maximum distance along the incline reached is:
+A) u²/√3 g
+B) u²/g
+C) 2u²/√3 g
+D) 3u²/g
+Answer: C
+---
+A uniform rod of length L is suspended by two strings of equal length from two points separated by distance x. The value of x for which tension in both strings is equal is:
+A) L/2
+B) L/√2
+C) L/√3
+D) L/3
+Answer: C
+---
+A convex lens of focal length 30 cm forms a real image 3 times magnified. If the lens is cut into two equal halves perpendicular to the principal axis, each half will form an image of magnification:
+A) 1
+B) 1.5
+C) 3
+D) 6
+Answer: A
+---
+A charged oil drop remains stationary in a uniform electric field of 10⁶ N/C. If the field is suddenly switched off, the time taken to fall 1 mm is (density of oil = 800 kg/m³):
+A) 0.1 s
+B) 0.2 s
+C) 0.3 s
+D) 0.4 s
+Answer: B
+---
+A disc of radius R rolls without slipping on a horizontal surface with speed v. The magnitude of acceleration of the lowest point is:
+A) 0
+B) v²/R
+C) 2v²/R
+D) v²/(2R)
+Answer: B
+---
+A capacitor C is charged to potential V₀ and connected to another uncharged capacitor of capacitance 2C through a resistance R. The time after which potential difference becomes V₀/e is:
+A) RC
+B) 2RC
+C) 3RC
+D) RC ln 3
+Answer: C
+---
+A uniform magnetic field B exists in a cylindrical region of radius R. A charged particle is projected perpendicular to the field with speed v at distance 2R from the axis. The maximum distance from the axis during motion is:
+A) R
+B) 2R
+C) 3R
+D) 4R
+Answer: C
+---
+A wire of length L carrying current I is bent into a circle. The magnetic moment is:
+A) I L²/(4π)
+B) I L²/π
+C) I L/(4π)
+D) I L/π
+Answer: A
+---
+A planet has density ρ, radius R and acceleration due to gravity g. If it is converted into a black hole, the Schwarzschild radius is:
+A) 2gR²/c²
+B) gR²/c²
+C) 2G M/c²
+D) Both A and C
+Answer: D
+---
+A particle executes SHM with amplitude A. The distance from mean position where velocity is half of maximum is:
+A) A/√2
+B) A√3/2
+C) A/2
+D) A√2/3
+Answer: B
+---
+A conducting sphere of radius R has charge Q. The electric field at distance R/2 from centre is:
+A) 0
+B) Q/(8πε₀ R²)
+C) Q/(4πε₀ R²)
+D) Q/(2πε₀ R²)
+Answer: A
+---
+A man of mass m is standing on a platform of mass M kept on smooth ice. If man starts moving on platform with speed v relative to platform, the velocity of platform is:
+A) mv/(M+m) towards left
+B) Mv/(M+m) towards right
+C) mv/M towards left
+D) zero
+Answer: A
+---
+A wave y = 10 sin(2π × 10³ t − 0.01π x) travels on a string of linear density 100 g/m. The tension in the string is:
+A) 25 N
+B) 50 N
+C) 100 N
+D) 200 N
+Answer: C
+---
+A radioactive sample has activity R. After 3 half-lives, the activity becomes:
+A) R/3
+B) R/6
+C) R/8
+D) R/9
+Answer: C
+---
+A body of mass m falls from height h on ground. If e = 0.5, the height to which it rebounds is:
+A) h/4
+B) h/2
+C) 3h/4
+D) h
+Answer: A
+---
+A diatomic gas undergoes adiabatic compression such that PV¹·⁴ = constant. The value of γ is:
+A) 1.4
+B) 1.67
+C) 1.3
+D) 5/3
+Answer: A
+---
+A satellite is revolving very close to earth. The percentage increase in velocity required to escape from earth’s gravity is:
+A) 41.4%
+B) 50%
+C) 100%
+D) 21.4%
+Answer: A
+---
+A uniform rod of length L and mass M falls freely with one end hinged. The angular velocity when it makes 60° with vertical is:
+A) √(6g/L)
+B) √(3g/L)
+C) √(12g/L)
+D) √(2g/L)
+Answer: A
+---
+A liquid of thermal expansion coefficient γ is filled in a container of volume expansion coefficient 2γ. The fraction of liquid that overflows on heating is:
+A) ΔT γ
+B) ΔT γ/3
+C) ΔT γ/2
+D) zero
+Answer: D
+---
+A particle of mass m and charge q moves in a circle of radius r in magnetic field B. The time period is independent of:
+A) q
+B) m
+C) v
+D) r
+Answer: C
+---
+A beam of light of wavelength 600 nm passes through a slit of width 0.3 mm. The angular spread of central maximum is:
+A) 2 × 10⁻³ rad
+B) 4 × 10⁻³ rad
+C) 6 × 10⁻³ rad
+D) 8 × 10⁻³ rad
+Answer: B
+---
+A metal sphere cools from 80°C to 60°C in 6 min. Time taken to cool from 60°C to 40°C is:
+A) 6 min
+B) 8 min
+C) 10 min
+D) 12 min
+Answer: B
+---
+A projectile is fired with speed u at angle θ with horizontal. The radius of curvature at maximum height is:
+A) u² cos² θ / g
+B) u² sin² θ / g
+C) u² / g
+D) u² / (g cos θ)
+Answer: A
+---
+A Carnot engine works between 400 K and 300 K. If it absorbs 1000 J from source, work done is:
+A) 250 J
+B) 300 J
+C) 400 J
+D) 750 J
+Answer: A
+---
+A uniform cube of side a and mass m slides down a frictionless incline of angle 30°. The acceleration is:
+A) g/2
+B) g/√3
+C) g/3
+D) 5g/12
+Answer: D
+---
+A thin prism of angle 4° and refractive index 1.5 is combined with another thin prism to produce dispersion without deviation. The angle of second prism is:
+A) 2°
+B) 3°
+C) 4°
+D) 6°
+Answer: B
+---
+A particle is at rest at origin. Force F = 6t² î + 4t ĵ acts on it. The time when it crosses y-axis is:
+A) 1 s
+B) 1.5 s
+C) 2 s
+D) 3 s
+Answer: B
+---
+A uniform ring of radius R rolls without slipping on horizontal surface. The velocity of centre when a point on rim has velocity vertically upward is:
+A) ωR
+B) 2ωR
+C) ωR/2
+D) zero
+Answer: A
+---
+A cell of emf 2 V and internal resistance 1 Ω is connected to resistance 5 Ω. The potential difference across 5 Ω is:
+A) 1.67 V
+B) 1.8 V
+C) 2 V
+D) 1.5 V
+Answer: A
+---
+A body is in pure translation. The acceleration of every point is:
+A) same magnitude, same direction
+B) same magnitude, different direction
+C) different magnitude, same direction
+D) zero
+Answer: A
+---
+A sphere rolls down an incline of 30°. The ratio of translational to rotational kinetic energy is:
+A) 5:2
+B) 2:5
+C) 7:3
+D) 3:7
+Answer: A
+---
+A particle moves in xy-plane under force F = −kx î − ky ĵ. The motion is:
+A) elliptical
+B) circular
+C) parabolic
+D) hyperbolic
+Answer: A
+---
+A whistle of frequency 500 Hz is moved in a circle of radius 1 m at 20 rev/s. The maximum frequency heard by a stationary observer at centre is (v = 340 m/s):
+A) 500 Hz
+B) 520 Hz
+C) 540 Hz
+D) 560 Hz
+Answer: C
+---
+A body cools from 100°C to 70°C in 10 min. If room temperature is 25°C, time taken to cool from 70°C to 40°C is:
+A) 10 min
+B) 13.3 min
+C) 15 min
+D) 20 min
+Answer: B
+---
+A parallel plate capacitor has plate area A and separation d. A slab of thickness d/2 and dielectric constant 2 is inserted. New capacitance is:
+A) 4ε₀A/(3d)
+B) 3ε₀A/(2d)
+C) 2ε₀A/d
+D) 4ε₀A/d
+Answer: A
+---
+A projectile has same range for angles θ and 60°. The value of θ is:
+A) 15°
+B) 30°
+C) 45°
+D) 75°
+Answer: B
+---
+A liquid drop of radius R breaks into 8 identical drops. The rise in temperature is (S = surface tension, J = mechanical equivalent of heat):
+A) 3S/(π R J)
+B) 6S/(π R J)
+C) 3S/(2π R J)
+D) zero
+Answer: A
+---
+A planet has escape velocity 11.2 km/s. Its radius is 6400 km. The value of g on its surface is:
+A) 9.8 m/s²
+B) 10 m/s²
+C) 9.2 m/s²
+D) 10.8 m/s²
+Answer: A
+---
+A rod of length L rotates about an axis perpendicular to its length at distance L/3 from one end. Moment of inertia is:
+A) ML²/9
+B) ML²/12
+C) 7ML²/36
+D) 5ML²/36
+Answer: C
+---
+A string of length L and mass per unit length μ is under tension T. The speed of transverse wave is:
+A) √(T/μ)
+B) √(μ/T)
+C) T/μ
+D) μ/T
+Answer: A
+---
+A body of mass m is suspended by two strings making angles α and β with vertical. The tension in string making angle α is:
+A) mg cos α
+B) mg/(cos α + cos β)
+C) mg sin α /(sin α + sin β)
+D) mg cos α /(cos α + cos β)
+Answer: D
+---
+A convex lens forms real image of object at 40 cm. If a glass slab of thickness 6 cm (μ = 1.5) is inserted, image shifts by:
+A) 2 cm away
+B) 2 cm towards
+C) 4 cm away
+D) 4 cm towards
+Answer: A
+---
+A particle is projected horizontally with speed 10 m/s from height 20 m. The speed when it hits ground is:
+A) 10√5 m/s
+B) 20 m/s
+C) 10√3 m/s
+D) 15 m/s
+Answer: A
+---
+A hollow sphere of radius R and mass M rolls down incline. The acceleration is:
+A) (2/3)g sin θ
+B) (5/7)g sin θ
+C) (2/5)g sin θ
+D) g sin θ
+Answer: B
+---
+A charged particle moves in a magnetic field. The force is maximum when velocity is:
+A) parallel to B
+B) antiparallel to B
+C) perpendicular to B
+D) at 45° to B
+Answer: C
+---
+A cell has emf 3 V and internal resistance 2 Ω. Maximum current it can supply is:
+A) 1 A
+B) 1.5 A
+C) 3 A
+D) 6 A
+Answer: B
+---
+A wave has equation y = A sin(ωt − kx + φ). The phase difference between two points separated by λ/4 is:
+A) π/2
+B) π
+C) 3π/2
+D) 2π
+Answer: A
+---
+A body of mass 2 kg moving with 10 m/s collides elastically with stationary mass 3 kg. The velocity of 2 kg mass after collision is:
+A) 2 m/s
+B) 4 m/s
+C) 6 m/s
+D) 8 m/s
+Answer: A
+---
+A spring of force constant k is cut into two equal parts. The force constant of each part is:
+A) k/2
+B) k
+C) 2k
+D) 4k
+Answer: C
+---
+A star emitting light of wavelength 6000 Å is moving away with velocity 3 × 10⁶ m/s. The observed wavelength is (c = 3 × 10⁸ m/s):
+A) 6006 Å
+B) 6012 Å
+C) 6060 Å
+D) 6120 Å
+Answer: C
+---
+A thin cylindrical shell of radius R and mass M rolls without slipping down an incline of angle 30°. The acceleration of centre of mass is:
+A) (2/3)g sin 30°
+B) (1/2)g sin 30°
+C) g sin 30°
+D) (3/5)g sin 30°
+Answer: A
+---
+A projectile is fired at 45° with speed u such that it just passes over a wall of height h at horizontal distance d. The value of u² is:
+A) 2g(d² + h²)/d
+B) g(d² + h²)/d
+C) 2gd(d + h)/h
+D) gd(d² + h²)/h
+Answer: A
+---
+A uniform rod of length L and mass M is pivoted at its centre. A bullet of mass m hits one end perpendicularly with speed v and sticks. The angular velocity after impact is:
+A) 6mv/(M + 3m)L
+B) 3mv/(M + m)L
+C) 6mv/(M + m)L
+D) 3mv/(2M + m)L
+Answer: A
+---
+A convex lens of focal length f is cut into two halves and placed with cut edges touching. The new focal length is:
+A) f/2
+B) f
+C) 2f
+D) ∞
+Answer: C
+---
+A charged particle enters a uniform magnetic field at 30° to the field lines. The ratio of radius of helix to pitch is:
+A) 1 : √3
+B) √3 : 2π
+C) 1 : 2π
+D) 2π : √3
+Answer: B
+---
+A capacitor is charged by a battery of voltage V and then disconnected. A dielectric slab of constant K is inserted. The energy stored becomes:
+A) KV²C/2
+B) V²C/(2K)
+C) V²C/2
+D) KV²C
+Answer: B
+---
+A point object is placed at (0, f) in front of a convex lens of focal length f. The image is formed at:
+A) infinity
+B) (0, −f)
+C) (0, 2f)
+D) (0, 0)
+Answer: B
+---
+A sphere of radius R and charge Q is rotating with angular velocity ω. The magnetic moment is:
+A) (1/5)QR²ω
+B) (1/3)QR²ω
+C) (2/5)QR²ω
+D) QR²ω
+Answer: A
+---
+A satellite in circular orbit of radius 2R around earth suddenly stops. The speed with which it hits earth is (R = radius of earth):
+A) √(gR)
+B) √(2gR)
+C) √(3gR)
+D) √(5gR)
+Answer: C
+---
+A particle performs SHM with period T. The time taken to go from mean to amplitude/√2 is:
+A) T/12
+B) T/8
+C) T/6
+D) T/4
+Answer: A
+---
+A metal ring of radius R falls vertically into a region of uniform magnetic field B directed into the page. The maximum emf induced is when speed is v. The emf is:
+A) BπR²v/R
+B) 2BπRv
+C) BπRv
+D) 4BπRv
+Answer: B
+---
+A block of mass m slides down a smooth hemispherical surface of radius R from the top. The speed at the bottom is:
+A) √(gR)
+B) √(2gR)
+C) √(3gR)
+D) √(5gR)
+Answer: B
+---
+A wave pulse on a string approaches a junction with a denser string. The reflected wave is:
+A) inverted
+B) erect
+C) partially inverted
+D) no reflection
+Answer: A
+---
+A radioactive nucleus decays emitting α-particle. The daughter nucleus recoils with speed v. The speed of α-particle is:
+A) 4v
+B) v/4
+C) (M/(M−4))v
+D) (4/M)v
+Answer: A
+---
+A body falls freely for 5 s. If air resistance is considered proportional to velocity, the terminal velocity is reached in approximately:
+A) 5 s
+B) 10 s
+C) 15 s
+D) never
+Answer: B
+---
+An ideal gas undergoes a process PV^{1.5} = constant. For 1 mole, molar heat capacity is:
+A) R
+B) 2R
+C) 3R
+D) 5R/2
+Answer: A
+---
+A geostationary satellite is at height h above earth. The orbital radius is:
+A) R + h
+B) (R + h)/2
+C) R + h/3
+D) 3(R + h)/2
+Answer: A
+---
+A rod of length L leans against a smooth wall. The minimum time to slide down is:
+A) √(2L/g)
+B) √(L/g)
+C) √(3L/g)
+D) √(L/(2g))
+Answer: A
+---
+A container has two compartments of equal volume separated by a piston. One side has ideal gas, other vacuum. Piston is released. Final pressure is:
+A) P/2
+B) P/√2
+C) P
+D) zero
+Answer: B
+---
+A charged particle revolves in a circle in magnetic field. If B is doubled and kinetic energy halved, radius becomes:
+A) same
+B) doubled
+C) halved
+D) quartered
+Answer: A
+---
+Young’s double slit experiment is done with light of wavelength 500 nm. Fringe width is β. If entire setup is immersed in water (μ = 4/3), new fringe width is:
+A) β
+B) 3β/4
+C) 4β/3
+D) β/4
+Answer: B
+---
+A body cools from 100°C to 50°C in 10 min. Room temperature is 20°C. Time to cool from 50°C to 30°C is:
+A) 10 min
+B) 20 min
+C) 30 min
+D) 40 min
+Answer: B
+---
+A particle is projected with speed u at angle θ. The average velocity from projection to landing is:
+A) u cos θ
+B) u sin θ
+C) (u² sin 2θ)/g
+D) zero
+Answer: A
+---
+A heat engine operates between 127°C and 27°C. Maximum possible efficiency is:
+A) 25%
+B) 33%
+C) 50%
+D) 75%
+Answer: A
+---
+A solid cube just floats in water. When placed in a liquid of density 0.8 g/cm³, the fraction submerged is:
+A) 0.8
+B) 1.0
+C) 1.25
+D) 0.64
+Answer: A
+---
+A concave mirror forms real image of sun. A slab of thickness t and μ = 1.5 is placed. Image shifts by:
+A) t/3 towards mirror
+B) t/3 away from mirror
+C) t towards mirror
+D) t away from mirror
+Answer: A
+---
+A particle moves with uniform speed v along a circle of radius r. The magnitude of average velocity over half circle is:
+A) 2v/π
+B) v/π
+C) 2v
+D) zero
+Answer: A
+---
+A cylinder rolls up an incline and then down. The ratio of final speed to initial speed is:
+A) 1
+B) √(3/5)
+C) √(5/7)
+D) √(7/5)
+Answer: A
+---
+A battery of emf E and internal resistance r is connected to resistor R. Power is maximum when:
+A) R = r
+B) R = 0
+C) R → ∞
+D) R = 2r
+Answer: A
+---
+A body rotates with angular acceleration α = 4t³. Angular displacement in 2 s from rest is:
+A) 4 rad
+B) 8 rad
+C) 16 rad
+D) 32 rad
+Answer: A
+---
+A sphere and a cube of same material and volume are heated to same temperature and allowed to cool. The ratio of initial cooling rates is:
+A) 1 : 1
+B) π : 6
+C) 6 : π
+D) √π : √6
+Answer: C
+---
+A particle moves in a potential V = kx²/2. The motion is:
+A) SHM with ω = √(k/m)
+B) SHM with ω = √(2k/m)
+C) not periodic
+D) circular
+Answer: A
+---
+A sound source moves towards observer with speed 20 m/s. Frequency heard is 1000 Hz (v = 340 m/s). Actual frequency is:
+A) 900 Hz
+B) 936 Hz
+C) 1067 Hz
+D) 1100 Hz
+Answer: B
+---
+A body cools from 60°C to 40°C in 7 min. Time to cool from 40°C to 20°C is:
+A) 7 min
+B) 14 min
+C) 21 min
+D) 28 min
+Answer: B
+---
+A dielectric slab fills half the gap of a parallel plate capacitor. Capacitance increases by factor:
+A) (1 + K)/2
+B) K
+C) K/(K+1)
+D) 2K/(K+1)
+Answer: A
+---
+A projectile has maximum range R on horizontal ground. Maximum range up an incline of 30° is:
+A) R
+B) R/2
+C) 2R/3
+D) 4R/3
+Answer: C
+---
+A charged drop of radius r splits into n identical drops. Potential of each small drop is:
+A) V/n
+B) V n^{1/3}
+C) V n^{2/3}
+D) V n
+Answer: C
+---
+The escape velocity from moon is 1/5th of earth. Ratio of acceleration due to gravity is:
+A) 1/25
+B) 1/5
+C) 1/√5
+D) 5
+Answer: A
+---
+Moment of inertia of a uniform disc about diameter is I. About a tangent parallel to diameter is:
+A) I
+B) 2I
+C) 5I/4
+D) 5I/2
+Answer: C
+---
+A wave travels with speed 300 m/s on a string of μ = 4 g/m. The power transmitted is 36 W. Amplitude is:
+A) 1 cm
+B) 2 cm
+C) 3 cm
+D) 4 cm
+Answer: A
+---
+A block of mass m is attached to two springs of constant k each in series. Effective k is:
+A) k/2
+B) k
+C) 2k
+D) 4k
+Answer: A
+---
+A convex lens is placed in water. Focal length in air is f. In water it becomes:
+A) f
+B) f/μ
+C) 4f
+D) f/(μ−1)
+Answer: C
+---
+A particle is projected with 20 m/s at 60°. The velocity when it is at same height after 2 s is:
+A) 10 m/s
+B) 10√3 m/s
+C) 20 m/s
+D) 0
+Answer: A
+---
+A solid sphere rolls down 30° incline from height h. The speed at bottom is:
+A) √(10gh/7)
+B) √(2gh)
+C) √(gh)
+D) √(5gh/7)
+Answer: A
+---
+A charged particle is at rest in a magnetic field. The force on it is:
+A) maximum
+B) zero
+C) qvB
+D) qvB sin θ
+Answer: B
+---
+A battery charges a capacitor through resistor R. Time constant is:
+A) RC
+B) R/C
+C) C/R
+D) R²C
+Answer: A
+---
+Two waves y₁ = A sin(ωt) and y₂ = A sin(ωt + π/6) superpose. Resultant amplitude is:
+A) A
+B) 2A
+C) A√3
+D) A√7
+Answer: C
+---
+A ball of mass m falls from height h on ground and rebounds to height h/e². Coefficient of restitution is:
+A) e
+B) 1/e
+C) e²
+D) 1/e²
+Answer: B
+---
+Two springs of constant k each are connected in parallel. Effective constant is:
+A) k/2
+B) k
+C) 2k
+D) 4k
+Answer: C
+---
+A star appears to move from 30° to 60° altitude in 2 hours. The rotation period of earth is:
+A) 12 h
+B) 24 h
+C) 8 h
+D) 16 h
+Answer: A

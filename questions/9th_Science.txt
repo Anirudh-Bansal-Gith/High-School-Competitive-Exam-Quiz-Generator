@@ -1,0 +1,545 @@
+The SI unit of speed is:
+A) m/s
+B) km/h
+C) cm/s
+D) m/h
+Answer: A
+---
+The speed of a car is 54 km/h. In m/s, it is:
+A) 15 m/s
+B) 10 m/s
+C) 20 m/s
+D) 25 m/s
+Answer: A
+---
+The distance-time graph for uniform motion is:
+A) Curved line
+B) Straight line
+C) Horizontal line
+D) Vertical line
+Answer: B
+---
+Acceleration is a:
+A) Scalar quantity
+B) Vector quantity
+C) Both
+D) None
+Answer: B
+---
+The value of g on Earth is approximately:
+A) 9.8 m/s²
+B) 10 m/s²
+C) 8.9 m/s²
+D) 9.0 m/s²
+Answer: A
+---
+The smallest particle of an element is:
+A) Molecule
+B) Atom
+C) Ion
+D) Electron
+Answer: B
+---
+The atomic number of sodium is:
+A) 11
+B) 12
+C) 10
+D) 23
+Answer: A
+---
+The valency of oxygen is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+---
+The formula of water is:
+A) H₂O
+B) HO
+C) H₂O₂
+D) OH
+Answer: A
+---
+The number of molecules in 18 g of water is:
+A) 6.022 × 10²³
+B) 1 mole
+C) 18
+D) 6.022 × 10²²
+Answer: A
+---
+The tissue that transports water in plants is:
+A) Phloem
+B) Xylem
+C) Parenchyma
+D) Collenchyma
+Answer: B
+---
+The energy currency of the cell is:
+A) ATP
+B) DNA
+C) RNA
+D) NADP
+Answer: A
+---
+The process of conversion of ADP to ATP is called:
+A) Photophosphorylation
+B) Oxidative phosphorylation
+C) Both
+D) None
+Answer: C
+---
+The cell organelle absent in animal cell is:
+A) Mitochondria
+B) Chloroplast
+C) Ribosome
+D) Nucleus
+Answer: B
+---
+The unit of force is:
+A) Joule
+B) Newton
+C) Watt
+D) Pascal
+Answer: B
+---
+The weight of an object is:
+A) Mass × gravity
+B) Mass / gravity
+C) Mass × volume
+D) Mass × density
+Answer: A
+---
+The buoyant force depends on:
+A) Volume of object
+B) Density of liquid
+C) Both
+D) None
+Answer: C
+---
+The sound cannot travel through:
+A) Air
+B) Water
+C) Vacuum
+D) Iron
+Answer: C
+---
+The speed of sound in air is approximately:
+A) 330 m/s
+B) 340 m/s
+C) 350 m/s
+D) 360 m/s
+Answer: B
+---
+The loudness of sound depends on:
+A) Frequency
+B) Amplitude
+C) Wavelength
+D) Speed
+Answer: B
+---
+The SI unit of work is:
+A) Newton
+B) Joule
+C) Watt
+D) Pascal
+Answer: B
+---
+The power of a machine is 100 W and it does 200 J of work. The time taken is:
+A) 2 s
+B) 0.5 s
+C) 1 s
+D) 3 s
+Answer: A
+---
+The kinetic energy of a body depends on:
+A) Mass and velocity
+B) Mass and acceleration
+C) Velocity and height
+D) Mass and height
+Answer: A
+---
+The law of conservation of energy states that energy can be:
+A) Created
+B) Destroyed
+C) Transformed
+D) Lost
+Answer: C
+---
+The natural satellite of Earth is:
+A) Mars
+B) Moon
+C) Jupiter
+D) Sun
+Answer: B
+---
+The SI unit of acceleration is:
+A) m/s
+B) m/s²
+C) km/h
+D) cm/s²
+Answer: B
+---
+The formula for average speed is:
+A) Distance / Time
+B) Time / Distance
+C) Distance × Time
+D) Distance + Time
+Answer: A
+---
+An object moving with constant speed has:
+A) Zero acceleration
+B) Positive acceleration
+C) Negative acceleration
+D) Variable acceleration
+Answer: A
+---
+The mass of an object is 5 kg. Its weight on Earth is approximately:
+A) 5 N
+B) 50 N
+C) 500 N
+D) 0.5 N
+Answer: B
+---
+The universal law of gravitation was proposed by:
+A) Einstein
+B) Newton
+C) Galileo
+D) Archimedes
+Answer: B
+---
+The buoyant force on an object in water depends on:
+A) Mass of object
+B) Volume of object displaced
+C) Shape of object
+D) Temperature of water
+Answer: B
+---
+The speed of sound in water is:
+A) Less than in air
+B) Greater than in air
+C) Equal to in air
+D) Zero
+Answer: B
+---
+The frequency of a sound wave determines its:
+A) Speed
+B) Loudness
+C) Pitch
+D) Wavelength
+Answer: C
+---
+The energy stored in a stretched spring is:
+A) Kinetic energy
+B) Potential energy
+C) Chemical energy
+D) Nuclear energy
+Answer: B
+---
+The SI unit of energy is:
+A) Newton
+B) Joule
+C) Watt
+D) Pascal
+Answer: B
+---
+The atomic mass of carbon-12 is:
+A) 6 u
+B) 12 u
+C) 18 u
+D) 24 u
+Answer: B
+---
+The number of neutrons in an atom of ¹²C is:
+A) 6
+B) 12
+C) 18
+D) 0
+Answer: A
+---
+The valency of chlorine is:
+A) 1
+B) 2
+C) 3
+D) 7
+Answer: A
+---
+The formula of sodium chloride is:
+A) NaCl
+B) Na₂Cl
+C) NaCl₂
+D) Na₂Cl₂
+Answer: A
+---
+The number of moles in 32 g of oxygen gas is:
+A) 1
+B) 2
+C) 0.5
+D) 32
+Answer: A
+---
+The tissue responsible for the transport of food in plants is:
+A) Xylem
+B) Phloem
+C) Parenchyma
+D) Sclerenchyma
+Answer: B
+---
+The site of complete digestion of food in the cell is:
+A) Cytoplasm
+B) Lysosome
+C) Nucleus
+D) Mitochondria
+Answer: B
+---
+The cell wall in plant cells is made up of:
+A) Cellulose
+B) Chitin
+C) Peptidoglycan
+D) Glycogen
+Answer: A
+---
+The number of pairs of spinal nerves in humans is:
+A) 12
+B) 31
+C) 10
+D) 8
+Answer: B
+---
+The reflex arc involves:
+A) Brain only
+B) Spinal cord only
+C) Both brain and spinal cord
+D) Muscles only
+Answer: B
+---
+The hormone secreted by thyroid gland is:
+A) Insulin
+B) Thyroxine
+C) Adrenaline
+D) Estrogen
+Answer: B
+---
+The process of removal of waste from the body is called:
+A) Digestion
+B) Respiration
+C) Excretion
+D) Circulation
+Answer: C
+---
+The filtration unit in the kidney is:
+A) Neuron
+B) Nephron
+C) Alveolus
+D) Villi
+Answer: B
+---
+The normal range of human body temperature is:
+A) 35°C
+B) 37°C
+C) 39°C
+D) 41°C
+Answer: B
+---
+The disease caused by deficiency of iodine is:
+A) Scurvy
+B) Goitre
+C) Anaemia
+D) Rickets
+Answer: B
+---
+The vector for dengue fever is:
+A) Anopheles mosquito
+B) Aedes mosquito
+C) Housefly
+D) Culex mosquito
+Answer: B
+---
+The process of conversion of nitrogen to nitrates is called:
+A) Nitrification
+B) Denitrification
+C) Nitrogen fixation
+D) Ammonification
+Answer: A
+---
+The gas responsible for ozone layer depletion is:
+A) CO₂
+B) SO₂
+C) CFC
+D) NO₂
+Answer: C
+---
+The unit of measuring loudness of sound is:
+A) Hertz
+B) Decibel
+C) Pascal
+D) Newton
+Answer: B
+---
+The echo is heard when the distance is greater than:
+A) 10 m
+B) 17 m
+C) 20 m
+D) 25 m
+Answer: B
+---
+The work done by a force is zero when the angle between force and displacement is:
+A) 0°
+B) 45°
+C) 90°
+D) 180°
+Answer: C
+---
+The power of a bulb is 100 W. It consumes 1 kWh in:
+A) 10 hours
+B) 100 hours
+C) 1 hour
+D) 1000 hours
+Answer: A
+---
+The atomic number of an element is determined by the number of:
+A) Electrons
+B) Protons
+C) Neutrons
+D) Nucleons
+Answer: B
+---
+The isotope of hydrogen with no neutron is:
+A) Protium
+B) Deuterium
+C) Tritium
+D) None
+Answer: A
+---
+The molecular formula of ozone is:
+A) O₂
+B) O₃
+C) O₄
+D) O
+Answer: B
+---
+The pH of a neutral solution is:
+A) 0
+B) 7
+C) 14
+D) 1
+Answer: B
+---
+The process of separation of cream from milk is:
+A) Filtration
+B) Centrifugation
+C) Evaporation
+D) Distillation
+Answer: B
+---
+The colloidal solution of liquid in liquid is:
+A) Milk
+B) Fog
+C) Smoke
+D) Jelly
+Answer: A
+---
+The scattering of light by colloidal particles is called:
+A) Tyndall effect
+B) Brownian motion
+C) Diffusion
+D) Osmosis
+Answer: A
+---
+The cell organelle responsible for protein synthesis is:
+A) Mitochondria
+B) Ribosome
+C) Golgi body
+D) Lysosome
+Answer: B
+---
+The longest cell in the human body is:
+A) Nerve cell
+B) Muscle cell
+C) RBC
+D) WBC
+Answer: A
+---
+The number of bones in an adult human is:
+A) 206
+B) 208
+C) 210
+D) 212
+Answer: A
+---
+The joint between skull bones is:
+A) Hinge joint
+B) Ball and socket joint
+C) Pivot joint
+D) Fixed joint
+Answer: D
+---
+The pigment responsible for skin color is:
+A) Haemoglobin
+B) Melanin
+C) Chlorophyll
+D) Carotene
+Answer: B
+---
+The process of conversion of ADP to ATP in presence of light is:
+A) Photophosphorylation
+B) Oxidative phosphorylation
+C) Substrate phosphorylation
+D) None
+Answer: A
+---
+The gas filled in electric bulbs to prevent evaporation of filament is:
+A) Oxygen
+B) Nitrogen
+C) Argon
+D) Hydrogen
+Answer: C
+---
+The speed of light in vacuum is:
+A) 3 × 10⁸ m/s
+B) 3 × 10⁶ m/s
+C) 3 × 10¹⁰ m/s
+D) 3 × 10⁴ m/s
+Answer: A
+---
+The mirror used in solar cookers is:
+A) Plane
+B) Convex
+C) Concave
+D) None
+Answer: C
+---
+The image formed by a plane mirror is:
+A) Real and inverted
+B) Virtual and erect
+C) Real and erect
+D) Virtual and inverted
+Answer: B
+---
+The power of a lens is measured in:
+A) Dioptre
+B) Watt
+C) Joule
+D) Newton
+Answer: A
+---
+The least distance of distinct vision for a normal eye is:
+A) 25 cm
+B) 50 cm
+C) 10 cm
+D) 100 cm
+Answer: A
+---
+The defect of vision in which a person cannot see nearby objects is:
+A) Myopia
+B) Hypermetropia
+C) Presbyopia
+D) Astigmatism
+Answer: B
+---
+The energy transformation in a hydroelectric power plant is:
+A) Kinetic → Electrical
+B) Potential → Electrical
+C) Chemical → Electrical
+D) Nuclear → Electrical
+Answer: B

@@ -1,0 +1,531 @@
+The value of √16 is:
+A) 2
+B) 4
+C) 8
+D) -4
+Answer: B
+---
+The square root of 0.01 is:
+A) 0.1
+B) 0.01
+C) 1
+D) 10
+Answer: A
+---
+The value of 2³ × 3² is:
+A) 72
+B) 48
+C) 36
+D) 24
+Answer: A
+---
+The value of (√2)⁰ is:
+A) 0
+B) 1
+C) 2
+D) Undefined
+Answer: B
+---
+The value of 10⁻² is:
+A) 100
+B) 10
+C) 0.1
+D) 0.01
+Answer: D
+---
+The value of √(16/81) is:
+A) 4/9
+B) 9/4
+C) 16/81
+D) 81/16
+Answer: A
+---
+The rational number between 1/2 and 3/4 is:
+A) 1/4
+B) 5/8
+C) 3/8
+D) 1
+Answer: B
+---
+The decimal expansion of 1/3 is:
+A) Terminating
+B) Non-terminating repeating
+C) Non-terminating non-repeating
+D) None
+Answer: B
+---
+The value of π is approximately:
+A) 3.14
+B) 3.15
+C) 3.16
+D) 3.17
+Answer: A
+---
+The value of √3 is approximately:
+A) 1.732
+B) 1.414
+C) 1.618
+D) 2.236
+Answer: A
+---
+The degree of the polynomial x² + 3x + 1 is:
+A) 1
+B) 2
+C) 3
+D) 0
+Answer: B
+---
+The zero of the polynomial 2x + 5 is:
+A) 5/2
+B) -5/2
+C) 2/5
+D) -2/5
+Answer: B
+---
+The factor of x² - 5x + 6 is:
+A) (x-2)(x-3)
+B) (x+2)(x+3)
+C) (x-1)(x-6)
+D) (x+1)(x+6)
+Answer: A
+---
+The value of (a + b)² is:
+A) a² + b² + 2ab
+B) a² + b² - 2ab
+C) a² - b² + 2ab
+D) a² - b² - 2ab
+Answer: A
+---
+The value of (a - b)² is:
+A) a² + b² - 2ab
+B) a² + b² + 2ab
+C) a² - b² - 2ab
+D) a² - b² + 2ab
+Answer: A
+---
+The value of 99² using (a - b)² is:
+A) 9801
+B) 9900
+C) 10000
+D) 9701
+Answer: A
+---
+The value of 101² using (a + b)² is:
+A) 10201
+B) 10200
+C) 10000
+D) 10301
+Answer: A
+---
+The value of x in the equation 2x + 3 = 7 is:
+A) 2
+B) 3
+C) 1
+D) 4
+Answer: A
+---
+The solution of 3(x - 1) = 12 is:
+A) x = 5
+B) x = 4
+C) x = 3
+D) x = 6
+Answer: A
+---
+The perimeter of a square with side 5 cm is:
+A) 10 cm
+B) 15 cm
+C) 20 cm
+D) 25 cm
+Answer: C
+---
+The area of a triangle with base 6 cm and height 4 cm is:
+A) 12 cm²
+B) 24 cm²
+C) 10 cm²
+D) 48 cm²
+Answer: A
+---
+The value of 2πr when r = 7 cm is:
+A) 44 cm
+B) 22 cm
+C) 14 cm
+D) 28 cm
+Answer: A
+---
+The sum of angles in a triangle is:
+A) 90°
+B) 180°
+C) 270°
+D) 360°
+Answer: B
+---
+The value of x in 3x + 15 = 0 is:
+A) 5
+B) -5
+C) 3
+D) -3
+Answer: B
+---
+The HCF of 12 and 18 is:
+A) 6
+B) 3
+C) 9
+D) 36
+Answer: A
+---
+The value of (-2)³ is:
+A) 8
+B) -8
+C) 6
+D) -6
+Answer: B
+---
+The value of 0.0001 in scientific notation is:
+A) 10⁻⁴
+B) 10⁴
+C) 10⁻³
+D) 10³
+Answer: A
+---
+The value of √(25/36) is:
+A) 5/6
+B) 6/5
+C) 25/36
+D) 36/25
+Answer: A
+---
+The rational number equivalent to 0.25 is:
+A) 1/2
+B) 1/4
+C) 2/5
+D) 3/4
+Answer: B
+---
+The decimal 0.333... represents:
+A) 1/3
+B) 1/2
+C) 1/4
+D) 2/3
+Answer: A
+---
+The value of √2 is approximately:
+A) 1.414
+B) 1.732
+C) 1.618
+D) 2.236
+Answer: A
+---
+The degree of the polynomial 5x³ - 2x + 1 is:
+A) 1
+B) 2
+C) 3
+D) 0
+Answer: C
+---
+The zero of the polynomial 3x - 9 is:
+A) 3
+B) -3
+C) 9
+D) -9
+Answer: A
+---
+The factor of x² + 7x + 12 is:
+A) (x+3)(x+4)
+B) (x+2)(x+6)
+C) (x-3)(x-4)
+D) (x+1)(x+12)
+Answer: A
+---
+The value of (a + b + c)² includes:
+A) a² + b² + c² + 2ab + 2bc + 2ca
+B) a² + b² + c² - 2ab - 2bc - 2ca
+C) a² + b² + c² + 2ab + 2bc - 2ca
+D) a² + b² + c² - 2ab + 2bc - 2ca
+Answer: A
+---
+The value of 105² is:
+A) 11025
+B) 10000
+C) 10500
+D) 11000
+Answer: A
+---
+The value of 98² using (100 - 2)² is:
+A) 9604
+B) 9800
+C) 10000
+D) 9400
+Answer: A
+---
+The solution of 5x - 10 = 15 is:
+A) x = 5
+B) x = 3
+C) x = 4
+D) x = 6
+Answer: A
+---
+The solution of 2(x + 3) = 10 is:
+A) x = 2
+B) x = 1
+C) x = 3
+D) x = 4
+Answer: A
+---
+The perimeter of a rectangle with length 8 cm and breadth 5 cm is:
+A) 26 cm
+B) 40 cm
+C) 13 cm
+D) 20 cm
+Answer: A
+---
+The area of a square with diagonal 10 cm is:
+A) 50 cm²
+B) 100 cm²
+C) 25 cm²
+D) 20 cm²
+Answer: A
+---
+The volume of a cube with side 4 cm is:
+A) 64 cm³
+B) 16 cm³
+C) 32 cm³
+D) 48 cm³
+Answer: A
+---
+The curved surface area of a cylinder with radius 7 cm and height 10 cm is:
+A) 440 cm²
+B) 154 cm²
+C) 220 cm²
+D) 308 cm²
+Answer: A
+---
+The sum of exterior angles of a polygon is:
+A) 180°
+B) 360°
+C) 540°
+D) 720°
+Answer: B
+---
+The value of x in 4x + 12 = 0 is:
+A) 3
+B) -3
+C) 4
+D) -4
+Answer: B
+---
+The LCM of 12 and 15 is:
+A) 60
+B) 30
+C) 180
+D) 3
+Answer: A
+---
+The value of 3⁴ is:
+A) 81
+B) 27
+C) 64
+D) 12
+Answer: A
+---
+The value of 2⁵ × 5² is:
+A) 800
+B) 320
+C) 160
+D) 100
+Answer: A
+---
+The rational number between 0.1 and 0.2 is:
+A) 0.15
+B) 0.05
+C) 0.3
+D) 0.25
+Answer: A
+---
+The value of √81 is:
+A) 9
+B) -9
+C) 81
+D) 3
+Answer: A
+---
+The value of 16^(1/4) is:
+A) 2
+B) 4
+C) 8
+D) 16
+Answer: A
+---
+The value of (1/2)⁻² is:
+A) 4
+B) 2
+C) 1/4
+D) 1/2
+Answer: A
+---
+The decimal expansion of 1/8 is:
+A) 0.125
+B) 0.25
+C) 0.5
+D) 0.75
+Answer: A
+---
+The value of √(4/9) is:
+A) 2/3
+B) 3/2
+C) 4/9
+D) 9/4
+Answer: A
+---
+The value of 0.00001 in scientific notation is:
+A) 10⁻⁵
+B) 10⁵
+C) 10⁻⁴
+D) 10⁴
+Answer: A
+---
+The value of √(0.09) is:
+A) 0.3
+B) 0.03
+C) 3
+D) 0.9
+Answer: A
+---
+The value of 100^(1/2) is:
+A) 10
+B) 50
+C) 100
+D) 20
+Answer: A
+---
+The value of 8^(2/3) is:
+A) 4
+B) 2
+C) 8
+D) 16
+Answer: A
+---
+The value of 27^(1/3) is:
+A) 3
+B) 9
+C) 27
+D) 81
+Answer: A
+---
+The value of 64^(1/3) is:
+A) 4
+B) 8
+C) 16
+D) 32
+Answer: A
+---
+The value of 125^(1/3) is:
+A) 5
+B) 25
+C) 125
+D) 625
+Answer: A
+---
+The value of 1000^(1/3) is:
+A) 10
+B) 100
+C) 1000
+D) 5
+Answer: A
+---
+The value of 81^(1/4) is:
+A) 3
+B) 9
+C) 27
+D) 81
+Answer: A
+---
+The value of 16^(3/4) is:
+A) 8
+B) 4
+C) 16
+D) 2
+Answer: A
+---
+The value of 32^(1/5) is:
+A) 2
+B) 4
+C) 8
+D) 32
+Answer: A
+---
+The value of 243^(1/5) is:
+A) 3
+B) 9
+C) 27
+D) 81
+Answer: A
+---
+The value of 102^(2) is:
+A) 10404
+B) 10000
+C) 10200
+D) 10400
+Answer: A
+---
+The value of 97² is:
+A) 9409
+B) 9500
+C) 9000
+D) 9600
+Answer: A
+---
+The value of 112² is:
+A) 12544
+B) 12000
+C) 13000
+D) 12500
+Answer: A
+---
+The value of 88² is:
+A) 7744
+B) 7800
+C) 8000
+D) 7600
+Answer: A
+---
+The solution of 7x - 14 = 21 is:
+A) x = 5
+B) x = 3
+C) x = 4
+D) x = 7
+Answer: A
+---
+The solution of 4(x - 2) = 12 is:
+A) x = 5
+B) x = 4
+C) x = 3
+D) x = 6
+Answer: A
+---
+The perimeter of an equilateral triangle with side 6 cm is:
+A) 18 cm
+B) 12 cm
+C) 24 cm
+D) 36 cm
+Answer: A
+---
+The area of an equilateral triangle with side 4 cm is:
+A) 4√3 cm²
+B) 8√3 cm²
+C) 16√3 cm²
+D) 2√3 cm²
+Answer: A
+---
+The volume of a cuboid with dimensions 3 cm, 4 cm, 5 cm is:
+A) 60 cm³
+B) 12 cm³
+C) 20 cm³
+D) 15 cm³
+Answer: A
+---
+The total surface area of a cuboid 2 cm × 3 cm × 4 cm is:
+A) 52 cm²
+B) 24 cm²
+C) 36 cm²
+D) 48 cm²
+Answer: A

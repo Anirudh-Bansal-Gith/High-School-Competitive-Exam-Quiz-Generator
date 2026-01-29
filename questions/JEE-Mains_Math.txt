@@ -1,0 +1,699 @@
+Let the ellipse E₁: x²/a² + y²/b² = 1 (a > b) and E₂: x²/A² + y²/B² = 1 (A < B) have same eccentricity 1/√3. Product of latus rectums is 32/√3 and distance between foci of E₁ is 4. Area of quadrilateral ABCD formed by intersection points is:
+A) 24√6/5
+B) 18√6/5
+C) 6√6
+D) 12√6/5
+Answer: A
+---
+Two parabolas have same focus (4, 3) and directrices x-axis and y-axis respectively. They intersect at A and B. Then (AB)² equals:
+A) 100
+B) 125
+C) 150
+D) 175
+Answer: B
+---
+Triangle ABC is formed by lines 7x−6y+3=0, x+2y−31=0 and 9x−2y−19=0. (h,k) is image of centroid of ABC in line 3x+6y−53=0. Then h² + k² + hk equals:
+A) 25
+B) 30
+C) 35
+D) 40
+Answer: C
+---
+Number of solutions of (9/x − 9/√x + 2)(2/x − 7/√x + 3) = 0 is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+---
+The number of 6-letter words that can be formed using letters of “MATHS” (each letter used at most as many times as it appears) such that every letter that appears must appear at least twice is:
+A) 60
+B) 120
+C) 180
+D) 240
+Answer: A
+---
+Let f : (0,∞) → ℝ be twice differentiable and f''(x) = –f'(x) ∀ x > 0. If f'(1) = 1, then f(2)/f(1) equals:
+A) e
+B) 1/e
+C) e²
+D) 1/e²
+Answer: A
+---
+Q: Let a₁, a₂, … be the sequence defined by a₁ = 1, aₙ₊₁ = aₙ + 1/aₙ for n ≥ 1. Then lim(n→∞) aₙ²/2ⁿ equals:
+A) 1
+B) √2
+C) log 2
+D) 0
+Answer: C
+---
+Q: The number of integers n in [1, 2025] such that n⁴ + 4n³ + 6n² + 4n + 1 is a perfect square is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+---
+Q: Let α be a root of x⁵ − x − 1 = 0. Then the value of α⁴ + α³ + α² + α + 1 equals:
+A) α²
+B) α³
+C) α⁴
+D) α⁵
+Answer: A
+---
+Q: The number of real solutions of the equation x⁷ + 7x⁵ + 14x³ + 7x = 0 is:
+A) 1
+B) 3
+C) 5
+D) 7
+Answer: B
+---
+Q: Let z be a complex number satisfying |z − 1| + |z + 1| = 4. The maximum value of |z² − 1| is:
+A) 4
+B) 5
+C) 6
+D) 8
+Answer: C
+---
+Q: The number of positive integers n ≤ 1000 such that (n+1) divides n⁴ + n³ + n² + n + 1 is:
+A) 12
+B) 15
+C) 18
+D) 20
+Answer: B
+---
+Q: The value of ∫ from 0 to 1 ∫ from 0 to 1 (x + y)ⁿ dx dy for n → ∞ is:
+A) 0
+B) 1/2
+C) 1
+D) ∞
+Answer: B
+---
+Q: Let f(x) = x³ − 6x² + 11x − 6. The number of distinct real roots of f(f(f(x))) = 0 is:
+A) 3
+B) 5
+C) 7
+D) 9
+Answer: C
+---
+Q: The largest positive integer k such that 2⁸⁰⁰⁰ − 1 is divisible by 5ᵏ is:
+A) 800
+B) 1600
+C) 2400
+D) 3200
+Answer: B
+---
+Q: The number of integer solutions (x,y,z) to x² + y² + z² + 2xy + 2yz + 2zx = 2025 is:
+A) 0
+B) 8
+C) 12
+D) 16
+Answer: C
+---
+Q: Let ω be a primitive cube root of unity. The value of (1 + ω)¹⁰⁰⁰ + (1 + ω²)¹⁰⁰⁰ + (1 + ω⁴)¹⁰⁰⁰ is:
+A) −3
+B) 0
+C) 3
+D) 6
+Answer: C
+---
+Q: The number of real roots of the equation sin⁻¹(sin x) + cos⁻¹(cos x) + tan⁻¹(tan x) = π is:
+A) 0
+B) 1
+C) 2
+D) Infinite
+Answer: A
+---
+Q: The area of the region {(x,y) : |x| + |y| ≤ 1 and x² + y² ≥ 1/2} is:
+A) 2 − √2
+B) 2 − π/3
+C) 4 − π/2
+D) √2 − π/4
+Answer: A
+---
+Q: The number of functions f : {1,2,3,4,5} → {1,2,3,4,5} such that f(f(f(n))) = n for all n is:
+A) 25
+B) 39
+C) 51
+D) 64
+Answer: B
+---
+Q: The minimal value of (x + 1/x)⁶ + (x − 1/x)⁶ for x > 0 is:
+A) 0
+B) 2
+C) 4
+D) 8
+Answer: D
+---
+Q: Let p(x) be a polynomial with integer coefficients such that p(1) = p(2) = p(3) = 1 and p(4) = 11. The minimal degree of p(x) is:
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B
+---
+Q: The number of real solutions of x = cos(cos(cos x)) is:
+A) 1
+B) 3
+C) 5
+D) 7
+Answer: A
+---
+Q: The value of ∫ from 0 to ∞ e^{−x²} cos(2x) dx is:
+A) √π/2
+B) √π/e⁴
+C) √π e⁻¹
+D) √π e⁻⁴
+Answer: C
+---
+Q: Let a₁ = 1, aₙ₊₁ = aₙ + log aₙ (n ≥ 1). Then lim(n→∞) aₙ/n equals:
+A) 0
+B) 1
+C) log 2
+D) ∞
+Answer: B
+---
+Q: The number of integer-sided triangles with perimeter 2025 and largest side 675 is:
+A) 124
+B) 125
+C) 126
+D) 127
+Answer: C
+---
+Q: The number of real roots of the equation 2^{|x|} + 2^{|x−1|} = 3 is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+---
+Q: The maximal value of sin x sin(x + π/3) sin(x + 2π/3) is:
+A) √3/4
+B) 3√3/8
+C) √3/2
+D) 3/4
+Answer: B
+---
+Q: The number of solutions of |x² − 4|x| + 3| = x + 2 is:
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B
+---
+Q: Let A be a 2025×2025 matrix with all entries 1. Then rank(A) equals:
+A) 1
+B) 2024
+C) 2025
+D) 0
+Answer: A
+---
+Q: The value of ∑_{k=1}^{∞} 1/(k² + k + 1) is:
+A) 1
+B) 3/2
+C) 2
+D) 5/2
+Answer: A
+---
+Let ā = î + 2ĵ + k̂ and b̄ = 2î + 7ĵ + 3k̂. If ĉ is unit vector such that ā · ĉ = √6 and b̄ · ĉ = 3, then |ā × b̄ + ĉ| equals:
+A) √14
+B) √21
+C) √28
+D) √35
+Answer: B
+---
+The circle x² + y² − 8x = 0 and hyperbola x²/9 − y²/16 = 1 intersect at four points. Area bounded by them is:
+A) 2π
+B) 4π
+C) 6π
+D) 8π
+Answer: B
+---
+Probability that a person aged 60 years survives to 70 years is 0.7 and to 80 years is 0.4. Probability that he survives to 70 but not to 80 is:
+A) 0.3
+B) 0.4
+C) 0.6
+D) 0.7
+Answer: A
+---
+If A is 3×3 matrix with det(A) = 4 and adj(A) = B, then det(B) equals:
+A) 1/64
+B) 1/32
+C) 1/16
+D) 1/4
+Answer: A
+---
+Equation of plane passing through (1,2,3) and perpendicular to line joining (1,2,3) and (4,5,6) is:
+A) x + y + z = 6
+B) x − y + z = 0
+C) −x + y − z = 0
+D) x + y − z = 0
+Answer: A
+---
+The sum 1 + 1/2! + 1/3! + … + 1/n! is closest to:
+A) e − 1/n!
+B) e
+C) e − 1
+D) e + 1
+Answer: A
+---
+If tan⁻¹x + tan⁻¹y + tan⁻¹z = π, then:
+A) xyz > 1
+B) xyz = 1
+C) xyz < 1
+D) xyz = 0
+Answer: A
+---
+Area enclosed by |x| + |y| = 1 and |x−1| + |y−1| = √2 is:
+A) √2
+B) 2 − √2
+C) √2 − 1
+D) 2
+Answer: B
+---
+Solution of differential equation (x² + y²) dy = (x dx − y dy) is:
+A) y = kx
+B) x² + y² = k
+C) y = k/x
+D) xy = k
+Answer: A
+---
+lim(x→0) (sin x / x) × (1 − cos x)/x² equals:
+A) 1/2
+B) 1
+C) 0
+D) ∞
+Answer: A
+---
+Number of ways to arrange 5 men and 3 women in a row so no two women are together is:
+A) 5! × 6P₃
+B) 8!/3!
+C) 5! × 3!
+D) 8!
+Answer: A
+---
+∫ e^x (sin x − cos x) dx equals:
+A) −e^x/2 (sin x + cos x)
+B) e^x/2 (sin x + cos x)
+C) e^x (sin x − cos x)
+D) −e^x (sin x − cos x)
+Answer: A
+---
+Distance from origin to plane 3x − 4y + 12z = 13 is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: A
+---
+Matrix [[1,2],[3,4]] has eigenvalues:
+A) 5, −1
+B) 3, 2
+C) 4, 1
+D) 6, 0
+Answer: A
+---
+Solution of dy/dx = (y − x)/(y + x) is:
+A) y + x = k(y − x)
+B) y = kx
+C) x² + y² = k
+D) xy = k
+Answer: A
+---
+Coefficient of x⁵ in (1 + x)¹⁰ is:
+A) C(10,5)
+B) C(10,4)
+C) C(10,6)
+D) C(10,3)
+Answer: A
+---
+Area of triangle with vertices (1,1), (2,3), (3,1) is:
+A) 2
+B) 3
+C) 4
+D) 1
+Answer: A
+---
+tan⁻¹(1) + tan⁻¹(2) + tan⁻¹(3) equals:
+A) π
+B) π/2
+C) π/4
+D) 3π/4
+Answer: A
+---
+Number of integral solutions of x² + y² = 2025 is:
+A) 8
+B) 12
+C) 16
+D) 20
+Answer: B
+---
+The coefficient of x¹⁵ in (1 + x + x² + … + x¹⁰)⁵ is:
+A) ⁵¹C₁₅
+B) ⁵⁶C₁₅
+C) ⁶¹C₁₅
+D) ⁶⁶C₁₅
+Answer: B
+---
+The value of lim(x→0) [sin⁻¹(3x) + sin⁻¹(4x)] / x is:
+A) 3 + 4
+B) 7
+C) √13
+D) 0
+Answer: B
+---
+The area bounded by y = |x − 1| and y = 1 − |x| is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+---
+If the vectors 2î − ĵ + k̂ and 3î + 4ĵ − 5k̂ are perpendicular to each other, then the value of λ for which λî + 2ĵ + k̂ is perpendicular to both is:
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: C
+---
+The number of non-congruent triangles whose sides are 13 cm, 14 cm, 15 cm is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: A
+---
+The equation of the tangent to the parabola y² = 8x at (2, 4) is:
+A) y = x + 2
+B) y = 2x + 2
+C) y = x − 2
+D) y = 2x − 2
+Answer: A
+---
+If A = [[1, 2], [3, 4]], then A⁴ − 10A³ + 35A² − 50A + 24I = 0. The minimal polynomial of A is:
+A) x² − 5x + 6
+B) x² − 5x + 4
+C) x² − 5x + 2
+D) x² − 5x
+Answer: B
+---
+The solution of dy/dx = e^{x−y} + x²e^y is:
+A) e^y = e^x + x³/3 + C
+B) e^y = e^x − x³/3 + C
+C) e^x = e^y + x³/3 + C
+D) e^x = e^y − x³/3 + C
+Answer: A
+---
+The value of ∫ from 0 to π/2 log(sin x) dx is:
+A) −π/2 log 2
+B) π/2 log 2
+C) −π log 2
+D) π log 2
+Answer: A
+---
+The number of ways in which 8 identical apples can be distributed among 3 children such that each child gets at least 1 apple is:
+A) 28
+B) 21
+C) 15
+D) 10
+Answer: B
+---
+The locus of a point which is equidistant from (1, 2) and (3, 4) is:
+A) x + y = 5
+B) x − y = 1
+C) x + y = 6
+D) x − y = 0
+Answer: B
+---
+The value of lim(x→∞) (x + √(x² + 4x + 1) − 2x) is:
+A) 2
+B) 1/2
+C) 2 + 1/2
+D) ∞
+Answer: A
+---
+The differential equation representing the family of curves y = e^x (A cos x + B sin x) is:
+A) y'' − 2y' + 2y = 0
+B) y'' + 2y' + 2y = 0
+C) y'' − 2y' − 2y = 0
+D) y'' + 2y' − 2y = 0
+Answer: A
+---
+The area of the region bounded by y = x² and y = |x| is:
+A) 1/3
+B) 2/3
+C) 1
+D) 4/3
+Answer: B
+---
+The number of solutions of sin x + cos x = √2 cos(x − π/4) is:
+A) 0
+B) 1
+C) 2
+D) Infinite
+Answer: D
+---
+The sum of the series 1² + 3² + 5² + … + (2n−1)² is:
+A) n(4n² − 1)/3
+B) n(4n² + 1)/3
+C) n(2n² − 1)/3
+D) n(2n² + 1)/3
+Answer: A
+---
+The value of ∫ from −1 to 1 |x³| dx is:
+A) 0
+B) 1/2
+C) 1
+D) 2
+Answer: B
+---
+The order and degree of the differential equation (y''')² + (y'')³ + y' + y = 0 are:
+A) 3, 2
+B) 3, 3
+C) 2, 3
+D) 2, 2
+Answer: A
+---
+The number of ways to select 4 letters from the word EXAMINATION is:
+A) 90
+B) 95
+C) 100
+D) 105
+Answer: B
+---
+The equation of the normal to the curve x² = 4y at (2, 1) is:
+A) x + y = 3
+B) x − y = 1
+C) x + y = 1
+D) x − y = 3
+Answer: A
+---
+The value of lim(x→0) (tan 3x − sin 3x)/x³ is:
+A) 0
+B) 1
+C) 3
+D) 6
+Answer: A
+---
+The area bounded by the curve y = e^x, x = 0, x = 1 and x-axis is:
+A) e − 1
+B) e
+C) e + 1
+D) 1/e
+Answer: A
+---
+The number of terms in the expansion of (a + b + c)¹⁰ is:
+A) 66
+B) 120
+C) 165
+D) 220
+Answer: A
+---
+The solution of the differential equation x dy − y dx = 0 is:
+A) xy = C
+B) x + y = C
+C) x − y = C
+D) x/y = C
+Answer: A
+---
+Q: Let aₙ be the number of positive integers ≤ 10ⁿ that are not divisible by 2, 3 or 5. Then lim(n→∞) aₙ / 10ⁿ equals:
+A) 1/π²
+B) 8/27
+C) 4/15
+D) 16/45
+Answer: B
+---
+Q: The number of real solutions of the equation x^{x^x} = 2025 is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+---
+Q: Let α, β be roots of x² − px + q = 0. Then α^{2025} + β^{2025} can be expressed as a polynomial in p and q of degree:
+A) 2024
+B) 2025
+C) 2026
+D) 4050
+Answer: B
+---
+Q: The minimal value of (sin x + sin y + sin z)² + (cos x + cos y + cos z)² where x + y + z = π is:
+A) 0
+B) 1
+C) 3/2
+D) 9/2
+Answer: C
+---
+Q: The number of integer solutions (x,y,z) to x³ + y³ + z³ + 3xyz = 2025 with x,y,z ≥ 0 is:
+A) 120
+B) 135
+C) 148
+D) 160
+Answer: C
+---
+Q: Let f(x) = x⁴ + 4x³ + 6x² + 4x + 1. Then f(x) = f^{-1}(x) has how many real solutions?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+---
+Q: The largest positive integer k such that 100! + k is a perfect square is:
+A) 100
+B) 124
+C) 199
+D) 201
+Answer: B
+---
+Q: The number of real roots of the equation 4^x + 6^x = 10^x is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+---
+Q: The value of ∫ from 0 to ∞ x² e^{-x³} dx is:
+A) Γ(1/3)/3
+B) Γ(2/3)/3
+C) Γ(1/3)
+D) Γ(2/3)
+Answer: A
+---
+Q: The number of non-constant polynomials p(x) with integer coefficients such that p(0)p(1)p(2)p(3)p(4) = p(5)p(6)p(7)p(8)p(9) is:
+A) 120
+B) 180
+C) 240
+D) Infinite
+Answer: D
+---
+Q: The maximal value of sin x sin(x + α) sin(x + β) for real α, β is:
+A) 1/2
+B) √3/4
+C) 3√3/8
+D) 1/√8
+Answer: C
+---
+Q: The number of integer-sided acute triangles with perimeter 100 is:
+A) 190
+B) 195
+C) 200
+D) 205
+Answer: B
+---
+Q: Let z satisfy |z + 1| + |z - 1| + |z + i| + |z - i| = 4. Then the maximum of |z² + 1| is:
+A) 5
+B) 6
+C) 8
+D) 10
+Answer: B
+---
+Q: The number of real solutions of sin(π x) = log|x| + 1 is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C
+---
+Q: The minimal value of ∑_{cyc} (a + 1/a)⁴ for positive real a,b,c with abc = 1 is:
+A) 81
+B) 108
+C) 144
+D) 192
+Answer: B
+---
+Q: The number of positive integers n ≤ 1000 such that n³ + 3n is a perfect square is:
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+---
+Q: The value of ∫ from 0 to π/2 sin^{2024} x cos^{2025} x dx is:
+A) 1/2025
+B) 1/2026
+C) 2024!/2025!
+D) 2023!/2025!
+Answer: A
+---
+Q: Let A be a 5×5 matrix with integer entries and det(A) = ±1. The number of possible traces of A is:
+A) 11
+B) 13
+C) 15
+D) 17
+Answer: C
+---
+Q: The number of real roots of the equation x^{|x|} = |x|^x (x ≠ 0) is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+---
+Q: The maximal value of x y z under x + y + z = 3 and x² + y² + z² = 5 (x,y,z real) is:
+A) 1
+B) √3
+C) 3/√2
+D) 2
+Answer: A
+---
+Q: The number of integer solutions (x,y) to x⁴ + y⁴ + x²y² + 2x²y + 2xy + 1 = 0 is:
+A) 0
+B) 4
+C) 8
+D) 12
+Answer: B
+---
+Q: The value of ∑_{k=1}^{100} 1/(k² + k + 1/4) is:
+A) 100
+B) 200
+C) 400/3
+D) 100 - 1/101
+Answer: D
+---
+Q: Let ω be a primitive 7th root of unity. Then the value of (1 + ω + ω²)(1 + ω³ + ω⁶)(1 + ω⁴ + ω⁵) is:
+A) 1
+B) 7
+C) 49
+D) 343
+Answer: B
+---
+Q: The number of real solutions of cos(cos x) = sin(sin x) is:
+A) 0
+B) 2
+C) 4
+D) Infinite
+Answer: D
+---
+Q: The minimal value of (a² + b² + c²)(1/a² + 1/b² + 1/c²) for positive real a,b,c is:
+A) 3
+B) 6
+C) 9
+D) 12
+Answer: C
+---
+The value of lim(x→π/4) (tan x − 1)/(x − π/4) is:
+A) 1
+B) 2
+C) 4
+D) √2
+Answer: B

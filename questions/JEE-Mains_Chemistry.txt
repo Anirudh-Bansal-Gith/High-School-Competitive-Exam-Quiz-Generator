@@ -1,0 +1,650 @@
+The number of π bonds in P₄O₁₀ is:
+A) 4
+B) 6
+C) 8
+D) 10
+Answer: A
+---
+The correct order of bond angle is:
+A) NH₃ < PH₃ < AsH₃ < SbH₃
+B) NH₃ > PH₃ > AsH₃ > SbH₃
+C) SbH₃ > AsH₃ > PH₃ > NH₃
+D) PH₃ > NH₃ > AsH₃ > SbH₃
+Answer: B
+---
+The geometry of XeF₆ in gaseous state is:
+A) Distorted octahedral
+B) Square pyramidal
+C) Pentagonal bipyramidal
+D) Trigonal bipyramidal
+Answer: A
+---
+The number of unpaired electrons in Mn⁴⁺ ion is:
+A) 1
+B) 3
+C) 4
+D) 5
+Answer: B
+---
+The complex showing maximum paramagnetic behaviour is:
+A) [Co(NH₃)₆]³⁺
+B) [Fe(CN)₆]⁴⁻
+C) [Cr(NH₃)₆]³⁺
+D) [Ni(CO)₄]
+Answer: C
+---
+The primary valence and secondary valence of Cr in [Cr(NH₃)₆]Cl₃ are respectively:
+A) 3, 6
+B) 6, 3
+C) 3, 3
+D) 6, 6
+Answer: A
+---
+The emf of the cell Zn|Zn²⁺(0.1M)||Cu²⁺(1M)|Cu (E° Zn²⁺/Zn = −0.76 V, E° Cu²⁺/Cu = 0.34 V) is:
+A) 1.10 V
+B) 1.16 V
+C) 1.04 V
+D) 1.22 V
+Answer: B
+---
+The solubility of CaF₂ (Ksp = 4×10⁻¹¹) in 0.1 M NaF solution is:
+A) 4×10⁻⁹ M
+B) 2×10⁻⁵ M
+C) 4×10⁻¹¹ M
+D) 2×10⁻¹⁰ M
+Answer: A
+---
+For the reaction 2A + B ⇌ 3C + D, Kc = 4. If initial moles are 2, 1, 0, 0 in 1 L, the equilibrium moles of B are:
+A) 0.5
+B) 0.2
+C) 0.8
+D) 0.4
+Answer: A
+---
+The activation energy of a reaction is 100 kJ/mol. At 300 K, rate constant is k. At what temperature will rate constant be 2k?
+A) 310 K
+B) 315 K
+C) 320 K
+D) 330 K
+Answer: B
+---
+The elevation in boiling point of 0.2 m glucose solution (Kb = 0.52 K kg/mol) is:
+A) 0.104 °C
+B) 0.052 °C
+C) 0.208 °C
+D) 0.416 °C
+Answer: A
+---
+The osmotic pressure of 0.1 M urea solution at 27°C is:
+A) 2.46 atm
+B) 1.23 atm
+C) 4.92 atm
+D) 0.246 atm
+Answer: A
+---
+The pH of 0.1 M NH₄OH (Kb = 1.8×10⁻⁵) is:
+A) 11.13
+B) 10.13
+C) 12.13
+D) 9.13
+Answer: A
+---
+The strongest Bronsted base among the following is:
+A) ClO₄⁻
+B) ClO₃⁻
+C) ClO₂⁻
+D) ClO⁻
+Answer: D
+---
+The metal extracted by self-reduction is:
+A) Hg
+B) Fe
+C) Al
+D) Zn
+Answer: A
+---
+The correct order of melting point is:
+A) Be > Mg > Ca > Sr
+B) Be < Mg < Ca < Sr
+C) Sr > Ca > Mg > Be
+D) Ca > Mg > Be > Sr
+Answer: A
+---
+The compound used in borax bead test for Co²⁺ gives:
+A) Blue bead
+B) Green bead
+C) Red bead
+D) Violet bead
+Answer: A
+---
+The monomer of Bakelite is:
+A) Phenol + Formaldehyde
+B) Urea + Formaldehyde
+C) Melamine + Formaldehyde
+D) Ethylene glycol + Terephthalic acid
+Answer: A
+---
+The reaction of toluene with Cl₂/FeCl₃ gives predominantly:
+A) Benzyl chloride
+B) o- and p-chlorotoluene
+C) m-chlorotoluene
+D) Benzaldehyde
+Answer: B
+---
+The compound that does NOT respond to carbylamine test is:
+A) CH₃NH₂
+B) C₂H₅NH₂
+C) (CH₃)₂NH
+D) (CH₃)₃N
+Answer: D
+---
+The product of Wolff-Kishner reduction of cyclohexanone is:
+A) Cyclohexane
+B) Cyclohexanol
+C) Benzene
+D) Hexane
+Answer: A
+---
+The compound with highest dipole moment is:
+A) CH₃Cl
+B) CH₂Cl₂
+C) CHCl₃
+D) CCl₄
+Answer: A
+---
+The number of hyperconjugative structures in propene is:
+A) 3
+B) 6
+C) 9
+D) 12
+Answer: B
+---
+The compound that gives yellow ppt with NaOH+I₂ is:
+A) Acetophenone
+B) Benzophenone
+C) Acetone
+D) Formaldehyde
+Answer: A
+---
+The order of nucleophilicity in polar protic solvent is:
+A) I⁻ > Br⁻ > Cl⁻ > F⁻
+B) F⁻ > Cl⁻ > Br⁻ > I⁻
+C) Cl⁻ > Br⁻ > I⁻ > F⁻
+D) Br⁻ > I⁻ > Cl⁻ > F⁻
+Answer: A
+---
+The reagent used to distinguish 1°, 2° and 3° alcohols is:
+A) Lucas reagent
+B) Fehling solution
+C) Schiff’s reagent
+D) Tollen’s reagent
+Answer: A
+---
+The product of aldol condensation of acetaldehyde followed by dehydration is:
+A) Crotonaldehyde
+B) Acrolein
+C) Paraldehyde
+D) Acetaldol
+Answer: A
+---
+The compound that undergoes Cannizzaro reaction is:
+A) Acetone
+B) Benzaldehyde
+C) Acetaldehyde
+D) Propanone
+Answer: B
+---
+The number of peptide bonds in a tripeptide is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+---
+The polymer containing nitrogen is:
+A) Nylon-6,6
+B) Nylon-6
+C) Dacron
+D) Teflon
+Answer: B
+---
+The vitamin which is water soluble is:
+A) Vitamin A
+B) Vitamin D
+C) Vitamin E
+D) Vitamin C
+Answer: D
+---
+The drug used as analgesic is:
+A) Aspirin
+B) Penicillin
+C) Chloramphenicol
+D) Tetracycline
+Answer: A
+---
+The hybridization of carbon in graphene is:
+A) sp
+B) sp²
+C) sp³
+D) sp³d
+Answer: B
+---
+The number of sigma bonds in naphthalene is:
+A) 19
+B) 17
+C) 15
+D) 21
+Answer: A
+---
+The compound that shows geometrical isomerism is:
+A) 1-butene
+B) 2-butene
+C) Propene
+D) Ethene
+Answer: B
+---
+The order of stability of carbocations is:
+A) 3° > 2° > 1° > CH₃⁺
+B) CH₃⁺ > 1° > 2° > 3°
+C) 2° > 3° > 1° > CH₃⁺
+D) 1° > 2° > 3° > CH₃⁺
+Answer: A
+---
+The compound that gives silver mirror with Tollen’s reagent is:
+A) Formaldehyde
+B) Acetone
+C) Benzene
+D) Ethanol
+Answer: A
+---
+The reagent used for Stephen reduction is:
+A) SnCl₂/HCl
+B) LiAlH₄
+C) NaBH₄
+D) H₂/Ni
+Answer: A
+---
+The product of HVZ reaction on acetic acid is:
+A) Chloroacetic acid
+B) Glycolic acid
+C) Malonic acid
+D) Formic acid
+Answer: A
+---
+The number of chiral carbons in glucose is:
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B
+---
+The gas responsible for Bhopal tragedy was:
+A) Methyl isocyanate
+B) Phosgene
+C) Carbon monoxide
+D) Hydrogen cyanide
+Answer: A
+---
+The compound used as refrigerant is:
+A) CCl₄
+B) CHCl₃
+C) Freon
+D) DDT
+Answer: C
+---
+The oxidation state of S in S₈ is:
+A) 0
+B) +2
+C) +6
+D) −2
+Answer: A
+---
+The compound with highest ionic character is:
+A) CsF
+B) NaCl
+C) KBr
+D) LiI
+Answer: A
+---
+The inert pair effect is maximum in:
+A) Al
+B) Ga
+C) In
+D) Tl
+Answer: D
+---
+The lanthanide contraction is responsible for:
+A) Zr and Hf having similar size
+B) La and Lu having different size
+C) Sc and Y having different size
+D) Ti and Zr having different size
+Answer: A
+---
+The number of water molecules in copper sulphate pentahydrate is:
+A) 4
+B) 5
+C) 6
+D) 7
+Answer: B
+---
+The compound that liberates H₂ with Na metal is:
+A) Ethanol
+B) Phenol
+C) Acetylene
+D) All of these
+Answer: D
+---
+The total number of d-electrons in Fe²⁺ (Z = 26) is:
+A) 4
+B) 5
+C) 6
+D) 8
+Answer: C
+---
+The standard reduction potential of Cu²⁺/Cu and Ag⁺/Ag are 0.34 V and 0.80 V. The emf of the cell Cu|Cu²⁺(1M)||Ag⁺(1M)|Ag is:
+A) 0.46 V
+B) 1.14 V
+C) 0.80 V
+D) −0.46 V
+Answer: A
+---
+The solubility product of Ag₂CrO₄ is 4×10⁻¹². The solubility in mol/L is:
+A) 10⁻⁴
+B) 10⁻⁶
+C) 2×10⁻⁴
+D) 4×10⁻⁴
+Answer: A
+---
+For the reaction N₂ + 3H₂ ⇌ 2NH₃, ΔH = −92 kJ. The equilibrium constant increases with:
+A) Increase in temperature
+B) Decrease in temperature
+C) Increase in pressure
+D) Addition of catalyst
+Answer: B
+---
+The half-life of a first-order reaction is 100 s. The time required for 99.9% completion is:
+A) 1000 s
+B) 500 s
+C) 1500 s
+D) 2000 s
+Answer: A
+---
+The number of ions formed when [Co(NH₃)₅Br]SO₄ dissolves in water is:
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: A
+---
+The IUPAC name of K₃[Fe(CN)₅CO] is:
+A) Potassium pentacyanocarbonylferrate(II)
+B) Potassium carbonylpentacyanoferrate(III)
+C) Potassium pentacyanocarbonylferrate(III)
+D) Potassium carbonylpentacyanoferrate(II)
+Answer: B
+---
+The number of moles of KMnO₄ required to oxidise 1 mole of Fe(C₂O₄) in acidic medium is:
+A) 1/5
+B) 3/5
+C) 5/3
+D) 2/5
+Answer: B
+---
+The gas evolved when NaHCO₃ is heated with Na₂CO₃ is:
+A) CO₂
+B) H₂O
+C) CO
+D) O₂
+Answer: A
+---
+The monomer of Teflon is:
+A) CF₂=CF₂
+B) CH₂=CHCl
+C) CH₂=CH₂
+D) C₆H₅CH=CH₂
+Answer: A
+---
+The compound that does NOT give iodoform test is:
+A) Acetaldehyde
+B) Acetone
+C) Benzaldehyde
+D) Ethanol
+Answer: C
+---
+The strongest acid among the following is:
+A) CH₃COOH
+B) ClCH₂COOH
+C) Cl₂CHCOOH
+D) Cl₃CCOOH
+Answer: D
+---
+The number of σ and π bonds in benzene are respectively:
+A) 12, 3
+B) 12, 6
+C) 6, 6
+D) 6, 3
+Answer: B
+---
+The hybridization in C atom of C₂H₂ is:
+A) sp
+B) sp²
+C) sp³
+D) sp³d
+Answer: A
+---
+The order of boiling points is:
+A) n-pentane < isopentane < neopentane
+B) neopentane < isopentane < n-pentane
+C) n-pentane < neopentane < isopentane
+D) isopentane < n-pentane < neopentane
+Answer: B
+---
+Cannizzaro reaction is given by:
+A) Formaldehyde
+B) Acetaldehyde
+C) Acetone
+D) Ethanol
+Answer: A
+---
+The reagent used to convert R–CH₂OH → R–CHO is:
+A) PCC
+B) KMnO₄
+C) K₂Cr₂O₇/H⁺
+D) LiAlH₄
+Answer: A
+---
+The compound with highest enol content is:
+A) CH₃CHO
+B) CH₃COCH₃
+C) CH₃COCH₂COCH₃
+D) CH₃COOH
+Answer: C
+---
+The number of optical isomers of [Co(en)₃]³⁺ is:
+A) 2
+B) 3
+C) 4
+D) 0
+Answer: A
+---
+The coordination number and oxidation state of Cr in K₃[Cr(C₂O₄)₃] are:
+A) 6, +3
+B) 6, +2
+C) 3, +3
+D) 4, +3
+Answer: A
+---
+The van’t Hoff factor for 0.1 M BaCl₂ solution (assuming 100% dissociation) is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+---
+The unit of rate constant for a zero-order reaction is:
+A) mol L⁻¹ s⁻¹
+B) s⁻¹
+C) L mol⁻¹ s⁻¹
+D) L² mol⁻² s⁻¹
+Answer: A
+---
+The pH of 10⁻⁸ M HCl solution is:
+A) 8
+B) 7
+C) 6.96
+D) 7.04
+Answer: C
+---
+The buffer solution with maximum buffering capacity is:
+A) 0.1 M CH₃COOH + 0.1 M CH₃COONa
+B) 0.1 M CH₃COOH + 0.05 M CH₃COONa
+C) 0.05 M CH₃COOH + 0.1 M CH₃COONa
+D) 1 M CH₃COOH + 1 M CH₃COONa
+Answer: A
+---
+The number of hydrogen bonds in ice per water molecule is:
+A) 2
+B) 3
+C) 4
+D) 1
+Answer: C
+---
+The ore of aluminium is:
+A) Bauxite
+B) Haematite
+C) Magnetite
+D) Siderite
+Answer: A
+---
+The monomer of natural rubber is:
+A) Isoprene
+B) Chloroprene
+C) Neoprene
+D) Styrene
+Answer: A
+---
+The amino acid without chiral carbon is:
+A) Glycine
+B) Alanine
+C) Valine
+D) Leucine
+Answer: A
+---
+The reagent used in Clemmensen reduction is:
+A) Zn(Hg)/HCl
+B) LiAlH₄
+C) NaBH₄
+D) H₂/Pd
+Answer: A
+---
+The compound that gives red ppt with Fehling solution is:
+A) Acetaldehyde
+B) Benzaldehyde
+C) Acetophenone
+D) Benzophenone
+Answer: A
+---
+The order of reactivity of alcohols with HX is:
+A) 1° > 2° > 3°
+B) 3° > 2° > 1°
+C) 2° > 1° > 3°
+D) 3° > 1° > 2°
+Answer: B
+---
+The product of Reimer-Tiemann reaction on phenol is:
+A) Salicylaldehyde
+B) Benzaldehyde
+C) Salicylic acid
+D) Picric acid
+Answer: A
+---
+The number of hyperconjugative structures in ethyl carbocation is:
+A) 3
+B) 6
+C) 9
+D) 12
+Answer: B
+---
+The compound with highest lattice energy is:
+A) LiF
+B) NaCl
+C) KBr
+D) CsI
+Answer: A
+---
+The gas with highest critical temperature is:
+A) CO₂
+B) NH₃
+C) H₂O
+D) CH₄
+Answer: C
+---
+The number of nodal planes in a p-orbital is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+---
+The element with highest electron affinity is:
+A) F
+B) Cl
+C) Br
+D) I
+Answer: B
+---
+The shape of IF₇ is:
+A) Pentagonal bipyramidal
+B) Octahedral
+C) Square pyramidal
+D) Trigonal bipyramidal
+Answer: A
+---
+The number of S–S bonds in H₂S₂O₆ is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+---
+The oxidation state of Cr in CrO₅ is:
+A) +6
+B) +8
+C) +10
+D) +12
+Answer: C
+---
+The number of 3c–2e bonds in B₂H₆ is:
+A) 2
+B) 4
+C) 6
+D) 8
+Answer: A
+---
+The compound used as antiseptic is:
+A) Dettol
+B) Iodoform
+C) Both
+D) None
+Answer: C
+---
+The sweetest sugar is:
+A) Sucrose
+B) Glucose
+C) Fructose
+D) Lactose
+Answer: C
+---
+The vitamin deficient in scurvy is:
+A) Vitamin C
+B) Vitamin A
+C) Vitamin D
+D) Vitamin K
+Answer: A
+---
+The shape of ClF₃ molecule is:
+A) T-shaped
+B) Trigonal planar
+C) Bent
+D) Pyramidal
+Answer: A

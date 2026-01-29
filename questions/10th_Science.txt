@@ -1,0 +1,566 @@
+The chemical formula of rust is:
+A) Fe₂O₃
+B) Fe₃O₄
+C) FeO
+D) Fe(OH)₃
+Answer: A
+---
+The gas evolved when dilute HCl reacts with zinc is:
+A) H₂
+B) O₂
+C) CO₂
+D) Cl₂
+Answer: A
+---
+The pH of a solution is 7. It is:
+A) Acidic
+B) Basic
+C) Neutral
+D) Amphoteric
+Answer: C
+---
+The functional group in alcohols is:
+A) -COOH
+B) -CHO
+C) -OH
+D) -NH₂
+Answer: C
+---
+The number of periods in the modern periodic table is:
+A) 6
+B) 7
+C) 8
+D) 9
+Answer: B
+---
+The atomic number of sodium is:
+A) 10
+B) 11
+C) 12
+D) 13
+Answer: B
+---
+The valency of carbon is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: D
+---
+The formula of ethanol is:
+A) C₂H₅OH
+B) CH₃COOH
+C) C₆H₁₂O₆
+D) CH₄
+Answer: A
+---
+The focal length of a concave mirror is:
+A) Positive
+B) Negative
+C) Zero
+D) Infinite
+Answer: B
+---
+The SI unit of electric current is:
+A) Volt
+B) Ohm
+C) Ampere
+D) Watt
+Answer: C
+---
+The power of a lens is +2 D. Its focal length is:
+A) 50 cm
+B) 100 cm
+C) 200 cm
+D) 25 cm
+Answer: A
+---
+The image formed by a plane mirror is:
+A) Real and inverted
+B) Virtual and erect
+C) Real and erect
+D) Virtual and inverted
+Answer: B
+---
+The speed of light in vacuum is:
+A) 3 × 10⁸ m/s
+B) 3 × 10⁶ m/s
+C) 3 × 10¹⁰ m/s
+D) 3 × 10⁴ m/s
+Answer: A
+---
+The resistance of a conductor is 2 Ω. If the current is 3 A, the voltage is:
+A) 6 V
+B) 5 V
+C) 1 V
+D) 0.67 V
+Answer: A
+---
+The magnetic field inside a long solenoid is:
+A) Zero
+B) Uniform
+C) Non-uniform
+D) Infinite
+Answer: B
+---
+The human eye forms the image on:
+A) Cornea
+B) Iris
+C) Retina
+D) Lens
+Answer: C
+---
+The least distance of distinct vision for a normal eye is:
+A) 25 cm
+B) 50 cm
+C) 10 cm
+D) 100 cm
+Answer: A
+---
+The defect of vision corrected by a convex lens is:
+A) Myopia
+B) Hypermetropia
+C) Presbyopia
+D) Astigmatism
+Answer: B
+---
+The unit of power of a lens is:
+A) Metre
+B) Dioptre
+C) Watt
+D) Joule
+Answer: B
+---
+The chemical name of baking soda is:
+A) Sodium chloride
+B) Sodium bicarbonate
+C) Calcium carbonate
+D) Sodium hydroxide
+Answer: B
+---
+The gas produced when sodium reacts with water is:
+A) Oxygen
+B) Hydrogen
+C) Carbon dioxide
+D) Nitrogen
+Answer: B
+---
+The metal which is liquid at room temperature is:
+A) Sodium
+B) Potassium
+C) Mercury
+D) Calcium
+Answer: C
+---
+The most reactive metal in the reactivity series is:
+A) Sodium
+B) Potassium
+C) Calcium
+D) Magnesium
+Answer: B
+---
+The ore of aluminium is:
+A) Haematite
+B) Bauxite
+C) Magnetite
+D) Galena
+Answer: B
+---
+The process of acquiring the green colour on copper is called:
+A) Rusting
+B) Corrosion
+C) Galvanisation
+D) Crystallisation
+Answer: B
+---
+The formula of bleaching powder is:
+A) CaOCl₂
+B) Ca(OH)₂
+C) CaCO₃
+D) CaSO₄
+Answer: A
+---
+The acid present in vinegar is:
+A) Hydrochloric acid
+B) Sulphuric acid
+C) Acetic acid
+D) Nitric acid
+Answer: C
+---
+The number of groups in the modern periodic table is:
+A) 16
+B) 17
+C) 18
+D) 19
+Answer: C
+---
+The element with atomic number 17 is:
+A) Fluorine
+B) Chlorine
+C) Bromine
+D) Iodine
+Answer: B
+---
+The homologous series of alkanes has the general formula:
+A) CₙH₂ₙ₊₂
+B) CₙH₂ₙ
+C) CₙH₂ₙ₋₂
+D) CₙH₂ₙ₊₁
+Answer: A
+---
+The functional group in carboxylic acids is:
+A) -OH
+B) -CHO
+C) -COOH
+D) -NH₂
+Answer: C
+---
+The mirror formula is:
+A) 1/f = 1/v + 1/u
+B) 1/f = 1/v - 1/u
+C) f = v + u
+D) f = v - u
+Answer: A
+---
+The power of a concave lens is:
+A) Positive
+B) Negative
+C) Zero
+D) Infinite
+Answer: B
+---
+The SI unit of resistance is:
+A) Volt
+B) Ampere
+C) Ohm
+D) Watt
+Answer: C
+---
+The potential difference across a 5 Ω resistor with 2 A current is:
+A) 10 V
+B) 7 V
+C) 3 V
+D) 2.5 V
+Answer: A
+---
+The direction of magnetic field lines around a current-carrying conductor is given by:
+A) Fleming’s left-hand rule
+B) Fleming’s right-hand rule
+C) Right-hand thumb rule
+D) Left-hand thumb rule
+Answer: C
+---
+The device used to measure potential difference is:
+A) Ammeter
+B) Voltmeter
+C) Galvanometer
+D) Rheostat
+Answer: B
+---
+The defect in which a person cannot see distant objects clearly is:
+A) Myopia
+B) Hypermetropia
+C) Presbyopia
+D) Cataract
+Answer: A
+---
+The splitting of white light into seven colours is called:
+A) Reflection
+B) Refraction
+C) Dispersion
+D) Diffraction
+Answer: C
+---
+The angle of incidence is equal to the angle of reflection. This is the law of:
+A) Refraction
+B) Reflection
+C) Dispersion
+D) Diffraction
+Answer: B
+---
+The refractive index of glass is approximately:
+A) 1.33
+B) 1.5
+C) 1.0
+D) 2.0
+Answer: B
+---
+The chemical formula of quicklime is:
+A) CaO
+B) Ca(OH)₂
+C) CaCO₃
+D) CaSO₄
+Answer: A
+---
+The gas produced when metals react with acids is:
+A) Oxygen
+B) Hydrogen
+C) Nitrogen
+D) Carbon dioxide
+Answer: B
+---
+The metal stored in kerosene is:
+A) Sodium
+B) Iron
+C) Copper
+D) Gold
+Answer: A
+---
+The process of coating iron with zinc is called:
+A) Galvanisation
+B) Electroplating
+C) Anodising
+D) Painting
+Answer: A
+---
+The alloy of copper and zinc is:
+A) Brass
+B) Bronze
+C) Steel
+D) Solder
+Answer: A
+---
+The gas used in advertising signs is:
+A) Hydrogen
+B) Oxygen
+C) Neon
+D) Nitrogen
+Answer: C
+---
+The pH of human blood is approximately:
+A) 5.5
+B) 7.4
+C) 8.0
+D) 9.0
+Answer: B
+---
+The monomer of PVC is:
+A) Ethene
+B) Vinyl chloride
+C) Styrene
+D) Tetrafluoroethene
+Answer: B
+---
+The catalyst used in the hydrogenation of oils is:
+A) Iron
+B) Nickel
+C) Platinum
+D) Copper
+Answer: B
+---
+The number of electrons in the outermost shell of noble gases is:
+A) 1
+B) 2
+C) 7
+D) 8
+Answer: D
+---
+The element with electronic configuration 2, 8, 2 is:
+A) Sodium
+B) Magnesium
+C) Aluminium
+D) Silicon
+Answer: B
+---
+The total number of elements in the periodic table is:
+A) 108
+B) 112
+C) 118
+D) 120 Darius
+Answer: C
+---
+The formula of methane is:
+A) CH₄
+B) C₂H₆
+C) C₃H₈
+D) C₄H₁₀
+Answer: A
+---
+The image formed by a convex lens when the object is at 2F is:
+A) Real, inverted, same size
+B) Virtual, erect, enlarged
+C) Real, inverted, diminished
+D) Virtual, erect, diminished
+Answer: A
+---
+The unit of electric power is:
+A) Volt
+B) Ampere
+C) Ohm
+D) Watt
+Answer: D
+---
+The commercial unit of electrical energy is:
+A) Joule
+B) Watt
+C) Kilowatt-hour
+D) Volt
+Answer: C
+---
+The magnetic field lines emerge from:
+A) North pole
+B) South pole
+C) Centre
+D) Equator
+Answer: A
+---
+The defect of vision in old age is:
+A) Myopia
+B) Hypermetropia
+C) Presbyopia
+D) Astigmatism
+Answer: C
+---
+The phenomenon of scattering of light by colloidal particles is called:
+A) Tyndall effect
+B) Brownian motion
+C) Diffusion
+D) Osmosis
+Answer: A
+---
+The acid present in lemon is:
+A) Acetic acid
+B) Citric acid
+C) Tartaric acid
+D) Lactic acid
+Answer: B
+---
+The base present in soap is:
+A) Sodium hydroxide
+B) Potassium hydroxide
+C) Calcium hydroxide
+D) Magnesium hydroxide
+Answer: A
+---
+The metal which reacts with both acids and bases is:
+A) Zinc
+B) Iron
+C) Copper
+D) Gold
+Answer: A
+---
+The ore of mercury is:
+A) Haematite
+B) Bauxite
+C) Cinnabar
+D) Galena
+Answer: C
+---
+The process of conversion of nitrogen to ammonia is called:
+A) Nitrification
+B) Denitrification
+C) Nitrogen fixation
+D) Ammonification
+Answer: C
+---
+The greenhouse gas responsible for global warming is:
+A) Oxygen
+B) Nitrogen
+C) Carbon dioxide
+D) Argon
+Answer: C
+---
+The unit of refractive index is:
+A) Metre
+B) Dioptre
+C) No unit
+D) Watt
+Answer: C
+---
+The mirror used in solar cookers is:
+A) Plane
+B) Convex
+C) Concave
+D) None
+Answer: C
+---
+The total resistance in a series circuit with 2 Ω and 3 Ω resistors is:
+A) 1 Ω
+B) 5 Ω
+C) 6 Ω
+D) 1.5 Ω
+Answer: B
+---
+The total resistance in a parallel circuit with 2 Ω and 3 Ω resistors is:
+A) 5 Ω
+B) 1.2 Ω
+C) 6 Ω
+D) 1.5 Ω
+Answer: B
+---
+The device that converts electrical energy into mechanical energy is:
+A) Motor
+B) Generator
+C) Transformer
+D) Battery
+Answer: A
+---
+The part of the eye that controls the amount of light entering is:
+A) Cornea
+B) Iris
+C) Pupil
+D) Retina
+Answer: B
+---
+The power of accommodation of the eye is due to:
+A) Cornea
+B) Lens
+C) Retina
+D) Iris
+Answer: B
+---
+The twinkling of stars is due to:
+A) Reflection
+B) Refraction
+C) Dispersion
+D) Diffraction
+Answer: B
+---
+The chemical formula of plaster of Paris is:
+A) CaSO₄·2H₂O
+B) CaSO₄·½H₂O
+C) CaCO₃
+D) Ca(OH)₂
+Answer: B
+---
+The gas used in refrigeration is:
+A) Ammonia
+B) Chlorine
+C) Oxygen
+D) Hydrogen
+Answer: A
+---
+The most electronegative element is:
+A) Sodium
+B) Chlorine
+C) Fluorine
+D) Oxygen
+Answer: C
+---
+The IUPAC name of CH₃COCH₃ is:
+A) Propanone
+B) Ethanal
+C) Methanol
+D) Ethanol
+Answer: A
+---
+The lens used to correct myopia is:
+A) Convex
+B) Concave
+C) Bifocal
+D) Cylindrical
+Answer: B
+---
+The SI unit of magnetic field strength is:
+A) Tesla
+B) Gauss
+C) Weber
+D) Henry
+Answer: A
+---
+The energy source of the sun is:
+A) Chemical reaction
+B) Nuclear fusion
+C) Nuclear fission
+D) Combustion
+Answer: B

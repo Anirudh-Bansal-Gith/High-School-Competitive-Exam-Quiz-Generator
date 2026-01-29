@@ -1,0 +1,517 @@
+The zeros of the quadratic polynomial x² - 5x + 6 are:
+A) 2 and 3
+B) -2 and -3
+C) 5 and 6
+D) -5 and -6
+Answer: A
+---
+If α and β are zeros of x² - 4x + 3, then α + β equals:
+A) 3
+B) 4
+C) -3
+D) -4
+Answer: B
+---
+What is the sum of the first 10 natural numbers?
+A) 45
+B) 55
+C) 60
+D) 50
+Answer: B
+---
+The HCF of 6 and 20 using Euclid’s division algorithm is:
+A) 2
+B) 4
+C) 6
+D) 10
+Answer: A
+---
+The coordinates of the midpoint of the line joining (2, 3) and (4, 7) are:
+A) (3, 5)
+B) (6, 10)
+C) (2, 7)
+D) (1, 4)
+Answer: A
+---
+The roots of the equation x² + 4x + 3 = 0 are:
+A) 1 and 3
+B) -1 and -3
+C) -1 and -2
+D) -3 and -1
+Answer: D
+---
+The 10th term of the arithmetic progression 2, 5, 8, 11, … is:
+A) 20
+B) 29
+C) 30
+D) 32
+Answer: B
+---
+In an A.P., if a = 5 and d = 3, then the 8th term is:
+A) 23
+B) 26
+C) 27
+D) 29
+Answer: B
+---
+The pair of equations x + y = 4 and 2x + 2y = 8 has:
+A) One solution
+B) Two solutions
+C) Infinitely many solutions
+D) No solution
+Answer: C
+---
+The quadratic equation whose roots are 3 and -2 is:
+A) x² - x - 6 = 0
+B) x² + x - 6 = 0
+C) x² + x + 6 = 0
+D) x² - 6x + 1 = 0
+Answer: B
+---
+The slope of the line joining points (2, 3) and (4, 7) is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+---
+The distance between points (3, 4) and (6, 8) is:
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: C
+---
+The coordinates of the point dividing the line segment joining (2, -3) and (4, 1) in the ratio 1:3 are:
+A) (3, -2)
+B) (2.5, -2)
+C) (3.5, 0)
+D) (2, -1)
+Answer: A
+---
+The nth term of an A.P. is given by aₙ = 7 + (n-1)3. What is the 15th term?
+A) 49
+B) 50
+C) 51
+D) 52
+Answer: A
+---
+The sum of the first 20 terms of the A.P. 2, 4, 6, 8, … is:
+A) 200
+B) 210
+C) 220
+D) 240
+Answer: B
+---
+The total surface area of a cube of side 5 cm is:
+A) 100 cm²
+B) 125 cm²
+C) 150 cm²
+D) 150 cm²
+Answer: D
+---
+The area of a circle of radius 7 cm is:
+A) 154 cm²
+B) 143 cm²
+C) 147 cm²
+D) 150 cm²
+Answer: A
+---
+The volume of a sphere of radius 3 cm is:
+A) 36π cm³
+B) 27π cm³
+C) 36 cm³
+D) 81π cm³
+Answer: A
+---
+The curved surface area of a cylinder of radius 7 cm and height 10 cm is:
+A) 440 cm²
+B) 420 cm²
+C) 450 cm²
+D) 500 cm²
+Answer: B
+---
+If sinA = 3/5, then cosA equals:
+A) 4/5
+B) 5/3
+C) 3/4
+D) 1/5
+Answer: A
+---
+tanA = 1 ⇒ A equals:
+A) 30°
+B) 45°
+C) 60°
+D) 90°
+Answer: B
+---
+In a right triangle, if hypotenuse = 10 cm and one side = 6 cm, the other side is:
+A) 8 cm
+B) 7 cm
+C) 9 cm
+D) 5 cm
+Answer: A
+---
+The probability of getting a head when a coin is tossed once is:
+A) 0
+B) 1/2
+C) 1
+D) 2
+Answer: B
+---
+A die is rolled once. The probability of getting an even number is:
+A) 1/6
+B) 1/2
+C) 1/3
+D) 2/3
+Answer: B
+---
+The sum of all angles of a triangle is:
+A) 90°
+B) 120°
+C) 180°
+D) 360°
+Answer: C
+---
+The sum of all interior angles of a quadrilateral is:
+A) 180°
+B) 270°
+C) 360°
+D) 540°
+Answer: C
+---
+The length of the diagonal of a rectangle whose sides are 6 cm and 8 cm is:
+A) 10 cm
+B) 12 cm
+C) 14 cm
+D) 8 cm
+Answer: A
+---
+The area of a triangle with base 8 cm and height 5 cm is:
+A) 10 cm²
+B) 15 cm²
+C) 20 cm²
+D) 25 cm²
+Answer: C
+---
+The value of sin²A + cos²A is:
+A) 0
+B) 1
+C) 2
+D) None
+Answer: B
+---
+The value of tan45° is:
+A) 0
+B) 1
+C) √3
+D) 1/√3
+Answer: B
+---
+The value of sin30° is:
+A) 1
+B) 1/2
+C) √3/2
+D) 0
+Answer: B
+---
+The value of cos60° is:
+A) 1
+B) 1/2
+C) √3/2
+D) 0
+Answer: B
+---
+The length of the tangent drawn from an external point to a circle of radius 5 cm is 12 cm. The distance of the point from the center is:
+A) 12 cm
+B) 13 cm
+C) 17 cm
+D) 10 cm
+Answer: B
+---
+Two tangents drawn from an external point to a circle are:
+A) Equal in length
+B) Unequal
+C) Perpendicular
+D) Parallel
+Answer: A
+---
+The length of the circumference of a circle of radius 7 cm is:
+A) 22 cm
+B) 44 cm
+C) 49 cm
+D) 14 cm
+Answer: B
+---
+If the diameter of a circle is 14 cm, then its area is:
+A) 77 cm²
+B) 100 cm²
+C) 154 cm²
+D) 200 cm²
+Answer: C
+---
+The distance between (3, 4) and (-3, -4) is:
+A) 10
+B) 12
+C) 8
+D) 6
+Answer: A
+---
+A line parallel to one side of a triangle divides the other two sides:
+A) Equally
+B) In the same ratio
+C) Unequally
+D) At random
+Answer: B
+---
+If two triangles are similar, their corresponding sides are:
+A) Equal
+B) Proportional
+C) Unequal
+D) None
+Answer: B
+---
+In ∆ABC, if AB/DE = AC/DF = BC/EF, then ∆ABC ∼ ∆DEF by:
+A) AA criterion
+B) SAS criterion
+C) SSS criterion
+D) RHS criterion
+Answer: C
+---
+In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides. This is:
+A) Thales Theorem
+B) Pythagoras Theorem
+C) Basic Proportionality Theorem
+D) None
+Answer: B
+---
+The median of the data 6, 7, 10, 12, 15, 18, 20 is:
+A) 10
+B) 12
+C) 13.5
+D) 15
+Answer: C
+---
+The mode of the data 2, 3, 3, 5, 5, 5, 6, 7 is:
+A) 3
+B) 5
+C) 6
+D) 7
+Answer: B
+---
+The mean of the first five natural numbers is:
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B
+---
+The probability of drawing a red ball from a bag containing 3 red and 2 blue balls is:
+A) 1/5
+B) 2/5
+C) 3/5
+D) 4/5
+Answer: C
+---
+The pair of equations x + y = 2 and 2x + 2y = 5 are:
+A) Consistent
+B) Inconsistent
+C) Coincident
+D) Dependent
+Answer: B
+---
+The general form of a linear equation in two variables is:
+A) ax + by + c = 0
+B) ax² + bx + c = 0
+C) y = mx + c
+D) x + y = 0
+Answer: A
+---
+The discriminant of a quadratic equation ax² + bx + c = 0 is:
+A) b² - 4ac
+B) b² + 4ac
+C) 4ac - b²
+D) 2b² - 4ac
+Answer: A
+---
+If the discriminant is zero, the roots are:
+A) Real and unequal
+B) Real and equal
+C) Imaginary
+D) None
+Answer: B
+---
+If the radius of a sphere is doubled, its volume increases by:
+A) 2 times
+B) 4 times
+C) 6 times
+D) 8 times
+Answer: D
+---
+The sum of the probabilities of all elementary events is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+---
+The height of a cone is 24 cm and its base radius is 7 cm. Its slant height is:
+A) 25 cm
+B) 26 cm
+C) 28 cm
+D) 30 cm
+Answer: A
+---
+The area of a sector of a circle of radius 7 cm and central angle 90° is:
+A) 38.5 cm²
+B) 49 cm²
+C) 77 cm²
+D) 154 cm²
+Answer: A
+---
+A tangent to a circle is perpendicular to:
+A) Chord
+B) Radius at point of contact
+C) Diameter
+D) Secant
+Answer: B
+---
+In ∆ABC, DE ∥ BC. If AD = 2, DB = 3, then AE/EC = ?
+A) 2/3
+B) 3/2
+C) 1/2
+D) 2
+Answer: A
+---
+sin²60° + cos²60° equals:
+A) 1/2
+B) 1
+C) 3/4
+D) 0
+Answer: B
+---
+The height of a cone is 12 cm and slant height is 13 cm. The radius of the base is:
+A) 5 cm
+B) 6 cm
+C) 7 cm
+D) 12 cm
+Answer: B
+---
+The sum of first n odd numbers is:
+A) n²
+B) 2n
+C) n(n+1)
+D) n³
+Answer: A
+---
+The sum of the first 15 terms of an A.P. whose first term is 2 and common difference is 3 is:
+A) 315
+B) 300
+C) 350
+D) 360
+Answer: A
+---
+The coordinates of the origin are:
+A) (1, 1)
+B) (0, 0)
+C) (1, 0)
+D) (0, 1)
+Answer: B
+---
+The distance between (x₁, y₁) and (x₂, y₂) is given by:
+A) √((x₂ + x₁)² + (y₂ + y₁)²)
+B) √((x₂ - x₁)² + (y₂ - y₁)²)
+C) (x₂ - x₁) + (y₂ - y₁)
+D) (x₂ + x₁) + (y₂ + y₁)
+Answer: B
+---
+The centroid of a triangle divides each median in the ratio:
+A) 1:1
+B) 1:2
+C) 2:1
+D) 3:1
+Answer: C
+---
+The total surface area of a sphere of radius r is:
+A) 2πr²
+B) 4πr²
+C) 3πr²
+D) πr²
+Answer: B
+---
+The volume of a right circular cone is:
+A) (1/2)πr²h
+B) (1/3)πr²h
+C) πr²h
+D) 2πr²h
+Answer: B
+---
+The formula for the sum of an arithmetic progression is:
+A) Sₙ = n/2 [2a + (n - 1)d]
+B) Sₙ = a + (n - 1)d
+C) Sₙ = a + d
+D) Sₙ = 2a + (n - 1)d
+Answer: A
+---
+In an A.P., if a = 3, d = 7, n = 10, find the last term.
+A) 66
+B) 70
+C) 73
+D) 80
+Answer: C
+---
+The sum of the angles of a polygon with n sides is:
+A) (n - 2) × 90°
+B) (n - 2) × 180°
+C) n × 180°
+D) (n - 1) × 180°
+Answer: B
+---
+The mean of first five even numbers is:
+A) 4
+B) 6
+C) 8
+D) 10
+Answer: B
+---
+The mode represents:
+A) Middle value
+B) Most frequent value
+C) Average value
+D) Highest value
+Answer: B
+---
+The median divides the data into:
+A) Two equal parts
+B) Three equal parts
+C) Four equal parts
+D) None
+Answer: A
+---
+The total number of outcomes when two dice are thrown is:
+A) 6
+B) 12
+C) 36
+D) 18
+Answer: C
+---
+The probability of drawing a king from a deck of 52 cards is:
+A) 1/26
+B) 1/13
+C) 1/52
+D) 4/52
+Answer: B
+---
+If the mean of 6, 8, 10, 12, 14 is M, then M equals:
+A) 8
+B) 10
+C) 12
+D) 9
+Answer: B
+---
+The point (x, 0) lies on:
+A) X-axis
+B) Y-axis
+C) Origin
+D) None
+Answer: A

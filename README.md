@@ -42,7 +42,7 @@ Next question...
 ## ⚠️ Notes & Disclaimers
 * **OS Compatibility:** Optimized for Windows.On Linux, quizzes exceeding 60 questions may experience scrolling glitches due to coordinate limits.
 * **Question Accuracy:** The sample questions were AI-generated for testing. Their academic relevance has not been verified; please use your own question sets for actual study.
-* **Ethics:** UI optimization and event handling logic were developed with assistance from Ai.
+* **Ethics:** Some of syntax learning and debuging ws done with the help of AI.
 
 ## 🛠️ Requirements
 * Python 3.x
